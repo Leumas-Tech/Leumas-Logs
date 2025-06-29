@@ -106,3 +106,4 @@
 6/29/2025 16:59:57 Created file node_modules/globalkey/dist/index.node
 6/29/2025 16:59:57 Created file node_modules/globalkey/src/build.rs
 6/29/2025 16:59:57 Created file node_modules/globalkey/src/lib.rs
+6/29/2025 17:03:51 Created folder node_modules/speaker
