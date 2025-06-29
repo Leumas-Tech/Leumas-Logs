@@ -597,3 +597,14 @@
 6/29/2025 17:17:20 Created file Servers/x.morse/node_modules/sudo-prompt/test-concurrent.js
 6/29/2025 17:17:20 Created file Servers/x.morse/node_modules/sudo-prompt/README.md
 6/29/2025 17:17:20 Created file Servers/x.morse/node_modules/sudo-prompt/test.js
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/node-global-key-listener/bin
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/debug/src
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/speaker/.github
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/node-global-key-listener/build
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/speaker/deps
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/speaker/build
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/file-uri-to-path/test
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/speaker/src
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/speaker/examples
+6/29/2025 17:18:49 Created folder Servers/x.morse/node_modules/speaker/test
+6/29/2025 17:19:28 Created folder node_modules/speaker/build/deps/mpg123/Release/obj/output
