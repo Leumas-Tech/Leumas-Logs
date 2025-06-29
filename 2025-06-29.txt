@@ -1013,3 +1013,6 @@
 6/29/2025 17:32:06 Created file Servers/x.morse/node_modules/speaker/deps/mpg123/config/mac/arm/mpg123.h
 6/29/2025 17:32:06 Created file Servers/x.morse/node_modules/speaker/deps/mpg123/config/mac/x64/mpg123.h
 6/29/2025 17:32:06 Created file Servers/x.morse/node_modules/speaker/deps/mpg123/config/mac/x64/config.h
+6/29/2025 17:34:44 Created folder node_modules/speaker/build/deps/mpg123/Release/obj/output/deps/mpg123/src/output
+6/29/2025 17:34:49 Created folder Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output
+6/29/2025 17:34:53 Edited file Servers/x.morse/server.js
