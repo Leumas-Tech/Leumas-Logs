@@ -171,3 +171,11 @@
 6/29/2025 17:09:01 Created file node_modules/speaker/node_modules/ms/license.md
 6/29/2025 17:09:01 Created file node_modules/speaker/node_modules/ms/package.json
 6/29/2025 17:09:01 Created file node_modules/speaker/node_modules/ms/readme.md
+6/29/2025 17:10:29 Created folder node_modules/speaker/deps/mpg123/config
+6/29/2025 17:10:29 Created folder node_modules/speaker/deps/mpg123/m4
+6/29/2025 17:10:29 Created folder node_modules/speaker/deps/mpg123/man1
+6/29/2025 17:10:29 Created folder node_modules/speaker/deps/mpg123/scripts
+6/29/2025 17:10:29 Created folder node_modules/speaker/deps/mpg123/src
+6/29/2025 17:10:29 Created folder node_modules/speaker/build/deps/mpg123
+6/29/2025 17:10:29 Created folder node_modules/speaker/build/Release/obj
+6/29/2025 17:10:29 Created folder node_modules/speaker/node_modules/debug/src
