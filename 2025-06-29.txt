@@ -1021,3 +1021,11 @@
 6/29/2025 17:35:48 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/win_delay_load_hook.obj
 6/29/2025 17:38:49 Created folder Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/deps
 6/29/2025 17:38:49 Created folder Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/CL.command.1.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/Cl.items.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/CL.write.1.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/Lib-link.read.1.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/CL.read.1.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/Lib-link.write.1.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/Lib.command.1.tlog
+6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/output.lastbuildstate
