@@ -107,3 +107,9 @@
 6/29/2025 16:59:57 Created file node_modules/globalkey/src/build.rs
 6/29/2025 16:59:57 Created file node_modules/globalkey/src/lib.rs
 6/29/2025 17:03:51 Created folder node_modules/speaker
+6/29/2025 17:04:50 Created file node_modules/speaker/binding.gyp
+6/29/2025 17:04:50 Created file node_modules/speaker/index.d.ts
+6/29/2025 17:04:50 Created file node_modules/speaker/History.md
+6/29/2025 17:04:50 Created file node_modules/speaker/README.md
+6/29/2025 17:04:50 Created file node_modules/speaker/package.json
+6/29/2025 17:04:50 Created file node_modules/speaker/index.js
