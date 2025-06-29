@@ -1029,3 +1029,4 @@
 6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/Lib-link.write.1.tlog
 6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/Lib.command.1.tlog
 6/29/2025 17:39:50 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog/output.lastbuildstate
+6/29/2025 17:43:01 Created folder Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/deps/mpg123
