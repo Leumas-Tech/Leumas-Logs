@@ -1019,3 +1019,5 @@
 6/29/2025 17:35:43 Created file node_modules/speaker/build/deps/mpg123/Release/obj/output/deps/mpg123/src/output/win32.obj
 6/29/2025 17:35:48 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/liboutput.lib.recipe
 6/29/2025 17:35:48 Created file Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/win_delay_load_hook.obj
+6/29/2025 17:38:49 Created folder Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/deps
+6/29/2025 17:38:49 Created folder Servers/x.morse/node_modules/speaker/build/deps/mpg123/Release/obj/output/output.tlog
