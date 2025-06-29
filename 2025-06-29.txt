@@ -815,3 +815,4 @@
 6/29/2025 17:25:28 Created file Servers/x.morse/node_modules/speaker/deps/mpg123/src/win32_support.c
 6/29/2025 17:25:28 Created file Servers/x.morse/node_modules/speaker/deps/mpg123/src/xfermem.c
 6/29/2025 17:25:28 Created file Servers/x.morse/node_modules/speaker/deps/mpg123/src/xfermem.h
+6/29/2025 17:26:36 Created folder node_modules/speaker/build/deps/mpg123/Release/obj/output/deps/mpg123
