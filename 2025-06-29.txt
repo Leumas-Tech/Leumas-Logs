@@ -128,3 +128,9 @@
 6/29/2025 17:06:48 Created file node_modules/speaker/examples/stdin.js
 6/29/2025 17:06:48 Created file node_modules/speaker/src/binding.c
 6/29/2025 17:06:48 Created file node_modules/speaker/test/test.js
+6/29/2025 17:08:02 Created folder node_modules/speaker/deps/mpg123
+6/29/2025 17:08:02 Created folder node_modules/speaker/build/deps
+6/29/2025 17:08:02 Created folder node_modules/speaker/build/Release
+6/29/2025 17:08:02 Created folder node_modules/speaker/.github/workflows
+6/29/2025 17:08:02 Created folder node_modules/speaker/node_modules/debug
+6/29/2025 17:08:02 Created folder node_modules/speaker/node_modules/ms
