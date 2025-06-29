@@ -341,3 +341,14 @@
 6/29/2025 17:11:30 Created file node_modules/speaker/node_modules/debug/src/browser.js
 6/29/2025 17:11:30 Created file node_modules/speaker/node_modules/debug/src/index.js
 6/29/2025 17:11:30 Created file node_modules/speaker/node_modules/debug/src/node.js
+6/29/2025 17:12:37 Created file Servers/x.morse/package.json
+6/29/2025 17:13:07 Created file Servers/x.morse/package-lock.json
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/config/freebsd
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/config/mac
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/config/win
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/config/solaris
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/config/linux
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/src/output
+6/29/2025 17:13:17 Created folder node_modules/speaker/deps/mpg123/src/libmpg123
+6/29/2025 17:13:17 Created folder node_modules/speaker/build/Release/obj/binding
+6/29/2025 17:13:17 Created folder node_modules/speaker/build/deps/mpg123/Release
