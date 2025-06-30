@@ -34458,3 +34458,13 @@
 6/30/2025 18:06:41 Created file z.Domains2/imperium/version 5/dist/assets/Wormhole-legacy-CG2kYsRs.js
 6/30/2025 18:06:41 Created file z.Domains2/imperium/version 5/dist/assets/ZapierCell-legacy-C1ocjYpQ.js
 6/30/2025 18:06:41 Created file z.Domains2/imperium/version 5/dist/assets/ZapierCell-CvjfrbYB.js
+6/30/2025 18:08:26 Created folder z.Domains2/imperium/version 5/dist/Audio/Music
+6/30/2025 18:08:26 Created folder z.Domains2/imperium/version 5/dist/~partytown/debug
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/Audio/Music/HereIGoAgain.mp3
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown-atomics.js
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown-media.js
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown-sandbox-sw.js
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown-sw.js
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown-ww-atomics.js
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown-ww-sw.js
+6/30/2025 18:09:27 Created file z.Domains2/imperium/version 5/dist/~partytown/debug/partytown.js
