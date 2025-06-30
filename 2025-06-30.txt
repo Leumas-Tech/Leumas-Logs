@@ -1090,3 +1090,16 @@
 6/29/2025 21:51:36 Edited file Servers/ImperiumLive/user-events.log
 6/29/2025 21:51:39 Edited file leumas-api.leumas.tech/error.log
 6/29/2025 21:54:57 Edited file Servers/ImperiumLive/user-events.log
+6/29/2025 22:11:43 Edited file Servers/ImperiumLive/user-events.log
+6/29/2025 22:11:45 Deleted file z.Domains2/node_modules/leumas/src/Shared/Hooks/pageLogger.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/node_modules/leumas/src/Shared/Hooks/useUserActivity.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/node_modules/leumas/src/Shared/Hooks/useGlobalValue.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/node_modules/leumas/src/Shared/Hooks/useCustomAuth.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/core/src/Shared/Hooks/pageLogger.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/core/src/Shared/Hooks/useGlobalValue.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/core/src/Shared/Hooks/useUserActivity.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/core/src/Shared/Hooks/useCustomAuth.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/core/src/Shared/Hooks/index.jsx
+6/29/2025 22:11:45 Deleted file z.Domains2/node_modules/leumas/src/Shared/Hooks/index.jsx
+6/29/2025 22:12:00 Deleted folder z.Domains2/core/src/Shared/Hooks
+6/29/2025 22:12:00 Deleted folder z.Domains2/node_modules/leumas/src/Shared/Hooks
