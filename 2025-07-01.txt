@@ -18678,3 +18678,15 @@
 7/1/2025 15:08:42 Edited file tools/a.embeddings/index.js
 7/1/2025 15:16:21 Edited file tools/a.embeddings/router.js
 7/1/2025 15:17:49 Created folder assets/Embeddings
+7/1/2025 15:19:06 Edited file tools/a.embeddings/adapters/folderAdapter.js
+7/1/2025 15:19:35 Edited file tools/a.embeddings/adapters/folderAdapter.js
+7/1/2025 15:19:49 Created folder assets/Embeddings/2025-07-01_20-16-01
+7/1/2025 15:20:07 Edited file tools/a.embeddings/index.js
+7/1/2025 15:20:22 Edited file tools/a.embeddings/index.js
+7/1/2025 15:20:37 Created folder tools/a.embeddings/router
+7/1/2025 15:20:50 Created file assets/Embeddings/2025-07-01_20-16-01/embeddings.json
+7/1/2025 15:21:07 Edited file tools/a.embeddings/index.js
+7/1/2025 15:21:36 Created file tools/a.embeddings/router/engine.js
+7/1/2025 15:22:21 Edited file tools/a.embeddings/router/engine.js
+7/1/2025 15:22:36 Edited file tools/a.embeddings/adapters/folderAdapter.js
+7/1/2025 15:22:51 Edited file tools/a.embeddings/adapters/folderAdapter.js
