@@ -3564,3 +3564,12 @@
 6/30/2025 19:36:18 Edited file z.Domains2/ComponentUsage.js
 6/30/2025 19:36:20 Edited file z.Domains2/core/src/component-usage-report.json
 6/30/2025 19:36:24 Edited file z.Domains2/node_modules/leumas/src/component-usage-report.json
+6/30/2025 19:41:21 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:42:08 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:42:40 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:42:55 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:43:26 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:44:13 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:44:45 Edited file z.Domains2/ComponentUsageDeprecated.js
+6/30/2025 19:45:40 Created file z.Domains2/node_modules/leumas/src/unused-components-detailed.json
+6/30/2025 19:45:46 Created file z.Domains2/core/src/unused-components-detailed.json
