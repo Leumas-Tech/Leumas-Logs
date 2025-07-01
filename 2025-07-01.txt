@@ -18674,3 +18674,4 @@
 7/1/2025 14:44:49 Edited file Scripts/cosine-similarity/leumas-search.js
 7/1/2025 14:45:19 Edited file Scripts/cosine-similarity/leumas-search.js
 7/1/2025 14:46:18 Edited file Scripts/cosine-similarity/leumas-search.js
+7/1/2025 15:06:01 Created file tools/a.embeddings/adapters/folderAdapter.js
