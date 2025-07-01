@@ -18483,3 +18483,9 @@
 7/1/2025 11:25:21 Created file tools/a.embeddings/core/flattenJSON.js
 7/1/2025 11:26:28 Edited file tools/a.embeddings/adapters/textAdapter.js
 7/1/2025 11:26:28 Edited file tools/a.embeddings/utils.js
+7/1/2025 11:35:29 Edited file tools/a.embeddings/adapters/textAdapter.js
+7/1/2025 11:35:29 Edited file tools/a.embeddings/core/tokenizer.js
+7/1/2025 11:35:29 Edited file tools/a.embeddings/utils.js
+7/1/2025 11:35:47 Edited file tools/a.embeddings/index.js
+7/1/2025 11:36:05 Edited file tools/a.embeddings/index.js
+7/1/2025 11:36:39 Edited file tools/a.embeddings/index.js
