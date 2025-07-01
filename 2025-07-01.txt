@@ -18497,3 +18497,5 @@
 7/1/2025 13:11:10 Edited file leumas-api.leumas.tech/error.log
 7/1/2025 13:11:11 Edited file leumas-api.leumas.tech/success.log
 7/1/2025 13:11:27 Edited file leumas-api.leumas.tech/success.log
+7/1/2025 13:34:08 Created folder Scripts/cosine-similarity
+7/1/2025 13:35:14 Created file Scripts/cosine-similarity/document-similarity.js
