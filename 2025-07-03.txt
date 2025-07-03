@@ -555,3 +555,32 @@
 7/3/2025 13:08:36 Created file z.Domains2/node_modules/leumas/node_modules/.vite/deps/react-icons.js.map
 7/3/2025 13:26:46 Created folder assets/Videos
 7/3/2025 13:27:50 Created file assets/Videos/AI Eye.html
+7/3/2025 13:28:59 Created folder assets/Videos/AI Eye_files
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/1162-cb95597eaa7bb54f.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/1350-6a6728eab5c5df20.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/2264-f6e1db05c9fde455.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/400b11bd-1e51e9bcd24efc68.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/4112-3f1225feb25ba957.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/4467-522061aa7aa93ee4.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/880-10b99d8feca3fc6b.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/5986-b442ce08292fdf80.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/8ff80f0bc990e679.css
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/734-1029d68aef4aa628.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/93923311-b4b6e54e24ebb499.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/assets_task_01jz8gsks3f2etrtk8p4n0gmp5_task_01jz8gsks3f2etrtk8p4n0gmp5_genid_4ba6f8ca-d455-4510-9757-fd42c320928e_25_07_03_16_10_032305_videos_00000_228412672_thumb.webp
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/f917dc89ec905c8a.css
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/assets_task_01jz8h4pe7ffmvzk5hgrerjyvc_task_01jz8h4pe7ffmvzk5hgrerjyvc_genid_4779fbb0-56e1-4786-9a71-6812ff3c8e37_25_07_03_16_16_774387_videos_00000_656004376_thumb.webp
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/assets_task_01jz8jb0xdfczvpyd3r3mdf90e_task_01jz8jb0xdfczvpyd3r3mdf90e_genid_0dbad30a-d19d-4a90-9bb5-6a5c7cc7edef_25_07_03_16_38_900428_videos_00000_841858753_thumb.webp
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/assets_task_01jz8hh2d5fcyb4gkwpmn674f9_task_01jz8hh2d5fcyb4gkwpmn674f9_genid_683c3369-ec69-405c-8fa6-f8a7d5330020_25_07_03_16_24_607259_videos_00000_214882121_thumb.webp
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/layout-9bd9d4d9a8431258.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/frame.html
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/layout-ca2701f2c715e0c3.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/saved_resource.html
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/main-app-ffb47fb1093e40b8.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/page-16f30f0b5f5cd97c.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/polyfills-42372ed130431b0a.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/sdk(1).js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/sdk.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/sdk(2).js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/webpack-843f322e95ab594a.js.download
+7/3/2025 13:30:03 Created file assets/Videos/AI Eye_files/unnamed.png
