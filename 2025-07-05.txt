@@ -8328,3 +8328,71 @@
 7/5/2025 15:16:40 Edited file Servers/ImperiumLive/user-events.log
 7/5/2025 15:17:02 Edited file Servers/ImperiumLive/user-events.log
 7/5/2025 16:16:43 Created folder z.Domains2/templates/Rainmeter
+7/5/2025 16:19:57 Created folder z.Domains2/templates/Rainmeter/Clock
+7/5/2025 16:19:57 Created folder z.Domains2/templates/Rainmeter/Google
+7/5/2025 16:19:57 Created folder z.Domains2/templates/Rainmeter/LeumasLogo
+7/5/2025 16:19:57 Created folder z.Domains2/templates/Rainmeter/Disk
+7/5/2025 16:19:57 Created folder z.Domains2/templates/Rainmeter/Basic
+7/5/2025 16:20:11 Edited file Servers/ImperiumLive/user-events.log
+7/5/2025 16:21:11 Created folder z.Domains2/templates/Rainmeter/Network
+7/5/2025 16:21:11 Created folder z.Domains2/templates/Rainmeter/System
+7/5/2025 16:21:11 Created folder z.Domains2/templates/Rainmeter/RecycleBin
+7/5/2025 16:21:11 Created file z.Domains2/templates/Rainmeter/LeumasLogo/LeumasLogo.ini
+7/5/2025 16:21:13 Edited file z.Domains2/core/src/unused-components-detailed.json
+7/5/2025 16:21:22 Edited file z.Domains2/node_modules/leumas/src/unused-components-detailed.json
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/@Resources
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/Clock
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/Recycle Bin
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/Disk
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/Google
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/Network
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/System
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Clock/Welcome
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Google/@Resources
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Google/Google
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/LeumasLogo/@Resources
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/@Resources
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/Clock
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/Disk
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/Google
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/Recycle Bin
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/Network
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/System
+7/5/2025 16:23:02 Created folder z.Domains2/templates/Rainmeter/Disk/Welcome
+7/5/2025 16:24:14 Created folder z.Domains2/templates/Rainmeter/Network/Network
+7/5/2025 16:24:14 Created folder z.Domains2/templates/Rainmeter/Network/@Resources
+7/5/2025 16:24:14 Created folder z.Domains2/templates/Rainmeter/System/System
+7/5/2025 16:24:14 Created folder z.Domains2/templates/Rainmeter/System/@Resources
+7/5/2025 16:24:14 Created folder z.Domains2/templates/Rainmeter/RecycleBin/Recycle Bin
+7/5/2025 16:24:14 Created folder z.Domains2/templates/Rainmeter/RecycleBin/@Resources
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Clock/Clock.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Disk/2 Disks.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Disk/1 Disk.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Network/Network.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/@Resources/Background.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Recycle Bin/Recycle Bin.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Welcome/Background.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/System/System.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Google/@Resources/Background.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/LeumasLogo/@Resources/Background.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/LeumasLogo/@Resources/LeumasLogo.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Welcome/Welcome.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Google/Google/Google.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/@Resources/Background.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/LeumasLogo/@Resources/LeumasLogo.svg
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Disk/1 Disk.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Clock/Clock.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Disk/2 Disks.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Google/Google.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Recycle Bin/Recycle Bin.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Network/Network.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/System/System.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Clock/Google/Google.ini
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Welcome/Background.png
+7/5/2025 16:24:14 Created file z.Domains2/templates/Rainmeter/Disk/Welcome/Welcome.ini
+7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/Network/Network/Network.ini
+7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/Network/@Resources/Background.png
+7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/System/System/System.ini
+7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/System/@Resources/Background.png
+7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/RecycleBin/Recycle Bin/Recycle Bin.ini
+7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/RecycleBin/@Resources/Background.png
