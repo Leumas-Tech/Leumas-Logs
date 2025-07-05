@@ -8396,3 +8396,5 @@
 7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/System/@Resources/Background.png
 7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/RecycleBin/Recycle Bin/Recycle Bin.ini
 7/5/2025 16:25:27 Created file z.Domains2/templates/Rainmeter/RecycleBin/@Resources/Background.png
+7/5/2025 16:58:28 Edited file z.Domains2/core/.env.development
+7/5/2025 16:58:30 Edited file z.Domains2/node_modules/leumas/.env.development
