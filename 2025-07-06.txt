@@ -532,3 +532,7 @@
 7/6/2025 17:45:52 Created file NPM/leumas-middleware/lib/logicals-system/adapters/SetOperators/index.js
 7/6/2025 17:46:52 Created folder NPM/leumas-middleware/lib/logicals-system/adapters/Nullish
 7/6/2025 17:47:49 Created folder NPM/leumas-middleware/lib/logicals-system/adapters/Retry
+7/6/2025 17:48:08 Created file NPM/leumas-middleware/lib/logicals-system/adapters/Nullish/index.js
+7/6/2025 17:48:28 Created folder NPM/leumas-middleware/lib/logicals-system/adapters/FallbackChain
+7/6/2025 17:49:06 Created file NPM/leumas-middleware/lib/logicals-system/adapters/Retry/index.js
+7/6/2025 17:49:44 Created file NPM/leumas-middleware/lib/logicals-system/adapters/FallbackChain/index.js
