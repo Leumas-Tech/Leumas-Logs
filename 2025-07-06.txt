@@ -511,3 +511,4 @@
 7/6/2025 17:15:09 Edited file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
 7/6/2025 17:15:48 Edited file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
 7/6/2025 17:17:25 Created file NPM/leumas-middleware/lib/logicals-system/tests/list-adapters.js
+7/6/2025 17:36:32 Edited file NPM/leumas-middleware/lib/logicals-system/metadata.js
