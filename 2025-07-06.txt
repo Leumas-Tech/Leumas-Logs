@@ -500,3 +500,14 @@
 7/6/2025 17:04:28 Created file NPM/leumas-middleware/lib/logicals-system/adapters/JSON/index.js
 7/6/2025 17:06:10 Edited file NPM/leumas-middleware/lib/logicals-system/index.js
 7/6/2025 17:07:10 Created file NPM/leumas-middleware/lib/logicals-system/backendLogic.js
+7/6/2025 17:08:31 Edited file NPM/leumas-middleware/lib/logicals-system/index.js
+7/6/2025 17:09:11 Edited file NPM/leumas-middleware/lib/logicals-system/index.js
+7/6/2025 17:09:50 Created folder NPM/leumas-middleware/lib/logicals-system/tests
+7/6/2025 17:11:09 Created file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
+7/6/2025 17:13:31 Edited file NPM/leumas-middleware/lib/logicals-system/index.js
+7/6/2025 17:14:03 Edited file Servers/z.Programming/Router/Logicals/Array&Aggregation/index.js
+7/6/2025 17:14:30 Edited file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
+7/6/2025 17:14:50 Edited file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
+7/6/2025 17:15:09 Edited file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
+7/6/2025 17:15:48 Edited file NPM/leumas-middleware/lib/logicals-system/tests/test-adapters.js
+7/6/2025 17:17:25 Created file NPM/leumas-middleware/lib/logicals-system/tests/list-adapters.js
