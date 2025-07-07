@@ -1,2 +1,9 @@
 7/6/2025 19:00:45 Created folder NPM/leumas-middleware/lib/a.helpers/tests
 7/6/2025 19:00:45 Created folder NPM/leumas-middleware/lib/a.helpers/adapaters
+7/6/2025 19:33:22 Created file NPM/leumas-middleware/lib/a.helpers/adapaters/BulkForgeAdapter.js
+7/6/2025 19:33:22 Created file NPM/leumas-middleware/lib/a.helpers/adapaters/BaseAdapter.js
+7/6/2025 19:33:22 Created file NPM/leumas-middleware/lib/a.helpers/adapaters/index.js
+7/6/2025 19:33:43 Edited file NPM/leumas-middleware/lib/a.helpers/metadata.js
+7/6/2025 19:34:02 Edited file NPM/leumas-middleware/lib/a.helpers/index.js
+7/6/2025 19:34:59 Created file NPM/leumas-middleware/lib/a.helpers/tests/other-project.js
+7/6/2025 19:34:59 Created file NPM/leumas-middleware/lib/a.helpers/tests/test1.js
