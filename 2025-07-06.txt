@@ -543,3 +543,8 @@
 7/6/2025 18:56:37 Created folder NPM/leumas-middleware/lib/a.bulkforge/adapters
 7/6/2025 18:56:37 Created folder NPM/leumas-middleware/lib/a.bulkforge/tests
 7/6/2025 18:57:34 Created folder NPM/leumas-middleware/lib/a.helpers
+7/6/2025 18:57:53 Created file NPM/leumas-middleware/lib/a.bulkforge/adapters/ChatAdapter.js
+7/6/2025 18:57:53 Created file NPM/leumas-middleware/lib/a.bulkforge/adapters/CommandLineAdapter.js
+7/6/2025 18:57:53 Created file NPM/leumas-middleware/lib/a.bulkforge/tests/demo.js
+7/6/2025 18:58:50 Created file NPM/leumas-middleware/lib/a.helpers/index.js
+7/6/2025 18:58:50 Created file NPM/leumas-middleware/lib/a.helpers/metadata.js
