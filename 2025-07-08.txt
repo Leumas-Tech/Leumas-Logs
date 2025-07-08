@@ -67,3 +67,25 @@
 7/8/2025 08:37:35 Created file Servers/z.programming2/tests/utils/startup/logAvailableGrids.test.js
 7/8/2025 08:37:35 Created file Servers/z.programming2/tests/utils/startup/logLocalAdapters.test.js
 7/8/2025 08:37:35 Created file Servers/z.programming2/tests/utils/startup/logMiddlewareSystemAdapters.test.js
+7/8/2025 08:38:14 Edited file Servers/z.programming2/tests/utils/grids/readGrid.test.js
+7/8/2025 08:38:33 Edited file Servers/z.programming2/tests/utils/startup/logAvailableGrids.test.js
+7/8/2025 08:38:52 Edited file Servers/z.programming2/tests/utils/startup/logLocalAdapters.test.js
+7/8/2025 08:38:52 Edited file Servers/z.programming2/tests/utils/startup/logMiddlewareSystemAdapters.test.js
+7/8/2025 08:39:32 Created folder Servers/z.programming2/adapters/test-system
+7/8/2025 08:41:09 Created file Servers/z.programming2/create-demo-grids.js
+7/8/2025 08:42:47 Created folder Servers/z.programming2/adapters/test-system/adapters
+7/8/2025 08:43:47 Created folder Servers/z.programming2/data/grids/1751982018915
+7/8/2025 08:43:47 Created folder Servers/z.programming2/data/grids/1751982018919
+7/8/2025 08:43:47 Created folder Servers/z.programming2/data/grids/1751982018910
+7/8/2025 08:46:02 Edited file NPM/leumas-middleware/lib/workflow-system/workflow-runner.js
+7/8/2025 08:46:11 Edited file NPM/leumas-middleware/lib/workflow-system/workflow-router.js
+7/8/2025 08:46:44 Created file NPM/leumas-middleware/lib/workflow-system/adapter-loader.js
+7/8/2025 08:46:52 Deleted file NPM/leumas-middleware/lib/workflow-system/workflow-runner copy.js
+7/8/2025 08:47:08 Deleted file NPM/leumas-middleware/lib/workflow-system/plugins/OpenAIAdapater/index.js
+7/8/2025 08:47:13 Deleted file NPM/leumas-middleware/lib/workflow-system/adapters/index.js
+7/8/2025 08:47:19 Created folder Servers/z.programming2/data/grids/1751982018919/meta
+7/8/2025 08:47:19 Created folder Servers/z.programming2/data/grids/1751982018915/meta
+7/8/2025 08:47:19 Created folder Servers/z.programming2/data/grids/1751982018915/layers
+7/8/2025 08:47:19 Created folder Servers/z.programming2/data/grids/1751982018919/layers
+7/8/2025 08:47:19 Created folder Servers/z.programming2/data/grids/1751982018910/meta
+7/8/2025 08:47:19 Created folder Servers/z.programming2/data/grids/1751982018910/layers
