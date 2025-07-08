@@ -1606,3 +1606,6 @@
 7/8/2025 12:22:24 Created folder NPM/leumas-middleware/lib/connector-system/test
 7/8/2025 12:23:33 Created file NPM/leumas-middleware/lib/connector-system/test/index.test.js
 7/8/2025 12:27:24 Created folder NPM/leumas-middleware/lib/device-system/docs
+7/8/2025 12:28:34 Created file NPM/leumas-middleware/lib/device-system/docs/init.md
+7/8/2025 12:28:34 Created file NPM/leumas-middleware/lib/device-system/docs/sendCommand.md
+7/8/2025 12:36:40 Created folder NPM/leumas-middleware/lib/device-system/tests
