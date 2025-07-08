@@ -1611,3 +1611,8 @@
 7/8/2025 12:36:40 Created folder NPM/leumas-middleware/lib/device-system/tests
 7/8/2025 12:46:12 Created file NPM/leumas-middleware/lib/device-system/tests/init.test.js
 7/8/2025 12:46:12 Created file NPM/leumas-middleware/lib/device-system/tests/sendCommand.test.js
+7/8/2025 12:48:13 Edited file NPM/leumas-middleware/lib/device-system/tests/init.test.js
+7/8/2025 12:48:13 Edited file NPM/leumas-middleware/lib/device-system/tests/sendCommand.test.js
+7/8/2025 12:54:42 Created folder NPM/leumas-middleware/lib/event-listener/docs
+7/8/2025 12:55:51 Created file NPM/leumas-middleware/lib/event-listener/docs/index.md
+7/8/2025 12:55:51 Created file NPM/leumas-middleware/lib/event-listener/docs/README.md
