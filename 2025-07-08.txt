@@ -107,3 +107,10 @@
 7/8/2025 08:53:50 Created file NPM/leumas-middleware/lib/workflow-system/test/workflow-runner.test.js
 7/8/2025 08:53:51 Created file NPM/leumas-middleware/lib/workflow-system/jest.config.js
 7/8/2025 08:54:29 Created file NPM/leumas-middleware/lib/workflow-system/package.json
+7/8/2025 08:58:18 Created folder NPM/leumas-middleware/lib/workflow-system/docs
+7/8/2025 09:01:09 Created file NPM/leumas-middleware/lib/workflow-system/docs/architecture.md
+7/8/2025 09:01:09 Created file NPM/leumas-middleware/lib/workflow-system/docs/README.md
+7/8/2025 09:01:28 Created file NPM/leumas-middleware/lib/workflow-system/docs/workflow-definition.md
+7/8/2025 09:05:15 Created file NPM/leumas-middleware/lib/workflow-system/docs/adapters.md
+7/8/2025 09:05:15 Created file NPM/leumas-middleware/lib/workflow-system/docs/custom-adapters.md
+7/8/2025 09:06:32 Created file NPM/leumas-middleware/lib/workflow-system/docs/workflow-router.md
