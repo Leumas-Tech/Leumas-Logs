@@ -1579,3 +1579,16 @@
 7/8/2025 10:36:52 Edited file NPM/leumas-middleware/lib/database-connector/tests/redis/redis.test.js
 7/8/2025 10:37:27 Edited file NPM/leumas-middleware/lib/database-connector/tests/sql/sql.test.js
 7/8/2025 10:37:34 Deleted file NPM/leumas-middleware/lib/database-connector/tests/test-runner.js
+7/8/2025 10:39:40 Created file NPM/leumas-middleware/lib/database-connector/tests/run-all-tests.js
+7/8/2025 10:40:32 Edited file NPM/leumas-middleware/lib/database-connector/tests/run-all-tests.js
+7/8/2025 10:41:37 Edited file NPM/leumas-middleware/lib/database-connector/routers/universalcrud.js
+7/8/2025 10:41:50 Created file NPM/leumas-middleware/lib/database-connector/docs/aws.md
+7/8/2025 10:41:50 Created file NPM/leumas-middleware/lib/database-connector/docs/cloudinary.md
+7/8/2025 10:41:50 Created file NPM/leumas-middleware/lib/database-connector/docs/csv-file.md
+7/8/2025 10:42:08 Created file NPM/leumas-middleware/lib/database-connector/docs/firebase.md
+7/8/2025 10:42:08 Created file NPM/leumas-middleware/lib/database-connector/docs/json-file.md
+7/8/2025 10:42:25 Created file NPM/leumas-middleware/lib/database-connector/docs/json-folder.md
+7/8/2025 10:42:42 Created file NPM/leumas-middleware/lib/database-connector/docs/local-fs.md
+7/8/2025 10:43:00 Created file NPM/leumas-middleware/lib/database-connector/docs/mongo.md
+7/8/2025 10:43:00 Created file NPM/leumas-middleware/lib/database-connector/docs/redis.md
+7/8/2025 10:43:17 Created file NPM/leumas-middleware/lib/database-connector/docs/sql.md
