@@ -1599,3 +1599,7 @@
 7/8/2025 11:37:36 Edited file NPM/leumas-middleware/lib/connector-system/index.js
 7/8/2025 11:46:12 Created folder NPM/leumas-middleware/lib/connector-system/adapters/soap-api
 7/8/2025 11:47:23 Created file NPM/leumas-middleware/lib/connector-system/adapters/soap-api/index.js
+7/8/2025 11:49:07 Created folder NPM/leumas-middleware/lib/connector-system/adapters/file-system
+7/8/2025 11:49:07 Created folder NPM/leumas-middleware/lib/connector-system/adapters/database-connector
+7/8/2025 11:50:18 Created file NPM/leumas-middleware/lib/connector-system/adapters/file-system/index.js
+7/8/2025 11:50:18 Created file NPM/leumas-middleware/lib/connector-system/adapters/database-connector/index.js
