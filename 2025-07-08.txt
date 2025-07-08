@@ -164,3 +164,10 @@
 7/8/2025 09:43:33 Created file NPM/leumas-middleware/lib/a.methods/docs/CacheMethod.md
 7/8/2025 09:43:33 Created file NPM/leumas-middleware/lib/a.methods/docs/TemplateRenderMethod.md
 7/8/2025 09:43:53 Created file NPM/leumas-middleware/lib/a.methods/docs/StringManipulateMethod.md
+7/8/2025 09:53:29 Edited file NPM/leumas-middleware/lib/database-connector/index.js
+7/8/2025 09:54:48 Created folder NPM/leumas-middleware/lib/database-connector/docs
+7/8/2025 09:55:59 Created file NPM/leumas-middleware/lib/database-connector/docs/adapter-factory.md
+7/8/2025 09:55:59 Created file NPM/leumas-middleware/lib/database-connector/docs/README.md
+7/8/2025 09:55:59 Created file NPM/leumas-middleware/lib/database-connector/docs/middleware.md
+7/8/2025 09:55:59 Created file NPM/leumas-middleware/lib/database-connector/docs/realtime-layer.md
+7/8/2025 09:55:59 Created file NPM/leumas-middleware/lib/database-connector/docs/universal-crud.md
