@@ -1597,3 +1597,5 @@
 7/8/2025 11:29:33 Edited file NPM/leumas-middleware/lib/database-connector/tests/run-all-tests.js
 7/8/2025 11:35:39 Created file NPM/leumas-middleware/lib/database-connector/metadata.json
 7/8/2025 11:37:36 Edited file NPM/leumas-middleware/lib/connector-system/index.js
+7/8/2025 11:46:12 Created folder NPM/leumas-middleware/lib/connector-system/adapters/soap-api
+7/8/2025 11:47:23 Created file NPM/leumas-middleware/lib/connector-system/adapters/soap-api/index.js
