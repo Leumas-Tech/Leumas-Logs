@@ -1,0 +1,16 @@
+7/11/2025 19:00:08 Created file node_modules/vm2/bin/vm2
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/bridge.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/builtin.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/cli.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/compiler.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/main.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/nodevm.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/filesystem.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/events.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/resolver-compat.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/resolver.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/script.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/setup-sandbox.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/transformer.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/vm.js
+7/11/2025 19:00:08 Created file node_modules/vm2/lib/setup-node-sandbox.js
