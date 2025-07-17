@@ -194,3 +194,9 @@
 7/17/2025 01:45:31 Edited file NPM/leumas-middleware/lib/a.methods/index.js
 7/17/2025 01:46:06 Edited file NPM/leumas-middleware/lib/a.methods/index.js
 7/17/2025 01:46:41 Edited file NPM/leumas-middleware/lib/connector-system/index.js
+7/17/2025 01:48:08 Edited file NPM/leumas-middleware/lib/device-system/index.js
+7/17/2025 01:48:44 Edited file NPM/leumas-middleware/lib/logicals-system/index.js
+7/17/2025 01:49:20 Edited file NPM/leumas-middleware/lib/transformation-system/index.js
+7/17/2025 01:49:20 Edited file NPM/leumas-middleware/lib/orchestration-system/index.js
+7/17/2025 01:50:48 Edited file NPM/leumas-middleware/lib/workflow-system/index.js
+7/17/2025 01:51:05 Edited file NPM/leumas-middleware/lib/orchestration-system/index.js
