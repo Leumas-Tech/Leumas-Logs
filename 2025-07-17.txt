@@ -2001,3 +2001,7 @@
 7/17/2025 16:14:22 Edited file z.Domains2/core/src/Shared/Manager/Manager.jsx
 7/17/2025 16:17:45 Edited file z.Domains2/node_modules/leumas/src/Shared/Manager/Manager.jsx
 7/17/2025 16:17:47 Edited file z.Domains2/core/src/Shared/Manager/Manager.jsx
+7/17/2025 16:18:04 Edited file z.Domains2/core/src/3DProgramming/3DProgramming.jsx
+7/17/2025 16:18:05 Edited file z.Domains2/node_modules/leumas/src/3DProgramming/3DProgramming.jsx
+7/17/2025 16:26:11 Created folder z.Domains2/core/src/Adapters
+7/17/2025 16:27:23 Created folder z.Domains2/node_modules/leumas/src/Adapters
