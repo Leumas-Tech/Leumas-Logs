@@ -72,3 +72,6 @@
 7/17/2025 23:26:50 Edited file leumas-api.leumas.tech/error.log
 7/17/2025 23:26:50 Edited file Servers/ImperiumLive/user-events.log
 7/17/2025 23:27:09 Edited file leumas-api.leumas.tech/APIRouter/Tools/ReactLibrary/Music/Sequencer.jsx
+7/17/2025 23:33:54 Created file Scripts/find-big-folders.js
+7/17/2025 23:35:33 Created file Scripts/find-big-files.js
+7/17/2025 23:38:26 Created file Scripts/rank-code-by-size.js
