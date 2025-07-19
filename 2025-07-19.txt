@@ -276,3 +276,6 @@
 7/19/2025 10:38:33 Edited file NPM/leumas-middleware/lib/a.bulkforge/utils/bulkforge-adaapter.json
 7/19/2025 10:42:51 Created folder NPM/leumas-middleware/lib/a.methods/utils
 7/19/2025 10:44:13 Created file NPM/leumas-middleware/lib/a.methods/utils/method-adapter.json
+7/19/2025 10:55:10 Edited file NPM/leumas-middleware/lib/a.methods/utils/method-adapter.json
+7/19/2025 10:55:31 Edited file NPM/leumas-middleware/lib/a.methods/utils/method-adapter.json
+7/19/2025 10:58:14 Created file NPM/leumas-middleware/lib/3DProgramming/utils/3DProgramming-adapter.json
