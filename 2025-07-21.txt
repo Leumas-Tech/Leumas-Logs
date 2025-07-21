@@ -15918,3 +15918,7 @@
 7/21/2025 00:49:47 Created file tools/EtsyClone/EtsyCloneSDK/node_modules/ts-node/node_modules/diff/lib/patch/create.js
 7/21/2025 00:49:47 Created file tools/EtsyClone/EtsyCloneSDK/node_modules/ts-node/node_modules/diff/lib/patch/parse.js
 7/21/2025 00:49:47 Created file tools/EtsyClone/EtsyCloneSDK/node_modules/ts-node/node_modules/diff/lib/patch/merge.js
+7/21/2025 08:20:37 Edited file tools/EtsyClone/EtsyCloneSDK/package.json
+7/21/2025 08:21:12 Edited file tools/EtsyClone/EtsyCloneSDK/package.json
+7/21/2025 08:21:28 Created file tools/EtsyClone/EtsyCloneSDK/src/setup_stores.js
+7/21/2025 08:22:03 Created file tools/EtsyClone/EtsyCloneSDK/src/add_products.js
