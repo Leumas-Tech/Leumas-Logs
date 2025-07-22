@@ -3816,3 +3816,9 @@
 7/22/2025 16:28:38 Created file Servers/z.newcastle/eng.traineddata
 7/22/2025 16:39:46 Edited file Servers/z.newcastle/lib/imageToTextProcessor.js
 7/22/2025 16:40:26 Edited file Servers/z.newcastle/lib/imageToTextProcessor.js
+7/22/2025 16:45:36 Created file Scripts/Tesseract/ocr-ai.js
+7/22/2025 16:47:48 Created file Servers/z.newcastle/routes/handlers/ocr-to-file.js
+7/22/2025 16:47:48 Created file Servers/z.newcastle/routes/handlers/ocr.js
+7/22/2025 16:47:48 Created file Servers/z.newcastle/routes/handlers/ocr-ai.js
+7/22/2025 16:49:10 Edited file Servers/z.newcastle/public/image-to-text.html
+7/22/2025 16:51:41 Edited file Servers/z.newcastle/public/image-to-text.html
