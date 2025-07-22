@@ -132,3 +132,8 @@
 7/22/2025 11:39:52 Edited file tools/the-dreamer/helpers/index.js
 7/22/2025 11:40:13 Edited file tools/the-dreamer/helpers/index.js
 7/22/2025 11:41:55 Edited file tools/the-dreamer/helpers/index.js
+7/22/2025 11:42:54 Edited file tools/the-dreamer/helpers/index.js
+7/22/2025 11:49:54 Edited file tools/the-dreamer/helpers/index.js
+7/22/2025 11:50:16 Created file tools/the-dreamer/helpers/queue-helpers.js
+7/22/2025 11:50:16 Created file tools/the-dreamer/helpers/ask-openai.js
+7/22/2025 11:50:16 Created file tools/the-dreamer/helpers/ask-gemini.js
