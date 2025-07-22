@@ -4186,3 +4186,9 @@
 7/22/2025 18:27:08 Edited file Servers/z.newcastle/public/capabilities-form.html
 7/22/2025 18:27:39 Edited file Servers/z.newcastle/routes.js
 7/22/2025 18:28:16 Created file Servers/z.newcastle/routes/handlers/exportCapabilitiesHtml.js
+7/22/2025 18:32:45 Edited file Servers/z.newcastle/public/index.html
+7/22/2025 18:33:04 Edited file Servers/z.newcastle/public/index.html
+7/22/2025 18:33:43 Edited file Servers/z.newcastle/public/index.html
+7/22/2025 18:34:41 Edited file Servers/z.newcastle/public/index.html
+7/22/2025 18:35:19 Edited file Servers/z.newcastle/public/index.html
+7/22/2025 18:38:08 Edited file Servers/z.newcastle/public/index.html
