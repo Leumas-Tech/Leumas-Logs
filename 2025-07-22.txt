@@ -4179,3 +4179,10 @@
 7/22/2025 18:16:25 Created file Servers/z.newcastle/public/generated-statements/capabilities-1753226101321.pdf
 7/22/2025 18:19:16 Created file Servers/z.newcastle/public/generated-statements/capabilities-1753226263134.json
 7/22/2025 18:19:16 Created file Servers/z.newcastle/public/generated-statements/capabilities-1753226263134.pdf
+7/22/2025 18:23:57 Edited file Servers/z.newcastle/public/capabilities-form.html
+7/22/2025 18:24:29 Edited file Servers/z.newcastle/routes/handlers/generateCapabilitiesDocument.js
+7/22/2025 18:24:35 Edited file Servers/z.newcastle/public/capabilities-form.html
+7/22/2025 18:26:11 Edited file Servers/z.newcastle/public/generated-statements/capabilities-1753226263134.json
+7/22/2025 18:27:08 Edited file Servers/z.newcastle/public/capabilities-form.html
+7/22/2025 18:27:39 Edited file Servers/z.newcastle/routes.js
+7/22/2025 18:28:16 Created file Servers/z.newcastle/routes/handlers/exportCapabilitiesHtml.js
