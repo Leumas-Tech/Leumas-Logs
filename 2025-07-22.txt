@@ -121,3 +121,14 @@
 7/22/2025 10:44:46 Edited file z.Domains2/public/configs/radio.json
 7/22/2025 10:45:39 Created file z.Domains2/node_modules/babel-plugin-dynamic-import-node/lib/index.js
 7/22/2025 10:45:39 Created file z.Domains2/node_modules/babel-plugin-dynamic-import-node/lib/utils.js
+7/22/2025 11:33:48 Created folder tools/the-dreamer
+7/22/2025 11:35:08 Created file tools/the-dreamer/README.md
+7/22/2025 11:35:08 Created file tools/the-dreamer/README.txt
+7/22/2025 11:36:28 Created folder tools/the-dreamer/helpers
+7/22/2025 11:37:48 Created file tools/the-dreamer/helpers/ask-ollama.js
+7/22/2025 11:37:48 Created file tools/the-dreamer/helpers/ask-ollama-with-functions.js
+7/22/2025 11:37:48 Created file tools/the-dreamer/helpers/index.js
+7/22/2025 11:38:49 Edited file tools/the-dreamer/helpers/index.js
+7/22/2025 11:39:52 Edited file tools/the-dreamer/helpers/index.js
+7/22/2025 11:40:13 Edited file tools/the-dreamer/helpers/index.js
+7/22/2025 11:41:55 Edited file tools/the-dreamer/helpers/index.js
