@@ -3838,3 +3838,8 @@
 7/22/2025 17:03:04 Edited file Servers/z.newcastle/public/image-to-text.html
 7/22/2025 17:05:16 Edited file Servers/z.newcastle/public/image-to-text.html
 7/22/2025 17:06:13 Edited file Servers/z.newcastle/public/image-to-text.html
+7/22/2025 17:14:16 Created file Servers/z.newcastle/uploads/IMG_0764_ocr.txt
+7/22/2025 17:16:46 Edited file Servers/z.newcastle/routes.js
+7/22/2025 17:17:43 Created file Servers/z.newcastle/routes/handlers/createCapabilitiesStatement.js
+7/22/2025 17:17:49 Created file Servers/z.newcastle/public/capabilities-form.html
+7/22/2025 17:19:24 Edited file Servers/z.newcastle/public/capabilities-form.html
