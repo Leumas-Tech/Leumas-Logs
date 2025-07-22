@@ -3860,3 +3860,9 @@
 7/22/2025 17:24:23 Created file Servers/z.newcastle/routes/handlers/exportCapabilitiesPdf.js
 7/22/2025 17:26:35 Edited file Servers/z.newcastle/routes/handlers/exportCapabilitiesPdf.js
 7/22/2025 17:30:04 Edited file Servers/z.newcastle/routes/handlers/exportCapabilitiesPdf.js
+7/22/2025 17:37:40 Edited file Servers/z.newcastle/routes/handlers/createCapabilitiesStatement.js
+7/22/2025 17:39:33 Edited file Servers/z.newcastle/routes.js
+7/22/2025 17:39:58 Created folder Servers/z.newcastle/public/generated-statements
+7/22/2025 17:40:30 Created file Servers/z.newcastle/routes/handlers/listCapabilitiesStatements.js
+7/22/2025 17:40:30 Created file Servers/z.newcastle/routes/handlers/getCapabilitiesStatement.js
+7/22/2025 17:40:36 Edited file Servers/z.newcastle/public/capabilities-form.html
