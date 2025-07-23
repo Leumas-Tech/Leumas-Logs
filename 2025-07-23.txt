@@ -510,3 +510,5 @@
 7/22/2025 21:03:36 Created file z.Domains2/core/node_modules/.vite/deps/web3.js
 7/22/2025 21:03:36 Created file z.Domains2/core/node_modules/.vite/deps/_metadata.json
 7/22/2025 21:03:36 Created file z.Domains2/core/node_modules/.vite/deps/web3.js.map
+7/22/2025 21:19:06 Created file z.Domains2/core/src/Shared/Components/Backgrounds/backgroundsMap.jsx
+7/22/2025 21:19:07 Created file z.Domains2/node_modules/leumas/src/Shared/Components/Backgrounds/backgroundsMap.jsx
