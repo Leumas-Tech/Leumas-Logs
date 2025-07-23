@@ -4203,3 +4203,8 @@
 7/22/2025 18:49:49 Created file Servers/z.newcastle/public/job-manager.html
 7/22/2025 18:51:27 Created folder Servers/z.newcastle/public/css
 7/22/2025 18:51:27 Created folder Servers/z.newcastle/public/js
+7/22/2025 18:52:37 Created file Servers/z.newcastle/public/assets/summaries/summary-25007---Addendum-1---Glenview-Public-Library---Combined-pdf-20250722T235116510Z.txt
+7/22/2025 18:52:37 Created file Servers/z.newcastle/public/assets/summaries/summary-summary-20250722T235105551Z.txt
+7/22/2025 18:52:37 Created file Servers/z.newcastle/public/assets/summaries/summary-master-summary-20250722T235119377Z.txt
+7/22/2025 18:52:43 Created file Servers/z.newcastle/public/js/job-manager.js
+7/22/2025 18:52:43 Created file Servers/z.newcastle/public/css/job-manager.css
