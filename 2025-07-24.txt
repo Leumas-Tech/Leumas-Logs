@@ -93,3 +93,9 @@
 7/24/2025 14:07:59 Edited file leumas-api.leumas.tech/error.log
 7/24/2025 14:09:46 Edited file z.Domains2/core/src/3DProgramming/components/Cells/AdapterCell.jsx
 7/24/2025 14:09:48 Edited file z.Domains2/node_modules/leumas/src/3DProgramming/components/Cells/AdapterCell.jsx
+7/24/2025 14:10:45 Edited file z.Domains2/core/src/3DProgramming/components/Cells/AdapterCell.jsx
+7/24/2025 14:10:47 Edited file z.Domains2/node_modules/leumas/src/3DProgramming/components/Cells/AdapterCell.jsx
+7/24/2025 14:12:43 Edited file z.Domains2/core/src/3DProgramming/components/Cells/AdapterCell.jsx
+7/24/2025 14:12:45 Edited file z.Domains2/node_modules/leumas/src/3DProgramming/components/Cells/AdapterCell.jsx
+7/24/2025 14:18:49 Edited file z.Domains2/core/src/3DProgramming/components/CellEditor.jsx
+7/24/2025 14:18:52 Edited file z.Domains2/node_modules/leumas/src/3DProgramming/components/CellEditor.jsx
