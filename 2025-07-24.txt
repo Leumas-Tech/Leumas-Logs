@@ -146,3 +146,6 @@
 7/24/2025 17:42:52 Edited file Servers/z.Programming/utils/execution-helpers/logical.js
 7/24/2025 17:49:56 Edited file Servers/z.Programming/utils/execution-helpers/logical.js
 7/24/2025 17:52:56 Created file NPM/leumas-middleware/lib/logicals-system/utils/all-adapter-metadata.js
+7/24/2025 18:00:59 Edited file NPM/leumas-middleware/lib/logicals-system/utils/all-adapter-metadata.js
+7/24/2025 18:02:11 Created file NPM/leumas-middleware/lib/logicals-system/utils/test-all-adapter-metadata.js
+7/24/2025 18:08:35 Created folder tools/ask-lib
