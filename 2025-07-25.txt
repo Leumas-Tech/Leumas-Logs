@@ -153,3 +153,5 @@
 7/25/2025 13:37:36 Edited file Servers/z.Programming/utils/startup/logAllAdapterSystemsAndAdapters.js
 7/25/2025 13:49:40 Edited file Servers/z.Programming/utils/execution-helpers/adapter.js
 7/25/2025 13:50:07 Edited file Servers/z.Programming/utils/execution-helpers/adapter.js
+7/25/2025 13:50:31 Edited file NPM/leumas-middleware/lib/workflow-system/index.js
+7/25/2025 13:51:20 Edited file NPM/leumas-middleware/lib/workflow-system/adapter-loader.js
