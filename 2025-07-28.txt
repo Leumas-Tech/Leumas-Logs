@@ -2043,3 +2043,12 @@
 7/28/2025 15:18:13 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/add-component.html
 7/28/2025 15:18:35 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/add-component.html
 7/28/2025 15:19:19 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/add-component.html
+7/28/2025 15:22:57 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/microcontrollers/arduino-micro.json
+7/28/2025 15:22:57 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/microcontrollers/arduino-mega.json
+7/28/2025 15:22:57 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/microcontrollers/arduino-nano.json
+7/28/2025 15:22:57 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/microcontrollers/esp8266.json
+7/28/2025 15:23:20 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/microcontrollers/esp32-cam.json
+7/28/2025 15:24:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/components/resistor.json
+7/28/2025 15:24:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/components/battery.json
+7/28/2025 15:25:13 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/builder.html
+7/28/2025 15:25:35 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/builder.html
