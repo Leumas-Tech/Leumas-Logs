@@ -1949,3 +1949,6 @@
 7/28/2025 11:10:08 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/components/resistor.json
 7/28/2025 11:10:10 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.js
 7/28/2025 11:10:10 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/index.html
+7/28/2025 11:11:13 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/add-component.html
+7/28/2025 11:14:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/add-component.html
+7/28/2025 11:19:27 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/add-component.html
