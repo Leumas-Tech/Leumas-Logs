@@ -4,3 +4,11 @@
 7/28/2025 19:06:49 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/node_modules/protobufjs/cli/node_modules/jsdoc/templates/default/static/scripts/prettify/prettify.js
 7/28/2025 19:16:08 Created file assets/JSON/ai-generators/circuit.json
 7/28/2025 19:18:20 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/circuit.json
+7/28/2025 19:22:26 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.js
+7/28/2025 19:22:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.js
+7/28/2025 19:23:11 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/ai-functions.js
+7/28/2025 19:28:34 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/ai-functions.js
+7/28/2025 19:28:57 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/ai-functions.js
+7/28/2025 19:29:20 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.js
+7/28/2025 19:29:43 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.js
+7/28/2025 19:30:06 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/builder.html
