@@ -75,3 +75,12 @@
 7/29/2025 21:03:03 Created folder z.Domains2/repos/templates/test-lang.git/objects
 7/29/2025 21:04:10 Deleted file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/handleGoogleSuccess.jsx
 7/29/2025 23:33:39 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/.gitignore
+7/29/2025 23:39:29 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.cjs
+7/29/2025 23:40:25 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/simulation.html
+7/29/2025 23:40:44 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/simulation-app.js
+7/29/2025 23:41:19 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/simulation.html
+7/29/2025 23:41:37 Deleted file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/simulation-app.js
+7/29/2025 23:44:46 Created folder leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/js
+7/29/2025 23:45:46 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/js/simulation-app.js
+7/29/2025 23:46:25 Created folder leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/public/css
+7/29/2025 23:46:26 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/src/server.cjs
