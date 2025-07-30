@@ -19284,3 +19284,11 @@
 7/30/2025 02:20:06 Edited file Servers/x.LeumasAppstore/cli/auth.js
 7/30/2025 02:21:36 Edited file Servers/x.LeumasLogin/login/login.routes.js
 7/30/2025 02:23:02 Edited file Servers/x.LeumasLogin/Shared/securityConfig.js
+7/30/2025 02:27:17 Edited file Servers/x.LeumasAppstore/cli/auth.js
+7/30/2025 02:27:39 Edited file Servers/x.LeumasAppstore/cli/auth.js
+7/30/2025 02:27:39 Edited file Servers/x.LeumasAppstore/.leumas_token
+7/30/2025 02:29:27 Edited file Servers/x.LeumasAppstore/cli/auth.js
+7/30/2025 02:30:33 Edited file Servers/x.LeumasAppstore/cli/auth.js
+7/30/2025 02:30:55 Edited file Servers/x.LeumasAppstore/.leumas_token
+7/30/2025 02:36:50 Deleted file Servers/x.LeumasAppstore/cli/auth.js
+7/30/2025 02:36:50 Edited file Servers/x.LeumasAppstore/cli/index.js
