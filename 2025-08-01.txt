@@ -7410,3 +7410,8 @@
 8/1/2025 02:53:36 Created file tools/RepoToEmbedding/node_modules/@sinclair/typebox/build/esm/type/void/void.mjs
 8/1/2025 02:58:52 Edited file tools/RepoToEmbedding/src/index.js
 8/1/2025 02:58:53 Edited file tools/RepoToEmbedding/public/app.js
+8/1/2025 02:59:57 Edited file tools/RepoToEmbedding/server.js
+8/1/2025 03:03:57 Edited file tools/RepoToEmbedding/server.js
+8/1/2025 03:06:35 Created file tools/RepoToEmbedding/embeddings.jsonl
+8/1/2025 03:06:35 Created file tools/RepoToEmbedding/vocabulary.json
+8/1/2025 03:07:19 Edited file tools/RepoToEmbedding/src/index.js
