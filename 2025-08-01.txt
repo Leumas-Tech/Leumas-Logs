@@ -7422,3 +7422,5 @@
 8/1/2025 03:13:30 Created file tools/RepoToEmbedding/docs/README.md
 8/1/2025 03:15:22 Edited file tools/RepoToEmbedding/vocabulary.json
 8/1/2025 03:15:43 Edited file tools/RepoToEmbedding/embeddings.jsonl
+8/1/2025 15:25:43 Created file Scripts/find-folder-types-in-folder.js
+8/1/2025 15:27:29 Edited file Scripts/find-folder-types-in-folder.js
