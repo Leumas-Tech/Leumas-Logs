@@ -1,0 +1,12 @@
+8/1/2025 02:15:51 Created file tools/RepoToEmbedding/node-semantic-search-sdk.js
+8/1/2025 02:16:37 Edited file tools/RepoToEmbedding/node-semantic-search-sdk.js
+8/1/2025 02:18:14 Edited file node_modules/.bin/customcli.cmd
+8/1/2025 02:18:14 Edited file node_modules/.bin/customcli.ps1
+8/1/2025 02:18:14 Edited file node_modules/.bin/customcli
+8/1/2025 02:18:14 Edited file node_modules/.package-lock.json
+8/1/2025 02:18:16 Created file tools/RepoToEmbedding/test.js
+8/1/2025 02:18:17 Edited file package.json
+8/1/2025 02:18:17 Edited file package-lock.json
+8/1/2025 02:18:31 Deleted file node_modules/.bin/phantomjs.ps1
+8/1/2025 02:18:31 Deleted file node_modules/.bin/phantomjs
+8/1/2025 02:18:31 Deleted file node_modules/.bin/phantomjs.cmd
