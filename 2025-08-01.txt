@@ -7431,3 +7431,6 @@
 8/1/2025 15:54:31 Edited file Scripts/find-nodejs-server-ports.js
 8/1/2025 15:56:18 Edited file Scripts/find-nodejs-server-ports.js
 8/1/2025 16:00:10 Edited file Scripts/find-nodejs-server-ports.js
+8/1/2025 16:43:59 Created file Scripts/analyze-script.js
+8/1/2025 16:45:02 Edited file Scripts/analyze-script.js
+8/1/2025 16:47:10 Edited file Scripts/analyze-script.js
