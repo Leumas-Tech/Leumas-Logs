@@ -7415,3 +7415,10 @@
 8/1/2025 03:06:35 Created file tools/RepoToEmbedding/embeddings.jsonl
 8/1/2025 03:06:35 Created file tools/RepoToEmbedding/vocabulary.json
 8/1/2025 03:07:19 Edited file tools/RepoToEmbedding/src/index.js
+8/1/2025 03:12:26 Created folder tools/RepoToEmbedding/docs
+8/1/2025 03:13:30 Created file tools/RepoToEmbedding/docs/adding-repositories.md
+8/1/2025 03:13:30 Created file tools/RepoToEmbedding/docs/how-it-works.md
+8/1/2025 03:13:30 Created file tools/RepoToEmbedding/docs/troubleshooting.md
+8/1/2025 03:13:30 Created file tools/RepoToEmbedding/docs/README.md
+8/1/2025 03:15:22 Edited file tools/RepoToEmbedding/vocabulary.json
+8/1/2025 03:15:43 Edited file tools/RepoToEmbedding/embeddings.jsonl
