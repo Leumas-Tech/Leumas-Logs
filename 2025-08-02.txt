@@ -4,3 +4,8 @@
 8/2/2025 14:33:53 Created file tools/script-orchestration/Run_on_true.txt
 8/2/2025 14:33:53 Edited file tools/script-orchestration/script-orchestration.js
 8/2/2025 14:59:38 Created folder tools/script-orchestration/docs
+8/2/2025 15:01:03 Created file tools/script-orchestration/docs/advanced-features.md
+8/2/2025 15:01:03 Created file tools/script-orchestration/docs/creating-workflows.md
+8/2/2025 15:01:03 Created file tools/script-orchestration/docs/supported-scripts.md
+8/2/2025 15:01:03 Created file tools/script-orchestration/docs/getting-started.md
+8/2/2025 15:01:03 Created file tools/script-orchestration/docs/index.md
