@@ -7816,3 +7816,6 @@
 8/3/2025 12:12:49 Edited file tools/ServerManager/helpers/openInVSCode.js
 8/3/2025 12:12:49 Edited file tools/ServerManager/server.js
 8/3/2025 12:13:09 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 12:13:50 Created file tools/ServerManager/helpers/openFolder.js
+8/3/2025 12:14:10 Created file tools/ServerManager/test/openFolder.test.js
+8/3/2025 12:16:35 Edited file tools/ServerManager/server.js
