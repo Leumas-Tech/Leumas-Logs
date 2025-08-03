@@ -7841,3 +7841,7 @@
 8/3/2025 14:20:33 Edited file tools/ServerManager/public/index.html
 8/3/2025 14:22:39 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
 8/3/2025 14:23:01 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 14:23:43 Edited file tools/ServerManager/public/index.html
+8/3/2025 14:30:03 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 14:32:31 Edited file tools/ServerManager/helpers/openInVSCode.js
+8/3/2025 14:33:16 Edited file tools/ServerManager/helpers/startServer.js
