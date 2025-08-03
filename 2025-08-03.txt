@@ -7836,3 +7836,8 @@
 8/3/2025 14:02:19 Edited file Scripts/find-nodejs-helpers.js
 8/3/2025 14:12:15 Edited file tools/ServerManager/public/index.html
 8/3/2025 14:13:17 Edited file tools/ServerManager/public/index.html
+8/3/2025 14:18:50 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 14:20:33 Edited file tools/ServerManager/server.js
+8/3/2025 14:20:33 Edited file tools/ServerManager/public/index.html
+8/3/2025 14:22:39 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 14:23:01 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
