@@ -68,3 +68,9 @@
 8/3/2025 00:13:59 Edited file tools/script-orchestration/script-orchestration-v2.js
 8/3/2025 00:14:44 Edited file tools/script-orchestration/script-orchestration-v2.js
 8/3/2025 00:15:07 Edited file tools/script-orchestration/script-orchestration-v2.js
+8/3/2025 00:29:46 Created file tools/script-orchestration/tests/workflow.test.js
+8/3/2025 00:29:46 Created file tools/script-orchestration/tests/demo_workflow.json
+8/3/2025 00:30:09 Created folder tools/script-orchestration/tests/scripts
+8/3/2025 00:31:35 Created file tools/script-orchestration/tests/scripts/delete_file.js
+8/3/2025 00:31:35 Created file tools/script-orchestration/tests/scripts/create_file.js
+8/3/2025 00:31:35 Created file tools/script-orchestration/tests/scripts/read_file.js
