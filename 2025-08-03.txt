@@ -7803,3 +7803,16 @@
 8/3/2025 11:59:55 Edited file tools/ServerManager/server.js
 8/3/2025 12:00:15 Edited file tools/ServerManager/public/index.html
 8/3/2025 12:03:02 Edited file tools/ServerManager/server.js
+8/3/2025 12:05:10 Created folder tools/ServerManager/test
+8/3/2025 12:05:10 Created folder tools/ServerManager/helpers
+8/3/2025 12:06:34 Created file tools/ServerManager/test/openTerminal.test.js
+8/3/2025 12:06:34 Created file tools/ServerManager/test/openVSCode.test.js
+8/3/2025 12:06:34 Created file tools/ServerManager/test/startServer.test.js
+8/3/2025 12:06:34 Created file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 12:06:34 Created file tools/ServerManager/helpers/openInVSCode.js
+8/3/2025 12:06:34 Created file tools/ServerManager/helpers/startServer.js
+8/3/2025 12:09:40 Edited file tools/ServerManager/helpers/openInVSCode.js
+8/3/2025 12:10:03 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
+8/3/2025 12:12:49 Edited file tools/ServerManager/helpers/openInVSCode.js
+8/3/2025 12:12:49 Edited file tools/ServerManager/server.js
+8/3/2025 12:13:09 Edited file tools/ServerManager/helpers/openInCommandPrompt.js
