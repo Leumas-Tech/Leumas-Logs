@@ -28,3 +28,7 @@
 8/2/2025 22:28:07 Edited file tools/script-orchestration/public/script-builder.html
 8/2/2025 22:29:35 Created file tools/script-orchestration/public/script-builder.css
 8/2/2025 22:29:35 Created file tools/script-orchestration/public/script-builder.js
+8/2/2025 22:33:33 Created folder tools/script-orchestration/public/syntax-data
+8/2/2025 22:34:59 Created file tools/script-orchestration/public/syntax-data/js.json
+8/2/2025 22:38:14 Created file tools/script-orchestration/public/syntax-data/py.json
+8/2/2025 22:38:14 Created file tools/script-orchestration/public/syntax-data/bat.json
