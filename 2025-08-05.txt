@@ -9533,3 +9533,10 @@
 8/5/2025 18:11:00 Created file tools/project-eros/assets/dummy-data/user3.json
 8/5/2025 18:12:31 Created file tools/project-eros/services/connectDB.js
 8/5/2025 18:12:54 Edited file tools/project-eros/.env
+8/5/2025 18:14:43 Edited file tools/project-eros/branding.txt
+8/5/2025 18:19:14 Created folder tools/project-eros/public
+8/5/2025 18:19:35 Edited file tools/project-eros/server.js
+8/5/2025 18:20:39 Created file tools/project-eros/public/login.html
+8/5/2025 18:22:30 Created folder tools/project-eros/public/js
+8/5/2025 18:22:30 Created folder tools/project-eros/public/views
+8/5/2025 18:22:30 Created folder tools/project-eros/public/css
