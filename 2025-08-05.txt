@@ -9527,3 +9527,9 @@
 8/5/2025 18:02:37 Edited file tools/project-eros/tests/setup.js
 8/5/2025 18:02:37 Edited file tools/project-eros/server.js
 8/5/2025 18:02:59 Edited file tools/project-eros/tests/profile.test.js
+8/5/2025 18:09:22 Created folder tools/project-eros/assets/dummy-data
+8/5/2025 18:11:00 Created file tools/project-eros/assets/dummy-data/user1.json
+8/5/2025 18:11:00 Created file tools/project-eros/assets/dummy-data/user2.json
+8/5/2025 18:11:00 Created file tools/project-eros/assets/dummy-data/user3.json
+8/5/2025 18:12:31 Created file tools/project-eros/services/connectDB.js
+8/5/2025 18:12:54 Edited file tools/project-eros/.env
