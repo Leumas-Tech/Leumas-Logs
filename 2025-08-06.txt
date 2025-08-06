@@ -1383,3 +1383,9 @@
 8/6/2025 15:38:54 Edited file tools/project-eros/models/DatingProfile.js
 8/6/2025 15:40:03 Edited file tools/project-eros/public/js/onboarding.js
 8/6/2025 15:40:26 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:45:41 Edited file tools/project-eros/services/embeddingService.js
+8/6/2025 15:45:41 Edited file tools/project-eros/utils/embeddingUtils.js
+8/6/2025 15:47:51 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:48:13 Edited file tools/project-eros/models/DatingProfile.js
+8/6/2025 15:48:35 Edited file tools/project-eros/utils/embeddingUtils.js
+8/6/2025 15:51:11 Edited file tools/project-eros/models/DatingProfile.js
