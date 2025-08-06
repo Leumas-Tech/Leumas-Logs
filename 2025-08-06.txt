@@ -182,3 +182,13 @@
 8/6/2025 12:38:35 Edited file tools/project-eros/public/js/dashboard.js
 8/6/2025 12:49:37 Edited file tools/project-eros/public/js/onboarding.js
 8/6/2025 12:51:36 Created file tools/project-eros/public/js/fetchUserProfile.js
+8/6/2025 12:57:47 Edited file tools/project-eros/public/js/fetchUserProfile.js
+8/6/2025 12:58:12 Created file tools/project-eros/public/js/getUserLoggedIn.js
+8/6/2025 12:58:34 Edited file tools/project-eros/public/js/fetchUserProfile.js
+8/6/2025 12:58:56 Edited file tools/project-eros/public/js/fetchUserProfile.js
+8/6/2025 12:59:19 Deleted file tools/project-eros/routes/authRoutes.js
+8/6/2025 12:59:41 Edited file tools/project-eros/server.js
+8/6/2025 13:00:27 Edited file tools/project-eros/public/js/fetchUserProfile.js
+8/6/2025 13:00:51 Edited file tools/project-eros/public/js/dashboard.js
+8/6/2025 13:01:37 Edited file tools/project-eros/public/js/dashboard.js
+8/6/2025 13:02:22 Edited file tools/project-eros/server.js
