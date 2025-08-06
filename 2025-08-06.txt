@@ -192,3 +192,13 @@
 8/6/2025 13:00:51 Edited file tools/project-eros/public/js/dashboard.js
 8/6/2025 13:01:37 Edited file tools/project-eros/public/js/dashboard.js
 8/6/2025 13:02:22 Edited file tools/project-eros/server.js
+8/6/2025 13:03:28 Edited file tools/project-eros/server.js
+8/6/2025 13:06:02 Edited file tools/project-eros/public/views/dashboard.html
+8/6/2025 13:06:02 Edited file tools/project-eros/public/js/dashboard.js
+8/6/2025 13:07:55 Edited file tools/project-eros/public/js/getUserLoggedIn.js
+8/6/2025 13:08:18 Edited file tools/project-eros/public/views/dashboard.html
+8/6/2025 13:09:24 Edited file tools/project-eros/public/views/dashboard.html
+8/6/2025 13:10:27 Created file tools/project-eros/public/js/userService.js
+8/6/2025 13:11:33 Edited file tools/project-eros/public/js/userService.js
+8/6/2025 13:11:34 Edited file tools/project-eros/public/views/dashboard.html
+8/6/2025 13:12:17 Edited file tools/project-eros/public/views/dashboard.html
