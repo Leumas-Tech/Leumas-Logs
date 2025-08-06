@@ -2188,3 +2188,10 @@
 8/6/2025 17:14:26 Edited file tools/ManagerManager/local-gpt.py
 8/6/2025 18:31:02 Edited file tools/ManagerManager/local-gpt.py
 8/6/2025 18:33:14 Deleted file tools/ManagerManager/local-gpt.py
+8/6/2025 18:34:23 Created file tools/ManagerManager/ask-ollama-test.js
+8/6/2025 18:35:08 Edited file tools/ManagerManager/ask-ollama-test.js
+8/6/2025 18:35:54 Edited file tools/ManagerManager/ask-ollama-test.js
+8/6/2025 18:36:16 Edited file tools/ManagerManager/ask-ollama-test.js
+8/6/2025 18:37:01 Edited file tools/ManagerManager/ask-ollama-test.js
+8/6/2025 18:38:19 Edited file tools/ManagerManager/ask-ollama-test.js
+8/6/2025 18:39:06 Created file tools/ManagerManager/list-ollama-models.js
