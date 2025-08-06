@@ -1,0 +1,2 @@
+8/5/2025 22:45:37 Edited file tools/project-eros/public/js/onboarding.js
+8/5/2025 22:45:37 Edited file tools/project-eros/public/views/onboarding.html
