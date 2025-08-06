@@ -1367,3 +1367,10 @@
 8/6/2025 15:19:29 Edited file tools/project-eros/controllers/profileController.js
 8/6/2025 15:19:51 Edited file tools/project-eros/controllers/profileController.js
 8/6/2025 15:20:58 Edited file tools/project-eros/controllers/profileController.js
+8/6/2025 15:24:36 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:25:22 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:25:44 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:28:15 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:30:24 Edited file tools/project-eros/public/views/onboarding.html
+8/6/2025 15:31:08 Edited file tools/project-eros/public/js/onboarding.js
+8/6/2025 15:32:59 Edited file tools/project-eros/controllers/profileController.js
