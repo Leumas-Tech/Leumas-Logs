@@ -3019,3 +3019,15 @@
 8/7/2025 02:07:43 Created file tools/ServerManager/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.js
 8/7/2025 02:07:43 Created file tools/ServerManager/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js
 8/7/2025 02:11:06 Edited file tools/ServerManager/public/solar-system.html
+8/7/2025 02:33:43 Created file tools/a.embeddings/adapters/objectArrayAdapter.js
+8/7/2025 02:34:13 Edited file tools/a.embeddings/adapters/jsonAdapter.js
+8/7/2025 02:34:35 Edited file tools/a.embeddings/adapters/jsonAdapter.js
+8/7/2025 02:35:58 Created folder tools/a.embeddings/test
+8/7/2025 02:37:27 Created file tools/a.embeddings/test/eegAdapter.test.js
+8/7/2025 02:37:27 Created file tools/a.embeddings/test/audioAdapter.test.js
+8/7/2025 02:37:27 Created file tools/a.embeddings/test/jsonAdapter.test.js
+8/7/2025 02:37:27 Created file tools/a.embeddings/test/objectArrayAdapter.test.js
+8/7/2025 02:37:27 Created file tools/a.embeddings/test/textAdapter.test.js
+8/7/2025 02:37:27 Created file tools/a.embeddings/test/run-all-tests.js
+8/7/2025 02:38:19 Edited file tools/a.embeddings/adapters/folderAdapter.js
+8/7/2025 02:39:21 Created file tools/a.embeddings/test/folderAdapter.test.js
