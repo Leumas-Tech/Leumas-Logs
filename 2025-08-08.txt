@@ -1198,3 +1198,17 @@
 8/8/2025 13:55:42 Edited file tools/script-orchestration/public/style.css
 8/8/2025 13:55:52 Edited file NPM/leumas-middleware/lib/parser-system/utils/index.js
 8/8/2025 13:56:05 Edited file tools/script-orchestration/public/index.html
+8/8/2025 14:02:47 Created file NPM/leumas-middleware/lib/parser-system/tests/utils.test.js
+8/8/2025 14:03:51 Created file NPM/leumas-middleware/lib/parser-system/tests/askOllama.test.js
+8/8/2025 14:07:33 Created file NPM/leumas-middleware/lib/parser-system/package-lock.json
+8/8/2025 14:07:33 Created file NPM/leumas-middleware/lib/parser-system/package.json
+8/8/2025 14:07:36 Edited file NPM/leumas-middleware/lib/parser-system/tests/askOllama.test.js
+8/8/2025 14:08:41 Edited file NPM/leumas-middleware/lib/parser-system/tests/askOllama.test.js
+8/8/2025 14:09:23 Created file NPM/leumas-middleware/lib/parser-system/babel.config.cjs
+8/8/2025 14:09:23 Edited file NPM/leumas-middleware/lib/parser-system/package.json
+8/8/2025 14:09:25 Edited file NPM/leumas-middleware/lib/parser-system/tests/askOllama.test.js
+8/8/2025 14:09:44 Created folder NPM/leumas-middleware/lib/parser-system/node_modules
+8/8/2025 14:09:48 Edited file NPM/leumas-middleware/lib/parser-system/tests/utils.test.js
+8/8/2025 14:10:07 Edited file NPM/leumas-middleware/lib/parser-system/babel.config.cjs
+8/8/2025 14:10:07 Edited file NPM/leumas-middleware/lib/parser-system/package.json
+8/8/2025 14:10:10 Edited file NPM/leumas-middleware/lib/parser-system/tests/askOllama.test.js
