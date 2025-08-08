@@ -9,3 +9,15 @@
 8/7/2025 22:28:32 Edited file tools/a.embeddings/test/spreadsheetAdapter.test.js
 8/7/2025 22:29:17 Created folder assets/Embeddings/2025-08-08_03-26-11
 8/7/2025 22:29:17 Created folder assets/Embeddings/2025-08-08_03-26-07
+8/7/2025 22:30:47 Created file assets/Embeddings/2025-08-08_03-26-07/embeddings.json
+8/7/2025 22:30:47 Created file assets/Embeddings/2025-08-08_03-26-11/embeddings.json
+8/7/2025 22:31:09 Created folder assets/Embeddings/2025-08-08_03-27-53
+8/7/2025 22:31:09 Created folder assets/Embeddings/2025-08-08_03-27-54
+8/7/2025 22:32:39 Created file assets/Embeddings/2025-08-08_03-27-53/embeddings.json
+8/7/2025 22:32:39 Created file assets/Embeddings/2025-08-08_03-27-54/embeddings.json
+8/7/2025 22:36:26 Edited file tools/a.embeddings/package.json
+8/7/2025 22:36:49 Edited file tools/a.embeddings/demo-server.js
+8/7/2025 22:37:12 Edited file tools/a.embeddings/node_modules/.package-lock.json
+8/7/2025 22:37:12 Edited file tools/a.embeddings/package-lock.json
+8/7/2025 22:37:35 Created file tools/a.embeddings/3d-docs.html
+8/7/2025 22:40:12 Created folder tools/a.embeddings/node_modules/three
