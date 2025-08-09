@@ -3,3 +3,15 @@
 8/8/2025 22:27:49 Created file NPM/leumas-middleware/lib/a.chatbots/server.js
 8/8/2025 22:27:49 Created file NPM/leumas-middleware/lib/a.chatbots/package.json
 8/8/2025 22:28:46 Edited file NPM/leumas-middleware/lib/a.chatbots/server.js
+8/8/2025 22:30:38 Created folder NPM/leumas-middleware/lib/a.chatbots/bots
+8/8/2025 22:30:38 Created folder NPM/leumas-middleware/lib/a.chatbots/public
+8/8/2025 22:32:06 Edited file NPM/leumas-middleware/lib/a.chatbots/server.js
+8/8/2025 22:32:34 Created file NPM/leumas-middleware/lib/a.chatbots/bots/testing.json
+8/8/2025 22:32:34 Created file NPM/leumas-middleware/lib/a.chatbots/bots/leumas-translator.json
+8/8/2025 22:32:34 Created file NPM/leumas-middleware/lib/a.chatbots/public/builder.html
+8/8/2025 22:32:34 Created file NPM/leumas-middleware/lib/a.chatbots/public/index.html
+8/8/2025 22:32:34 Created file NPM/leumas-middleware/lib/a.chatbots/public/chat.html
+8/8/2025 22:35:12 Edited file NPM/leumas-middleware/lib/a.chatbots/public/chat.html
+8/8/2025 22:35:12 Edited file NPM/leumas-middleware/lib/a.chatbots/server.js
+8/8/2025 22:36:13 Created folder NPM/leumas-middleware/lib/a.chatbots/public/assets
+8/8/2025 22:36:46 Edited file NPM/leumas-middleware/lib/a.chatbots/server.js
