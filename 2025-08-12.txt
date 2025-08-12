@@ -38,3 +38,8 @@
 8/12/2025 00:38:18 Created file tools/infinity-displays/adapters/html-embed.json
 8/12/2025 00:38:49 Created file tools/infinity-displays/renderers/adapters/htmlEmbedAdapter.js
 8/12/2025 00:40:19 Created file tools/infinity-displays/scenes/html-embed-demo.json
+8/12/2025 00:43:28 Edited file tools/infinity-displays/renderers/adapters/htmlEmbedAdapter.js
+8/12/2025 00:44:32 Edited file tools/infinity-displays/scenes/html-embed-demo.json
+8/12/2025 00:48:49 Created file tools/infinity-displays/adapters/iframe.json
+8/12/2025 00:49:17 Created file tools/infinity-displays/renderers/adapters/iframeAdapter.js
+8/12/2025 00:49:58 Created file tools/infinity-displays/scenes/iframe-demo.json
