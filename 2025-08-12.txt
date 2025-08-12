@@ -82,3 +82,7 @@
 8/12/2025 02:09:02 Edited file tools/infinity-displays/server.js
 8/12/2025 02:10:35 Created file tools/infinity-displays/scenes/camera-demo.json
 8/12/2025 02:11:52 Edited file tools/infinity-displays/renderers/adapters/cameraAdapter.js
+8/12/2025 02:16:09 Created file tools/infinity-displays/adapters/camera-detect.json
+8/12/2025 02:16:38 Created file tools/infinity-displays/renderers/adapters/cameraDetectAdapter.js
+8/12/2025 02:17:26 Edited file tools/infinity-displays/renderers/adapters/cameraDetectAdapter.js
+8/12/2025 02:19:42 Created file tools/infinity-displays/scenes/camera-detect.json
