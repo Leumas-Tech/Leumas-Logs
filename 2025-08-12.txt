@@ -86,3 +86,7 @@
 8/12/2025 02:16:38 Created file tools/infinity-displays/renderers/adapters/cameraDetectAdapter.js
 8/12/2025 02:17:26 Edited file tools/infinity-displays/renderers/adapters/cameraDetectAdapter.js
 8/12/2025 02:19:42 Created file tools/infinity-displays/scenes/camera-detect.json
+8/12/2025 02:23:20 Created file tools/infinity-displays/public/ort.min.js
+8/12/2025 02:27:27 Created folder models
+8/12/2025 02:30:42 Deleted file tools/infinity-displays/public/ort.min.js
+8/12/2025 02:31:07 Created folder tools/infinity-displays/public/js
