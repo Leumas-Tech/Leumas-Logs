@@ -1281,3 +1281,9 @@
 8/12/2025 03:29:58 Created file tools/infinity-displays/adapters/youtube.json
 8/12/2025 03:30:30 Created file tools/infinity-displays/renderers/adapters/youtube.js
 8/12/2025 03:31:14 Created file tools/infinity-displays/scenes/youtube-demo.json
+8/12/2025 03:36:43 Created file tools/infinity-displays/adapters/crypto-price.json
+8/12/2025 03:36:48 Created file tools/infinity-displays/renderers/adapters/cryptoPriceAdapter.js
+8/12/2025 03:37:06 Created file tools/infinity-displays/scenes/crypto-demo.json
+8/12/2025 03:40:48 Created file tools/infinity-displays/adapters/kenburns.json
+8/12/2025 03:40:54 Created file tools/infinity-displays/renderers/adapters/kenburnsAdapter.js
+8/12/2025 03:42:00 Created file tools/infinity-displays/scenes/kenburns-demo.json
