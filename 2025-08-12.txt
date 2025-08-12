@@ -77,3 +77,8 @@
 8/12/2025 01:58:48 Created file tools/infinity-displays/renderers/adapters/resultsPanelAdapter.js
 8/12/2025 01:59:12 Edited file tools/infinity-displays/renderers/adapters/actionButtonAdapter.js
 8/12/2025 02:01:32 Edited file tools/infinity-displays/server.js
+8/12/2025 02:05:26 Created file tools/infinity-displays/adapters/camera.json
+8/12/2025 02:05:55 Created file tools/infinity-displays/renderers/adapters/cameraAdapter.js
+8/12/2025 02:09:02 Edited file tools/infinity-displays/server.js
+8/12/2025 02:10:35 Created file tools/infinity-displays/scenes/camera-demo.json
+8/12/2025 02:11:52 Edited file tools/infinity-displays/renderers/adapters/cameraAdapter.js
