@@ -33,3 +33,8 @@
 8/12/2025 00:26:49 Edited file tools/infinity-displays/scenes/filetree-demo.json
 8/12/2025 00:27:38 Edited file tools/infinity-displays/scenes/filetree-demo.json
 8/12/2025 00:28:27 Edited file tools/infinity-displays/scenes/filetree-demo.json
+8/12/2025 00:35:21 Created file tools/infinity-displays/adapters/countdown.json
+8/12/2025 00:35:52 Created file tools/infinity-displays/renderers/adapters/countdownAdapter.js
+8/12/2025 00:38:18 Created file tools/infinity-displays/adapters/html-embed.json
+8/12/2025 00:38:49 Created file tools/infinity-displays/renderers/adapters/htmlEmbedAdapter.js
+8/12/2025 00:40:19 Created file tools/infinity-displays/scenes/html-embed-demo.json
