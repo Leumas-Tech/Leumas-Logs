@@ -1277,3 +1277,7 @@
 8/12/2025 03:15:04 Edited file tools/infinity-displays/renderers/adapters/cameraDetectAdapter.js
 8/12/2025 03:15:49 Edited file tools/infinity-displays/scenes/camera-detect.json
 8/12/2025 03:21:33 Edited file tools/infinity-displays/docs/making-adapters.md
+8/12/2025 03:24:58 Created file tools/infinity-displays/docs/adapter-requirements.md
+8/12/2025 03:29:58 Created file tools/infinity-displays/adapters/youtube.json
+8/12/2025 03:30:30 Created file tools/infinity-displays/renderers/adapters/youtube.js
+8/12/2025 03:31:14 Created file tools/infinity-displays/scenes/youtube-demo.json
