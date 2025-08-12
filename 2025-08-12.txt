@@ -16,3 +16,7 @@
 8/11/2025 23:45:07 Edited file tools/infinity-displays/renderers/adapters/filetreeAdapter.js
 8/11/2025 23:46:45 Edited file tools/infinity-displays/scenes/filetree-demo.json
 8/11/2025 23:47:21 Edited file tools/infinity-displays/scenes/filetree-demo.json
+8/12/2025 00:07:43 Edited file tools/infinity-displays/public/scene-builder.html
+8/12/2025 00:08:55 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:11:17 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:11:53 Edited file tools/infinity-displays/renderers/sceneRenderer.js
