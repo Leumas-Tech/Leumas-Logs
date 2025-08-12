@@ -20,3 +20,10 @@
 8/12/2025 00:08:55 Edited file tools/infinity-displays/renderers/sceneRenderer.js
 8/12/2025 00:11:17 Edited file tools/infinity-displays/renderers/sceneRenderer.js
 8/12/2025 00:11:53 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:15:35 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:16:19 Edited file tools/infinity-displays/scenes/filetree-demo.json
+8/12/2025 00:16:46 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:18:50 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:20:01 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:22:00 Edited file tools/infinity-displays/renderers/sceneRenderer.js
+8/12/2025 00:22:25 Edited file tools/infinity-displays/renderers/sceneRenderer.js
