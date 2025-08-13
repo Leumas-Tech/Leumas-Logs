@@ -11779,3 +11779,8 @@
 8/13/2025 01:33:21 Created file NPM/leumas-middleware/lib/a.helpers/test_getSubdomainFromUrl.js
 8/13/2025 01:33:45 Edited file NPM/leumas-middleware/lib/a.helpers/queue.csv
 8/13/2025 01:35:23 Created file NPM/leumas-middleware/lib/a.helpers/getTopLevelDomainFromUrl.js
+8/13/2025 01:50:18 Edited file NPM/leumas-middleware/lib/a.helpers/getTopLevelDomainFromUrl.js
+8/13/2025 01:51:33 Edited file NPM/leumas-middleware/package.json
+8/13/2025 01:51:56 Created file NPM/leumas-middleware/lib/a.helpers/test_getTopLevelDomainFromUrl.js
+8/13/2025 01:52:21 Created file NPM/leumas-middleware/lib/test_universalAdapterRunner.js
+8/13/2025 01:52:22 Edited file NPM/leumas-middleware/lib/universalAdapterRunner.js
