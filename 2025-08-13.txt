@@ -9,3 +9,8 @@
 8/12/2025 21:46:28 Created folder NPM/leumas-middleware/lib/a.functioncalls/tests
 8/12/2025 21:47:59 Created file NPM/leumas-middleware/lib/a.functioncalls/helpers/index.js
 8/12/2025 22:00:34 Created file NPM/leumas-middleware/lib/a.functioncalls/goal.txt
+8/12/2025 22:08:11 Edited file NPM/leumas-middleware/lib/a.functioncalls/helpers/index.js
+8/12/2025 22:09:02 Created file NPM/leumas-middleware/lib/a.functioncalls/adapters/gemini.js
+8/12/2025 22:09:02 Created file NPM/leumas-middleware/lib/a.functioncalls/tests/helpers.test.js
+8/12/2025 22:09:02 Created file NPM/leumas-middleware/lib/a.functioncalls/adapters/ollama.js
+8/12/2025 22:11:27 Created folder NPM/leumas-middleware/lib/a.qr
