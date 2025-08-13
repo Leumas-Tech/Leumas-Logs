@@ -11633,3 +11633,8 @@
 8/13/2025 00:47:55 Edited file NPM/leumas-middleware/lib/a.qr/public/index.html
 8/13/2025 00:50:49 Created file NPM/leumas-middleware/lib/a.helpers/queue.csv
 8/13/2025 00:52:27 Edited file NPM/leumas-middleware/lib/a.qr/qrcodes.json
+8/13/2025 00:52:53 Edited file NPM/leumas-middleware/lib/a.qr/public/script.js
+8/13/2025 00:54:08 Edited file NPM/leumas-middleware/lib/a.qr/public/script.js
+8/13/2025 00:55:24 Edited file NPM/leumas-middleware/lib/a.qr/public/script.js
+8/13/2025 00:56:40 Edited file NPM/leumas-middleware/lib/a.qr/public/index.html
+8/13/2025 01:02:33 Edited file NPM/leumas-middleware/lib/a.qr/public/index.html
