@@ -12598,3 +12598,8 @@
 8/13/2025 04:16:47 Edited file NPM/leumas-middleware/lib/a.helpers/test_crc32c.js
 8/13/2025 04:17:12 Edited file NPM/leumas-middleware/lib/a.helpers/crc32c.js
 8/13/2025 04:17:35 Edited file NPM/leumas-middleware/lib/a.helpers/crc32c.js
+8/13/2025 09:20:20 Edited file NPM/leumas-middleware/lib/a.helpers/package.json
+8/13/2025 09:21:35 Edited file NPM/leumas-middleware/lib/a.helpers/package.json
+8/13/2025 09:21:35 Edited file NPM/leumas-middleware/lib/a.helpers/queue.csv
+8/13/2025 09:21:37 Created file NPM/leumas-middleware/lib/a.helpers/debug_crc.js
+8/13/2025 09:21:37 Created file NPM/leumas-middleware/lib/a.helpers/package-lock.json
