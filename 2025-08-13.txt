@@ -11585,3 +11585,10 @@
 8/13/2025 00:01:49 Edited file NPM/leumas-middleware/lib/a.qr/public/index.html
 8/13/2025 00:01:49 Edited file NPM/leumas-middleware/lib/a.qr/public/script.js
 8/13/2025 00:02:14 Edited file NPM/leumas-middleware/lib/a.qr/qrcodes.json
+8/13/2025 00:03:04 Edited file NPM/leumas-middleware/lib/a.qr/helpers/index.js
+8/13/2025 00:03:27 Edited file NPM/leumas-middleware/lib/a.qr/public/index.html
+8/13/2025 00:03:29 Edited file NPM/leumas-middleware/lib/a.qr/helpers/index.js
+8/13/2025 00:03:51 Edited file NPM/leumas-middleware/lib/a.qr/public/script.js
+8/13/2025 00:05:04 Created file NPM/leumas-middleware/lib/a.helpers/getIpAddress.js
+8/13/2025 00:05:04 Created file NPM/leumas-middleware/lib/a.helpers/getUrlIp.js
+8/13/2025 00:05:04 Created file NPM/leumas-middleware/lib/a.helpers/test_script.js
