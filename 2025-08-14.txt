@@ -1,3 +1,6 @@
 8/13/2025 19:25:19 Created file tools/queue-processor/debug_worker.js
 8/13/2025 19:26:18 Edited file tools/queue-processor/index.js
 8/13/2025 19:26:52 Edited file tools/queue-processor/worker.js
+8/13/2025 19:34:52 Created file tools/queue-processor/bulk_worker_runner.js
+8/13/2025 19:41:09 Edited file tools/queue-processor/worker.js
+8/13/2025 19:41:09 Edited file tools/queue-processor/bulk_worker_runner.js
