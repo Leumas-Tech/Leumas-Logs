@@ -23520,3 +23520,11 @@
 8/14/2025 13:23:03 Created file NPM/leumas-middleware/lib/a.events/adapters/meetup.js
 8/14/2025 13:23:04 Created file NPM/leumas-middleware/lib/a.events/results/results-2025-08-14T18-21-19.478Z.json
 8/14/2025 13:28:59 Edited file NPM/leumas-middleware/lib/a.helpers/tests/getQueue.test.js
+8/14/2025 13:36:10 Edited file NPM/leumas-middleware/lib/a.helpers/adapters/run_tests.js
+8/14/2025 13:36:35 Edited file NPM/leumas-middleware/lib/a.helpers/adapters/run_tests.js
+8/14/2025 13:38:16 Created file NPM/leumas-middleware/lib/a.helpers/tests/vanilla_test_addTrailingSlash.js
+8/14/2025 13:40:28 Edited file NPM/leumas-middleware/package.json
+8/14/2025 13:40:53 Edited file NPM/leumas-middleware/lib/a.helpers/test/test_setHashInUrl.js
+8/14/2025 13:41:18 Edited file NPM/leumas-middleware/lib/a.helpers/test/test_getProtocolFromUrl.js
+8/14/2025 13:41:18 Edited file NPM/leumas-middleware/lib/a.helpers/test/test_removeHashFromUrl.js
+8/14/2025 13:41:19 Edited file NPM/leumas-middleware/lib/a.helpers/test/test_setProtocolInUrl.js
