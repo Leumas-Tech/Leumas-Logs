@@ -23516,3 +23516,7 @@
 8/14/2025 13:07:50 Created file NPM/leumas-middleware/lib/a.helpers/tests/runAllTests.test.js
 8/14/2025 13:12:53 Created folder NPM/leumas-middleware/lib/a.events/scripts
 8/14/2025 13:14:33 Created file NPM/leumas-middleware/lib/a.events/scripts/fetch-events.js
+8/14/2025 13:23:03 Created file NPM/leumas-middleware/lib/a.events/tests/meetup.test.js
+8/14/2025 13:23:03 Created file NPM/leumas-middleware/lib/a.events/adapters/meetup.js
+8/14/2025 13:23:04 Created file NPM/leumas-middleware/lib/a.events/results/results-2025-08-14T18-21-19.478Z.json
+8/14/2025 13:28:59 Edited file NPM/leumas-middleware/lib/a.helpers/tests/getQueue.test.js
