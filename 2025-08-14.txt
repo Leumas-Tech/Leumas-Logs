@@ -4,3 +4,6 @@
 8/13/2025 19:34:52 Created file tools/queue-processor/bulk_worker_runner.js
 8/13/2025 19:41:09 Edited file tools/queue-processor/worker.js
 8/13/2025 19:41:09 Edited file tools/queue-processor/bulk_worker_runner.js
+8/13/2025 19:55:49 Edited file tools/queue-processor/templates/repairCode.txt
+8/13/2025 19:56:21 Edited file tools/queue-processor/helpers/ollamaHelper.js
+8/13/2025 19:56:49 Edited file tools/queue-processor/worker.js
