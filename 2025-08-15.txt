@@ -7466,3 +7466,12 @@
 8/15/2025 14:57:00 Created file NPM/leumas-middleware/lib/a.physics/adapters/wave-speed/adapter.json
 8/15/2025 14:57:00 Created file NPM/leumas-middleware/lib/a.physics/adapters/snells-law/adapter.json
 8/15/2025 14:57:00 Created file NPM/leumas-middleware/lib/a.physics/adapters/newton-second-law/index.js
+8/15/2025 15:14:56 Edited file NPM/leumas-middleware/lib/a.physics/public/index.html
+8/15/2025 15:14:56 Edited file NPM/leumas-middleware/lib/a.physics/public/app.js
+8/15/2025 15:14:56 Edited file NPM/leumas-middleware/lib/a.physics/public/styles.css
+8/15/2025 15:17:16 Created file NPM/leumas-middleware/lib/a.physics/public/three-view.js
+8/15/2025 15:21:44 Created folder NPM/leumas-middleware/lib/a.physics/adapters/gravitational-potential-energy
+8/15/2025 15:21:44 Created folder NPM/leumas-middleware/lib/a.physics/adapters/work-from-force
+8/15/2025 15:21:44 Created folder NPM/leumas-middleware/lib/a.physics/adapters/electric-power
+8/15/2025 15:21:44 Created folder NPM/leumas-middleware/lib/a.physics/adapters/ohms-law-current
+8/15/2025 15:22:12 Created folder NPM/leumas-middleware/lib/a.physics/adapters/pendulum-period
