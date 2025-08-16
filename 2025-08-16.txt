@@ -9430,3 +9430,15 @@
 8/16/2025 05:19:53 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/Components/RTS-Build-Order.html
 8/16/2025 05:21:49 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/Components/DialogueWeb.html
 8/16/2025 05:23:32 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/Components/Spell-Builder.html
+8/16/2025 07:06:19 Created folder tools/vllm-node-helper
+8/16/2025 07:08:10 Created file tools/vllm-node-helper/.env.example
+8/16/2025 07:08:10 Created file tools/vllm-node-helper/package.json
+8/16/2025 07:08:10 Created file tools/vllm-node-helper/example.js
+8/16/2025 07:08:10 Created file tools/vllm-node-helper/README.md
+8/16/2025 07:09:57 Created folder tools/vllm-node-helper/test
+8/16/2025 07:09:57 Created folder tools/vllm-node-helper/src
+8/16/2025 07:09:57 Created folder tools/vllm-node-helper/docs
+8/16/2025 07:11:47 Created file tools/vllm-node-helper/test/vllm-client.test.js
+8/16/2025 07:11:47 Created file tools/vllm-node-helper/src/vllm-client.js
+8/16/2025 07:11:47 Created file tools/vllm-node-helper/docs/DOCKER-COMPOSE.md
+8/16/2025 07:11:47 Created file tools/vllm-node-helper/docs/USAGE.md
