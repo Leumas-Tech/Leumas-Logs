@@ -9248,3 +9248,14 @@
 8/16/2025 01:01:34 Created file NPM/leumas-middleware/lib/b.geology/node_modules/iconv-lite/encodings/tables/eucjp.json
 8/16/2025 01:01:34 Created file NPM/leumas-middleware/lib/b.geology/node_modules/iconv-lite/encodings/tables/shiftjis.json
 8/16/2025 01:01:35 Edited file NPM/leumas-middleware/lib/a.calendar/public/conversion.html
+8/16/2025 01:04:07 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales
+8/16/2025 01:04:07 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Asterids/Lamiales
+8/16/2025 01:04:07 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Asterids/Asterales
+8/16/2025 01:04:07 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fabales
+8/16/2025 01:04:07 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Rosales
+8/16/2025 01:05:53 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales/_index.js
+8/16/2025 01:05:53 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Asterids/Lamiales/.keep
+8/16/2025 01:05:53 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Rosales/.keep
+8/16/2025 01:05:53 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fabales/.keep
+8/16/2025 01:05:53 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Asterids/Asterales/.keep
+8/16/2025 01:11:54 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales/Fagaceae
