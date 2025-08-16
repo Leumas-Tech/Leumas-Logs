@@ -9360,3 +9360,14 @@
 8/16/2025 02:01:38 Created file NPM/leumas-middleware/lib/a.vehicles/adapters/Propulsion/ICE/Toyota/A25A_FXS/2024/Hybrid_ICE.js
 8/16/2025 02:01:38 Created file NPM/leumas-middleware/lib/a.vehicles/adapters/Propulsion/Turbine/CFM/LEAP_1B/2021/Turbofan.js
 8/16/2025 02:01:38 Created file NPM/leumas-middleware/lib/a.vehicles/adapters/Propulsion/Turbine/Pratt_Whitney/PW1100G/2022/Geared_Turbofan.js
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Land/Road/Cars/Tesla/Model_3
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Land/Rail/EMU/Siemens/Mireo
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Air/Aviation/Airliners/Airbus/A320neo
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Land/Road/Trucks/Freightliner/eCascadia
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Air/Aviation/Airliners/Boeing/737_MAX
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Land/Road/Cars/Toyota/Corolla
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Space/Aerospace/Launch_Vehicles/SpaceX/Falcon_9
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Land/Road/Trucks/Ford/F_150_Lightning
+8/16/2025 02:06:51 Created folder NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Space/Aerospace/Launch_Vehicles/Rocket_Lab/Electron
+8/16/2025 02:08:33 Created file NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Land/Road/Cars/Tesla/Model_3/_index.js
+8/16/2025 02:08:33 Created file NPM/leumas-middleware/lib/a.vehicles/adapters/Vehicles/Space/Aerospace/Launch_Vehicles/Rocket_Lab/Electron/Rutherford.js
