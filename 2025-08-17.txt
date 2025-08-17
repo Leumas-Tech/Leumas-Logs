@@ -60580,3 +60580,6 @@
 8/17/2025 11:12:32 Created file NPM/leumas-middleware/lib/a.physics/adapters/pressure/index.js
 8/17/2025 11:12:32 Created file NPM/leumas-middleware/lib/a.physics/adapters/entropy-change-reversible/index.js
 8/17/2025 11:12:32 Created file NPM/leumas-middleware/lib/a.physics/adapters/capacitance/index.js
+8/17/2025 11:13:27 Created file NPM/leumas-middleware/lib/a.physics/adapters/brewster-angle/index.js
+8/17/2025 11:13:27 Created file NPM/leumas-middleware/lib/a.physics/adapters/rc-time-constant/index.js
+8/17/2025 11:13:27 Created file NPM/leumas-middleware/lib/a.physics/adapters/wiens-displacement-law/index.js
