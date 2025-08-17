@@ -59604,3 +59604,6 @@
 8/17/2025 03:41:42 Edited file NPM/leumas-middleware/lib/a.physics/public/app.js
 8/17/2025 03:42:10 Edited file NPM/leumas-middleware/lib/a.physics/public/styles.css
 8/17/2025 03:42:38 Edited file NPM/leumas-middleware/lib/a.physics/public/styles.css
+8/17/2025 03:44:03 Edited file NPM/leumas-middleware/lib/a.physics/public/ollama-popup.js
+8/17/2025 03:44:33 Edited file NPM/leumas-middleware/lib/a.physics/public/app.js
+8/17/2025 03:49:36 Edited file NPM/leumas-middleware/lib/a.physics/public/ollama-popup.js
