@@ -60539,3 +60539,14 @@
 8/17/2025 05:12:05 Created folder NPM/leumas-middleware/lib/a.physics/node_modules/web-streams-polyfill/dist/types/ts3.6
 8/17/2025 05:13:55 Created file NPM/leumas-middleware/lib/a.physics/node_modules/web-streams-polyfill/dist/types/ts3.6/ponyfill.d.ts
 8/17/2025 05:13:55 Created file NPM/leumas-middleware/lib/a.physics/node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts
+8/17/2025 10:57:25 Created folder NPM/leumas-middleware/lib/a.physics/adapters/doppler-effect
+8/17/2025 10:57:25 Created folder NPM/leumas-middleware/lib/a.physics/adapters/mass-energy-equivalence
+8/17/2025 10:57:52 Created folder NPM/leumas-middleware/lib/a.physics/adapters/bernoullis-principle
+8/17/2025 10:59:13 Created file NPM/leumas-middleware/lib/a.physics/adapters/doppler-effect/index.js
+8/17/2025 10:59:13 Created file NPM/leumas-middleware/lib/a.physics/adapters/mass-energy-equivalence/index.js
+8/17/2025 10:59:13 Created folder NPM/leumas-middleware/lib/a.physics/adapters/de-broglie-wavelength
+8/17/2025 10:59:40 Created file NPM/leumas-middleware/lib/a.physics/adapters/bernoullis-principle/index.js
+8/17/2025 11:01:01 Created file NPM/leumas-middleware/lib/a.physics/adapters/de-broglie-wavelength/index.js
+8/17/2025 11:01:29 Created folder NPM/leumas-middleware/lib/a.physics/adapters/torque
+8/17/2025 11:01:29 Created folder NPM/leumas-middleware/lib/a.physics/adapters/centripetal-force
+8/17/2025 11:01:29 Created folder NPM/leumas-middleware/lib/a.physics/adapters/latent-heat
