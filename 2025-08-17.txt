@@ -59607,3 +59607,10 @@
 8/17/2025 03:44:03 Edited file NPM/leumas-middleware/lib/a.physics/public/ollama-popup.js
 8/17/2025 03:44:33 Edited file NPM/leumas-middleware/lib/a.physics/public/app.js
 8/17/2025 03:49:36 Edited file NPM/leumas-middleware/lib/a.physics/public/ollama-popup.js
+8/17/2025 03:53:50 Edited file NPM/leumas-middleware/lib/a.physics/public/index.html
+8/17/2025 03:54:46 Edited file NPM/leumas-middleware/lib/a.physics/public/ollama-popup.js
+8/17/2025 03:58:03 Edited file NPM/leumas-middleware/lib/a.physics/public/index.html
+8/17/2025 03:59:27 Created file NPM/leumas-middleware/lib/a.physics/public/chatbot.html
+8/17/2025 04:00:56 Deleted file NPM/leumas-middleware/lib/a.physics/public/chatbot.html
+8/17/2025 04:00:58 Edited file NPM/leumas-middleware/lib/a.physics/public/app.js
+8/17/2025 04:02:12 Edited file NPM/leumas-middleware/lib/a.physics/public/index.html
