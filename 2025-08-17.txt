@@ -2211,3 +2211,8 @@
 8/16/2025 20:30:15 Created file assets/Images/mascot/1.stl
 8/16/2025 20:39:06 Created file assets/Images/mascot/inflate3d.js
 8/16/2025 20:39:34 Created file assets/Images/mascot/mascot_inflated.stl
+8/16/2025 20:47:04 Created file assets/Images/mascot/fill3d.js
+8/16/2025 20:47:04 Created file assets/Images/mascot/mascot_filled.stl
+8/16/2025 20:52:28 Created file assets/Images/mascot/mascot_solid.stl
+8/16/2025 20:52:28 Created file assets/Images/mascot/solidify3d.js
+8/16/2025 20:52:28 Created file assets/Images/mascot/mascot_solid_mask.png
