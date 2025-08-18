@@ -84,3 +84,12 @@
 8/18/2025 01:02:06 Created file NPM/leumas-middleware/lib/a.vehicles/todo.txt
 8/18/2025 01:02:28 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids
 8/18/2025 01:02:28 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Asterids
+8/18/2025 01:02:56 Created file NPM/leumas-middleware/lib/a.vehicles/docs/registry.md
+8/18/2025 01:02:56 Created file NPM/leumas-middleware/lib/a.vehicles/docs/similarity.md
+8/18/2025 01:02:56 Created file NPM/leumas-middleware/lib/a.vehicles/test/similarity.test.js
+8/18/2025 01:02:56 Created file NPM/leumas-middleware/lib/a.vehicles/test/registry.test.js
+8/18/2025 01:04:10 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Asterids/_index.js
+8/18/2025 01:04:10 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/_index.js
+8/18/2025 01:09:31 Created file NPM/leumas-middleware/lib/b.human-biology/todo.txt
+8/18/2025 01:09:47 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales
+8/18/2025 01:11:31 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales/_index.js
