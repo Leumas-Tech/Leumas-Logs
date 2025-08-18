@@ -93,3 +93,5 @@
 8/18/2025 01:09:31 Created file NPM/leumas-middleware/lib/b.human-biology/todo.txt
 8/18/2025 01:09:47 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales
 8/18/2025 01:11:31 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales/_index.js
+8/18/2025 01:17:33 Created folder NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales/Fagaceae
+8/18/2025 01:19:16 Created file NPM/leumas-middleware/lib/b.plant-kingdom/adapters/Embryophyta/Tracheophyta/Spermatophytes/Angiosperms/Eudicots/Rosids/Fagales/Fagaceae/_index.js
