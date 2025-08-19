@@ -20,3 +20,9 @@
 8/19/2025 00:10:42 Edited file tools/leumas-cast/leumas-cast/plugins/mouse-keyboard/master.js
 8/19/2025 00:11:11 Created file tools/leumas-cast/leumas-cast/leumas-hotkeys.ps1
 8/19/2025 00:12:34 Edited file tools/leumas-cast/leumas-cast/leumas-hotkeys.ps1
+8/19/2025 00:14:21 Edited file tools/leumas-cast/leumas-cast/leumas-hotkeys.ps1
+8/19/2025 00:15:44 Edited file tools/leumas-cast/leumas-cast/leumas-hotkeys.ps1
+8/19/2025 00:18:28 Edited file NPM/leumas-middleware/lib/a.functioncalls/goal.txt
+8/19/2025 00:20:19 Deleted file tools/leumas-cast/leumas-cast/core/target.js
+8/19/2025 00:21:16 Edited file tools/leumas-cast/leumas-cast/leumas-hotkeys.ps1
+8/19/2025 00:21:44 Created file tools/leumas-cast/leumas-cast/core/targets.js
