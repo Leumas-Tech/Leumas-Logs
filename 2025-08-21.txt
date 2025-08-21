@@ -287,3 +287,4 @@
 8/21/2025 14:01:49 Created folder NPM/leumas-middleware/lib/a.dependency/adapters/cad-3d
 8/21/2025 14:02:38 Created file NPM/leumas-middleware/lib/a.dependency/adapters/media/index.js
 8/21/2025 14:03:26 Created file NPM/leumas-middleware/lib/a.dependency/adapters/cad-3d/index.js
+8/21/2025 17:50:27 Created file atlas/adapters/cad-3d.json
