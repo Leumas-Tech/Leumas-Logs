@@ -82,3 +82,5 @@
 8/22/2025 01:30:40 Edited file atlas/embeddings/react-components.ndjson
 8/22/2025 01:30:40 Edited file atlas/embeddings/nodejs-routers.ndjson
 8/22/2025 01:30:40 Edited file atlas/embeddings/nodejs-helpers.ndjson
+8/22/2025 01:36:59 Edited file NPM/leumas-middleware/lib/a.dependency/helpers/atlas-embed.worker.js
+8/22/2025 01:38:41 Edited file NPM/leumas-middleware/lib/a.dependency/helpers/atlas-embed.worker.js
