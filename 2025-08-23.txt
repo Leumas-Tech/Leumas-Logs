@@ -26,3 +26,4 @@
 8/23/2025 01:51:01 Created file atlas/helpers/provenance.js
 8/23/2025 01:51:01 Created file atlas/helpers/explain.js
 8/23/2025 01:58:10 Created file atlas/public/explain.html
+8/23/2025 02:02:25 Edited file atlas/public/explain.html
