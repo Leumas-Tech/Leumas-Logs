@@ -27,3 +27,7 @@
 8/23/2025 01:51:01 Created file atlas/helpers/explain.js
 8/23/2025 01:58:10 Created file atlas/public/explain.html
 8/23/2025 02:02:25 Edited file atlas/public/explain.html
+8/23/2025 02:11:33 Created file atlas/public/coverage.html
+8/23/2025 02:14:08 Edited file atlas/public/coverage.html
+8/23/2025 02:17:39 Edited file atlas/helpers/multi.js
+8/23/2025 02:18:31 Edited file atlas/routes/router.js
