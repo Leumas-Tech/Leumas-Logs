@@ -56,3 +56,7 @@
 8/24/2025 02:31:19 Edited file NPM/leumas-middleware/lib/a.physics/helpers/routes-derived.csv
 8/24/2025 02:31:50 Edited file NPM/leumas-middleware/lib/a.physics/helpers/routes-derived.csv
 8/24/2025 02:38:15 Created file NPM/leumas-middleware/lib/a.physics/helpers/routes_compose_one.mjs
+8/24/2025 02:50:53 Created file NPM/leumas-middleware/lib/a.physics/helpers/route_compose_from_adapters.mjs
+8/24/2025 02:51:48 Edited file NPM/leumas-middleware/lib/a.physics/helpers/route_compose_from_adapters.mjs
+8/24/2025 02:53:38 Edited file NPM/leumas-middleware/lib/a.physics/helpers/route_compose_from_adapters.mjs
+8/24/2025 02:55:01 Created file NPM/leumas-middleware/lib/a.physics/helpers/compose_one_cli.mjs
