@@ -60,3 +60,7 @@
 8/24/2025 02:51:48 Edited file NPM/leumas-middleware/lib/a.physics/helpers/route_compose_from_adapters.mjs
 8/24/2025 02:53:38 Edited file NPM/leumas-middleware/lib/a.physics/helpers/route_compose_from_adapters.mjs
 8/24/2025 02:55:01 Created file NPM/leumas-middleware/lib/a.physics/helpers/compose_one_cli.mjs
+8/24/2025 03:05:17 Created file NPM/leumas-middleware/lib/a.physics/helpers/derive_AB_all_routes.mjs
+8/24/2025 03:06:43 Created file NPM/leumas-middleware/lib/a.physics/helpers/heat_to_power.ndjson
+8/24/2025 03:08:35 Edited file NPM/leumas-middleware/lib/a.physics/helpers/derive_AB_all_routes.mjs
+8/24/2025 03:08:35 Edited file NPM/leumas-middleware/lib/a.physics/helpers/heat_to_power.ndjson
