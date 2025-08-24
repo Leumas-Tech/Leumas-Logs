@@ -10502,3 +10502,17 @@
 8/24/2025 17:46:22 Created folder NPM/leumas-middleware/lib/a.buttons
 8/24/2025 17:49:18 Created file NPM/leumas-middleware/lib/a.buttons/server.js
 8/24/2025 17:49:18 Created file NPM/leumas-middleware/lib/a.buttons/router.js
+8/24/2025 17:51:46 Created folder NPM/leumas-middleware/lib/a.buttons/docs
+8/24/2025 17:51:46 Created folder NPM/leumas-middleware/lib/a.buttons/helpers
+8/24/2025 17:51:46 Created folder NPM/leumas-middleware/lib/a.buttons/adapters
+8/24/2025 17:51:46 Created folder NPM/leumas-middleware/lib/a.buttons/public
+8/24/2025 17:51:46 Created folder NPM/leumas-middleware/lib/a.buttons/tests
+8/24/2025 17:52:11 Created file NPM/leumas-middleware/lib/a.buttons/main.js
+8/24/2025 17:53:24 Created file NPM/leumas-middleware/lib/a.buttons/helpers/runAdapter.js
+8/24/2025 17:56:15 Created folder NPM/leumas-middleware/lib/a.buttons/adapters/http
+8/24/2025 17:56:15 Created folder NPM/leumas-middleware/lib/a.buttons/adapters/audio
+8/24/2025 17:57:56 Created file NPM/leumas-middleware/lib/a.buttons/adapters/http/index.js
+8/24/2025 17:57:56 Created file NPM/leumas-middleware/lib/a.buttons/adapters/audio/index.js
+8/24/2025 17:57:56 Deleted file NPM/leumas-middleware/lib/a.buttons/helpers/runAdapter.js
+8/24/2025 17:58:21 Edited file NPM/leumas-middleware/lib/a.buttons/main.js
+8/24/2025 17:59:10 Created file NPM/leumas-middleware/lib/a.buttons/helpers/useAdapter.js
