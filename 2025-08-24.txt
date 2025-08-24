@@ -3193,3 +3193,4 @@
 8/24/2025 04:21:52 Created file NPM/leumas-middleware/lib/a.physics/node_modules/mathjs/lib/cjs/expression/embeddedDocs/function/utils/oct.js
 8/24/2025 04:21:52 Created file NPM/leumas-middleware/lib/a.physics/node_modules/mathjs/lib/cjs/expression/embeddedDocs/function/utils/typeOf.js
 8/24/2025 04:21:52 Created file NPM/leumas-middleware/lib/a.physics/node_modules/mathjs/lib/cjs/expression/embeddedDocs/function/utils/print.js
+8/24/2025 04:31:37 Edited file NPM/leumas-middleware/lib/a.physics/helpers/heat_to_power.enriched.ndjson
