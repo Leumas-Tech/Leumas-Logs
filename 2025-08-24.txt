@@ -10411,3 +10411,8 @@
 8/24/2025 17:22:41 Created file NPM/leumas-middleware/lib/a.functions/adapters/union-find/index.js
 8/24/2025 17:22:41 Created file NPM/leumas-middleware/lib/a.functions/adapters/ndjson-writer/index.js
 8/24/2025 17:23:33 Edited file NPM/leumas-middleware/lib/a.functions/adapters/retry/index.js
+8/24/2025 17:34:45 Created folder NPM/leumas-middleware/lib/a.functions/docs
+8/24/2025 17:36:24 Created file NPM/leumas-middleware/lib/a.functions/docs/for-developers.md
+8/24/2025 17:36:24 Created file NPM/leumas-middleware/lib/a.functions/docs/index.md
+8/24/2025 17:36:24 Created file NPM/leumas-middleware/lib/a.functions/docs/for-users.md
+8/24/2025 17:39:19 Created folder NPM/leumas-middleware/lib/a.functions/docs/adapters
