@@ -31,3 +31,11 @@
 8/24/2025 00:56:16 Edited file NPM/leumas-middleware/lib/a.physics/helpers/routes-math.csv
 8/24/2025 01:08:20 Created folder NPM/leumas-middleware/lib/a.functions
 8/24/2025 01:10:13 Created file NPM/leumas-middleware/lib/a.functions/server.js
+8/24/2025 01:11:05 Created file NPM/leumas-middleware/lib/a.physics/helpers/routes_dedupe_and_motifs.mjs
+8/24/2025 01:13:03 Created folder NPM/leumas-middleware/lib/a.functions/tests
+8/24/2025 01:13:03 Created folder NPM/leumas-middleware/lib/a.functions/helpers
+8/24/2025 01:13:03 Created folder NPM/leumas-middleware/lib/a.functions/public
+8/24/2025 01:13:03 Created folder NPM/leumas-middleware/lib/a.functions/adapters
+8/24/2025 01:13:57 Created file NPM/leumas-middleware/lib/a.physics/adapters/motifs.csv
+8/24/2025 01:14:26 Created file NPM/leumas-middleware/lib/a.physics/helpers/symbols.json
+8/24/2025 01:15:22 Edited file NPM/leumas-middleware/lib/a.physics/helpers/symbols.json
