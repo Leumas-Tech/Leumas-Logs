@@ -51,3 +51,5 @@
 8/24/2025 02:05:40 Edited file NPM/leumas-middleware/lib/a.physics/helpers/motifs.csv
 8/24/2025 02:13:43 Edited file NPM/leumas-middleware/lib/a.physics/helpers/motifs.csv
 8/24/2025 02:14:11 Edited file NPM/leumas-middleware/lib/a.physics/helpers/motifs.csv
+8/24/2025 02:30:08 Created file NPM/leumas-middleware/lib/a.physics/helpers/routes_compose_from_math.mjs
+8/24/2025 02:30:08 Created file NPM/leumas-middleware/lib/a.physics/helpers/routes-derived.csv
