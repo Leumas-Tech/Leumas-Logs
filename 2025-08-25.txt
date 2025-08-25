@@ -1323,3 +1323,8 @@
 8/25/2025 14:12:33 Created folder NPM/leumas-middleware/lib/a.progressions/utils
 8/25/2025 18:09:30 Edited file NPM/leumas-middleware/lib/a.progressions/server.js
 8/25/2025 18:10:44 Created file NPM/leumas-middleware/lib/a.progressions/utils/csv.js
+8/25/2025 18:12:40 Created file NPM/leumas-middleware/lib/a.dependency/adapters/nodejs-servers/progression.js
+8/25/2025 18:13:06 Created file NPM/leumas-middleware/lib/a.dependency/adapters/nodejs-helpers/progression.js
+8/25/2025 18:13:07 Created file NPM/leumas-middleware/lib/a.dependency/adapters/nodejs-routers/progression.js
+8/25/2025 18:13:15 Created file NPM/leumas-middleware/lib/a.dependency/adapters/media/progression.js
+8/25/2025 18:13:32 Created file NPM/leumas-middleware/lib/a.dependency/adapters/python-imports/progression.js
