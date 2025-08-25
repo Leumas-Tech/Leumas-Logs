@@ -1311,3 +1311,6 @@
 8/25/2025 08:48:13 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.js
 8/25/2025 08:48:13 Created file NPM/leumas-middleware/lib/a.buttons/templates/glitch-effect-button.json
 8/25/2025 08:48:13 Created file NPM/leumas-middleware/lib/a.buttons/templates/neural-network-button.json
+8/25/2025 10:44:04 Created folder NPM/leumas-middleware/lib/a.buttons/demos
+8/25/2025 10:45:43 Created file NPM/leumas-middleware/lib/a.buttons/demos/basic-html-demo.html
+8/25/2025 10:45:43 Created file NPM/leumas-middleware/lib/a.buttons/demos/dynamic-creation-demo.html
