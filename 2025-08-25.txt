@@ -1298,3 +1298,4 @@
 8/25/2025 00:57:47 Created file NPM/leumas-middleware/lib/a.buttons/templates/animated-gif-button.json
 8/25/2025 00:57:47 Created file NPM/leumas-middleware/lib/a.buttons/templates/threejs-button.json
 8/25/2025 00:58:10 Created file NPM/leumas-middleware/lib/a.buttons/adapters/threejs/index.js
+8/25/2025 08:35:42 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.js
