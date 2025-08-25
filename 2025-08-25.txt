@@ -1286,3 +1286,15 @@
 8/25/2025 00:42:14 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.js
 8/25/2025 00:47:14 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.js
 8/25/2025 00:47:40 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.js
+8/25/2025 00:51:30 Created file NPM/leumas-middleware/lib/a.buttons/buttons/ebaaa96b-9e80-4494-ac30-282319cadb7b.json
+8/25/2025 00:51:30 Created file NPM/leumas-middleware/lib/a.buttons/buttons/e833f115-8cb6-45d8-8f23-3a91082d584b.json
+8/25/2025 00:52:45 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.html
+8/25/2025 00:52:45 Edited file NPM/leumas-middleware/lib/a.buttons/server.js
+8/25/2025 00:54:25 Edited file NPM/leumas-middleware/lib/a.buttons/public/builder.js
+8/25/2025 00:56:07 Created folder NPM/leumas-middleware/lib/a.buttons/templates
+8/25/2025 00:56:32 Created folder NPM/leumas-middleware/lib/a.buttons/adapters/threejs
+8/25/2025 00:56:32 Created folder NPM/leumas-middleware/lib/a.buttons/public/assets
+8/25/2025 00:57:47 Created file NPM/leumas-middleware/lib/a.buttons/templates/simple-blue-button.json
+8/25/2025 00:57:47 Created file NPM/leumas-middleware/lib/a.buttons/templates/animated-gif-button.json
+8/25/2025 00:57:47 Created file NPM/leumas-middleware/lib/a.buttons/templates/threejs-button.json
+8/25/2025 00:58:10 Created file NPM/leumas-middleware/lib/a.buttons/adapters/threejs/index.js
