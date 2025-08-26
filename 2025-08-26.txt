@@ -14,3 +14,14 @@
 8/26/2025 04:00:15 Created folder NPM/leumas-middleware/lib/a.materials/tests
 8/26/2025 04:00:15 Created folder NPM/leumas-middleware/lib/a.materials/adapters
 8/26/2025 04:00:15 Created folder NPM/leumas-middleware/lib/a.materials/public
+8/26/2025 04:06:56 Edited file NPM/leumas-middleware/lib/a.materials/server.js
+8/26/2025 04:08:13 Created file NPM/leumas-middleware/lib/a.materials/helpers/embeddings.js
+8/26/2025 04:08:13 Created file NPM/leumas-middleware/lib/a.materials/helpers/graph.js
+8/26/2025 04:08:13 Created file NPM/leumas-middleware/lib/a.materials/helpers/phase.js
+8/26/2025 04:08:13 Created file NPM/leumas-middleware/lib/a.materials/helpers/loader.js
+8/26/2025 04:08:14 Created file NPM/leumas-middleware/lib/a.materials/index.js
+8/26/2025 04:08:39 Created file NPM/leumas-middleware/lib/a.materials/helpers/schema.js
+8/26/2025 04:09:05 Created file NPM/leumas-middleware/lib/a.materials/docs/README.md
+8/26/2025 04:09:05 Created file NPM/leumas-middleware/lib/a.materials/public/sample.json
+8/26/2025 04:09:31 Created file NPM/leumas-middleware/lib/a.materials/tests/boilerplate.js
+8/26/2025 04:09:31 Created file NPM/leumas-middleware/lib/a.materials/tests/smoke.test.js
