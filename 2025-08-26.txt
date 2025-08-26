@@ -375,3 +375,17 @@
 8/26/2025 18:30:22 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/livermorium/index.js
 8/26/2025 18:30:22 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/lutetium/index.js
 8/26/2025 18:30:46 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/lead/index.js
+8/26/2025 18:38:07 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/krypton/index.js
+8/26/2025 18:38:07 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/lawrencium/index.js
+8/26/2025 18:38:07 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/iridium/index.js
+8/26/2025 18:38:07 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/lanthanum/index.js
+8/26/2025 18:38:33 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/indium/index.js
+8/26/2025 18:38:33 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/iodine/index.js
+8/26/2025 18:39:00 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/hafnium/index.js
+8/26/2025 18:39:00 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/holmium/index.js
+8/26/2025 18:39:00 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/hassium/index.js
+8/26/2025 18:39:25 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/francium/index.js
+8/26/2025 18:39:25 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/gold/index.js
+8/26/2025 18:39:25 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/gallium/index.js
+8/26/2025 18:39:25 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/germanium/index.js
+8/26/2025 18:39:25 Edited file NPM/leumas-middleware/lib/a.materials/adapters/elements/gadolinium/index.js
