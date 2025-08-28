@@ -1,2 +1,10 @@
 8/28/2025 11:47:14 Created folder NPM/leumas-middleware/lib/a.deployment
 8/28/2025 11:48:56 Created file NPM/leumas-middleware/lib/a.deployment/package.json
+8/28/2025 11:51:25 Created folder NPM/leumas-middleware/lib/a.deployment/config
+8/28/2025 11:51:25 Created folder NPM/leumas-middleware/lib/a.deployment/helpers
+8/28/2025 11:51:25 Created folder NPM/leumas-middleware/lib/a.deployment/adapters
+8/28/2025 11:51:25 Created folder NPM/leumas-middleware/lib/a.deployment/scripts
+8/28/2025 11:55:56 Created file NPM/leumas-middleware/lib/a.deployment/package-lock.json
+8/28/2025 11:55:56 Created file NPM/leumas-middleware/lib/a.deployment/README.md
+8/28/2025 11:58:40 Created folder NPM/leumas-middleware/lib/a.deployment/node_modules
+8/28/2025 12:00:22 Created file NPM/leumas-middleware/lib/a.deployment/node_modules/.package-lock.json
