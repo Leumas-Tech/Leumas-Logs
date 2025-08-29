@@ -104,3 +104,12 @@
 8/28/2025 22:59:14 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
 8/28/2025 23:00:29 Edited file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
 8/28/2025 23:00:30 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
+8/28/2025 23:11:15 Edited file NPM/leumas-middleware/lib/a.deployment/scripts/deploy.js
+8/28/2025 23:13:43 Edited file NPM/leumas-middleware/lib/a.deployment/scripts/deploy.js
+8/28/2025 23:14:09 Edited file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
+8/28/2025 23:15:26 Edited file NPM/leumas-middleware/lib/a.deployment/core/remote.js
+8/28/2025 23:15:52 Edited file NPM/leumas-middleware/lib/a.deployment/core/remote.js
+8/28/2025 23:17:09 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
+8/28/2025 23:17:34 Edited file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
+8/28/2025 23:18:54 Edited file NPM/leumas-middleware/lib/a.deployment/core/remote.js
+8/28/2025 23:19:45 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
