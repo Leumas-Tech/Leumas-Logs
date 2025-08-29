@@ -84,3 +84,7 @@
 8/28/2025 21:28:06 Edited file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
 8/28/2025 21:28:31 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
 8/28/2025 21:31:01 Edited file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
+8/28/2025 21:45:19 Edited file NPM/leumas-middleware/lib/a.deployment/core/deploy-runner.js
+8/28/2025 21:45:44 Created file NPM/leumas-middleware/lib/a.deployment/scripts/list-projects.js
+8/28/2025 21:47:24 Edited file NPM/leumas-middleware/lib/a.deployment/core/io.js
+8/28/2025 21:47:50 Edited file NPM/leumas-middleware/lib/a.deployment/scripts/list-projects.js
