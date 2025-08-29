@@ -81,3 +81,5 @@
 8/28/2025 21:00:26 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/templates/web.config.template
 8/28/2025 21:00:52 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/cpanel/index.js
 8/28/2025 21:01:44 Edited file NPM/leumas-middleware/lib/a.deployment/scripts/deploy.js
+8/28/2025 21:28:06 Edited file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
+8/28/2025 21:28:31 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
