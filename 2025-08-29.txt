@@ -62,3 +62,14 @@
 8/28/2025 19:57:38 Created file NPM/leumas-middleware/lib/a.deployment/core/deploy-runner.js
 8/28/2025 19:57:38 Created file NPM/leumas-middleware/lib/a.deployment/core/filters.js
 8/28/2025 19:57:38 Created file NPM/leumas-middleware/lib/a.deployment/core/io.js
+8/28/2025 20:01:24 Created folder NPM/leumas-middleware/lib/a.deployment/adapters/cpanel
+8/28/2025 20:01:24 Created folder NPM/leumas-middleware/lib/a.deployment/adapters/network
+8/28/2025 20:02:14 Created file NPM/leumas-middleware/lib/a.deployment/config/project.example.json
+8/28/2025 20:03:04 Created file NPM/leumas-middleware/lib/a.deployment/adapters/cpanel/index.js
+8/28/2025 20:03:04 Created file NPM/leumas-middleware/lib/a.deployment/adapters/network/index.js
+8/28/2025 20:06:28 Created folder NPM/leumas-middleware/lib/a.deployment/adapters/cpanel/templates
+8/28/2025 20:06:28 Created folder NPM/leumas-middleware/lib/a.deployment/adapters/network/templates
+8/28/2025 20:06:28 Created file NPM/leumas-middleware/lib/a.deployment/scripts/deploy.js
+8/28/2025 20:06:56 Created file NPM/leumas-middleware/lib/a.deployment/server.js
+8/28/2025 20:08:14 Created file NPM/leumas-middleware/lib/a.deployment/adapters/network/templates/web.config.template
+8/28/2025 20:08:14 Created file NPM/leumas-middleware/lib/a.deployment/adapters/cpanel/templates/htaccess.template
