@@ -76,3 +76,6 @@
 8/28/2025 20:24:31 Edited file NPM/leumas-middleware/lib/a.deployment/server.js
 8/28/2025 20:29:54 Edited file NPM/leumas-middleware/lib/a.deployment/server.js
 8/28/2025 20:30:18 Edited file NPM/leumas-middleware/lib/a.deployment/server.js
+8/28/2025 20:51:54 Created folder NPM/leumas-middleware/lib/a.deployment/config/projects
+8/28/2025 20:53:31 Created file NPM/leumas-middleware/lib/a.deployment/config/projects/a.csv.json
+8/28/2025 21:00:26 Edited file NPM/leumas-middleware/lib/a.deployment/adapters/network/templates/web.config.template
