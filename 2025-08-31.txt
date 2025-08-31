@@ -47,3 +47,6 @@
 8/31/2025 14:39:32 Edited file tools/leumas-portfolio/public/app.js
 8/31/2025 14:40:24 Edited file tools/leumas-portfolio/public/style.css
 8/31/2025 14:40:51 Edited file tools/leumas-portfolio/public/style.css
+8/31/2025 14:43:26 Edited file tools/leumas-portfolio/public/style.css
+8/31/2025 14:44:19 Edited file tools/leumas-portfolio/public/app.js
+8/31/2025 14:45:11 Edited file tools/leumas-portfolio/data/resume.json
