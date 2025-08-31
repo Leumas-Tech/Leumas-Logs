@@ -88,3 +88,12 @@
 8/31/2025 17:03:39 Edited file tools/leumas-portfolio/public/index.html
 8/31/2025 17:08:38 Created file tools/leumas-portfolio/README.md
 8/31/2025 17:10:37 Created folder tools/leumas-portfolio/dummy-data
+8/31/2025 17:12:36 Created file tools/leumas-portfolio/.gitignore
+8/31/2025 17:13:05 Created file tools/leumas-portfolio/dummy-data/blog.json
+8/31/2025 17:13:05 Created file tools/leumas-portfolio/dummy-data/resume.json
+8/31/2025 17:13:05 Created file tools/leumas-portfolio/dummy-data/contact.json
+8/31/2025 17:13:05 Created file tools/leumas-portfolio/dummy-data/about.json
+8/31/2025 17:13:05 Created file tools/leumas-portfolio/dummy-data/portfolio.json
+8/31/2025 17:16:30 Edited file tools/leumas-portfolio/README.md
+8/31/2025 17:17:57 Created file tools/leumas-portfolio/goal.txt
+8/31/2025 17:20:26 Edited file tools/leumas-portfolio/.gitignore
