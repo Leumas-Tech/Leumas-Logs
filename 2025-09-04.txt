@@ -1,3 +1,6 @@
 9/3/2025 22:16:12 Edited file atlas/public/index.html
 9/3/2025 22:17:38 Created file atlas/public/main.html
 9/3/2025 22:19:48 Edited file atlas/public/index.html
+9/3/2025 22:24:46 Edited file atlas/public/index.html
+9/3/2025 22:30:24 Created file atlas/public/bermudez.html
+9/3/2025 22:33:30 Edited file atlas/public/bermudez.html
