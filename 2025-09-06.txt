@@ -2030,3 +2030,9 @@
 9/6/2025 05:35:13 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/stream/node_modules/debug/src/common.js
 9/6/2025 05:35:13 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/stream/node_modules/debug/src/index.js
 9/6/2025 05:35:13 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/stream/node_modules/debug/src/node.js
+9/6/2025 05:40:11 Created folder Arduino/fingerprint-scanner/server/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-readline/dist
+9/6/2025 05:40:11 Created folder Arduino/fingerprint-scanner/server/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-delimiter/dist
+9/6/2025 05:42:01 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-readline/dist/index.js
+9/6/2025 05:42:01 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-readline/dist/index.d.ts
+9/6/2025 05:42:01 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-delimiter/dist/index.d.ts
+9/6/2025 05:42:01 Created file Arduino/fingerprint-scanner/server/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-delimiter/dist/index.js
