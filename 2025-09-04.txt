@@ -20,3 +20,4 @@
 9/4/2025 00:37:18 Created file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/components/laser-diode.json
 9/4/2025 00:40:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/circuits/1756963781916/circuit.json
 9/4/2025 00:40:46 Created folder leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/circuits/1756963781916/assets
+9/4/2025 00:45:30 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/CircuitBuilder/components/microcontrollers/esp32-cam.json
