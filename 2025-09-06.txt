@@ -59,3 +59,12 @@
 9/6/2025 03:40:52 Created file z.Domains2/core/src/Pages/Landing/Imperium.jsx
 9/6/2025 03:41:14 Edited file leumas-api.leumas.tech/success.log
 9/6/2025 03:41:15 Edited file z.Domains2/config/leumas.jsx
+9/6/2025 03:49:13 Edited file leumas-api.leumas.tech/error.log
+9/6/2025 03:49:13 Edited file leumas-api.leumas.tech/success.log
+9/6/2025 03:49:13 Edited file z.Domains2/config/leumas.jsx
+9/6/2025 03:50:08 Created file z.Domains2/node_modules/leumas/src/Pages/Landing/Leumas-Overview.jsx
+9/6/2025 03:50:09 Created file z.Domains2/core/src/Pages/Landing/Leumas-Overview.jsx
+9/6/2025 03:55:46 Edited file leumas-api.leumas.tech/error.log
+9/6/2025 03:55:46 Edited file leumas-api.leumas.tech/success.log
+9/6/2025 03:55:46 Edited file z.Domains2/config/leumas.jsx
+9/6/2025 03:56:17 Created file z.Domains2/core/src/Pages/Landing/Socials.jsx
