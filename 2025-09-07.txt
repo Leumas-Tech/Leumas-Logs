@@ -1269,3 +1269,15 @@
 9/6/2025 23:23:45 Edited file z.Domains2/templates/NodeJS/leumas-app/public/login.html
 9/6/2025 23:25:08 Edited file z.Domains2/templates/NodeJS/leumas-app/.env
 9/6/2025 23:25:35 Edited file z.Domains2/templates/NodeJS/leumas-app/.env
+9/6/2025 23:26:31 Edited file z.Domains2/templates/NodeJS/leumas-app/public/login.html
+9/6/2025 23:26:59 Edited file z.Domains2/templates/NodeJS/leumas-app/public/login.html
+9/6/2025 23:27:52 Edited file z.Domains2/templates/NodeJS/leumas-app/public/login.js
+9/6/2025 23:28:17 Created folder z.Domains2/templates/NodeJS/leumas-app/node_modules/google-auth-library/build/src/crypto/browser
+9/6/2025 23:28:17 Created folder z.Domains2/templates/NodeJS/leumas-app/node_modules/google-auth-library/build/src/crypto/node
+9/6/2025 23:30:03 Created file z.Domains2/templates/NodeJS/leumas-app/node_modules/google-auth-library/build/src/crypto/browser/crypto.js
+9/6/2025 23:30:03 Created file z.Domains2/templates/NodeJS/leumas-app/node_modules/google-auth-library/build/src/crypto/browser/crypto.d.ts
+9/6/2025 23:30:03 Created file z.Domains2/templates/NodeJS/leumas-app/node_modules/google-auth-library/build/src/crypto/node/crypto.d.ts
+9/6/2025 23:30:03 Created file z.Domains2/templates/NodeJS/leumas-app/node_modules/google-auth-library/build/src/crypto/node/crypto.js
+9/6/2025 23:32:19 Edited file z.Domains2/templates/NodeJS/leumas-app/public/index.html
+9/6/2025 23:32:19 Edited file z.Domains2/templates/NodeJS/leumas-app/public/login.js
+9/6/2025 23:32:47 Edited file z.Domains2/templates/NodeJS/leumas-app/server.js
