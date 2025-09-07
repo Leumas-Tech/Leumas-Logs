@@ -1326,3 +1326,17 @@
 9/7/2025 00:13:44 Created file z.Domains2/templates/NPM/new-npm-package/LICENSE
 9/7/2025 00:13:44 Created file z.Domains2/templates/NPM/new-npm-package/package.json
 9/7/2025 00:13:44 Created file z.Domains2/templates/NPM/new-npm-package/.npmignore
+9/7/2025 00:16:26 Created folder z.Domains2/templates/NPM/new-npm-package/src
+9/7/2025 00:16:26 Created folder z.Domains2/templates/NPM/new-npm-package/test
+9/7/2025 00:17:48 Created folder z.Domains2/templates/Leumas/static-page
+9/7/2025 00:18:14 Created file z.Domains2/templates/NPM/new-npm-package/src/structure-examples.md
+9/7/2025 00:18:14 Created file z.Domains2/templates/NPM/new-npm-package/src/index.js
+9/7/2025 00:18:14 Created file z.Domains2/templates/NPM/new-npm-package/test/index.test.js
+9/7/2025 00:19:33 Created file z.Domains2/templates/Leumas/static-page/demo.json
+9/7/2025 00:21:19 Created folder z.Domains2/templates/Leumas/static-page-site
+9/7/2025 00:23:08 Created file z.Domains2/templates/Leumas/static-page-site/home.json
+9/7/2025 00:23:08 Created file z.Domains2/templates/Leumas/static-page-site/about.json
+9/7/2025 00:23:08 Created file z.Domains2/templates/Leumas/static-page-site/contact.json
+9/7/2025 00:23:08 Created file z.Domains2/templates/Leumas/static-page-site/portfolio.json
+9/7/2025 00:23:08 Created file z.Domains2/templates/Leumas/static-page-site/projects.json
+9/7/2025 00:26:18 Created folder z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket
