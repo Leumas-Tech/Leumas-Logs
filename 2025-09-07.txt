@@ -2142,3 +2142,16 @@
 9/7/2025 01:07:36 Created file z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket/server/node_modules/raw-body/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
 9/7/2025 01:07:36 Created file z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket/server/node_modules/raw-body/node_modules/iconv-lite/encodings/tables/gbk-added.json
 9/7/2025 01:07:36 Created file z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket/server/node_modules/raw-body/node_modules/iconv-lite/encodings/tables/shiftjis.json
+9/7/2025 01:21:05 Created folder z.Domains2/templates/NodeJS/adapter-system
+9/7/2025 01:22:51 Created file z.Domains2/templates/NodeJS/adapter-system/package-lock.json
+9/7/2025 01:22:51 Created file z.Domains2/templates/NodeJS/adapter-system/index.js
+9/7/2025 01:22:51 Created file z.Domains2/templates/NodeJS/adapter-system/package.json
+9/7/2025 01:22:51 Created file z.Domains2/templates/NodeJS/adapter-system/router.js
+9/7/2025 01:22:51 Created file z.Domains2/templates/NodeJS/adapter-system/runAdapter.js
+9/7/2025 01:22:51 Created file z.Domains2/templates/NodeJS/adapter-system/server.js
+9/7/2025 01:25:36 Created folder z.Domains2/templates/NodeJS/adapter-system/node_modules
+9/7/2025 01:25:36 Created folder z.Domains2/templates/NodeJS/adapter-system/public
+9/7/2025 01:25:36 Created folder z.Domains2/templates/NodeJS/adapter-system/adapters
+9/7/2025 01:25:36 Created folder z.Domains2/templates/NodeJS/adapter-system/helpers
+9/7/2025 01:25:36 Created folder z.Domains2/templates/NodeJS/adapter-system/tests
+9/7/2025 01:25:36 Created folder z.Domains2/templates/NodeJS/adapter-system/docs
