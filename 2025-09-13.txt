@@ -4808,3 +4808,14 @@
 9/13/2025 18:04:26 Edited file Servers/x.LeumasSocial/src/controllers/posts.controller.js
 9/13/2025 18:04:30 Edited file leumas-api.leumas.tech/error.log
 9/13/2025 18:04:39 Edited file leumas-api.leumas.tech/success.log
+9/13/2025 18:07:31 Edited file z.Domains2/core/src/Pages/MyProfile/MyProfile.jsx
+9/13/2025 18:07:56 Edited file z.Domains2/node_modules/leumas/src/Pages/MyProfile/MyProfile.jsx
+9/13/2025 18:08:07 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 18:08:15 Edited file leumas-api.leumas.tech/success.log
+9/13/2025 18:09:29 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 18:09:30 Edited file z.Domains2/core/src/Pages/MyProfile/MyProfile.jsx
+9/13/2025 18:09:38 Edited file leumas-api.leumas.tech/success.log
+9/13/2025 18:09:56 Edited file z.Domains2/node_modules/leumas/src/Pages/MyProfile/MyProfile.jsx
+9/13/2025 18:10:07 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 18:16:07 Edited file z.Domains2/node_modules/leumas/src/Pages/MyProfile/MyProfile.jsx
+9/13/2025 18:16:22 Edited file z.Domains2/core/src/Pages/MyProfile/MyProfile.jsx
