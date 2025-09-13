@@ -1385,3 +1385,13 @@
 9/13/2025 07:33:21 Edited file z.Domains2/core/src/App.jsx
 9/13/2025 07:33:22 Edited file z.Domains2/node_modules/leumas/src/App.jsx
 9/13/2025 07:33:27 Edited file leumas-api.leumas.tech/success.log
+9/13/2025 14:51:13 Edited file z.Domains2/node_modules/leumas/src/Shared/Pages/Login/google/handleGoogleSuccess.jsx
+9/13/2025 14:51:19 Edited file z.Domains2/core/src/Shared/Pages/Login/google/handleGoogleSuccess.jsx
+9/13/2025 14:51:52 Edited file z.Domains2/node_modules/leumas/src/Shared/Pages/Login/Login4.jsx
+9/13/2025 14:51:54 Edited file z.Domains2/core/src/Shared/Pages/Login/Login4.jsx
+9/13/2025 14:52:06 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 14:52:13 Edited file leumas-api.leumas.tech/success.log
+9/13/2025 14:52:49 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 14:52:55 Edited file leumas-api.leumas.tech/success.log
+9/13/2025 14:53:30 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 14:53:37 Edited file leumas-api.leumas.tech/success.log
