@@ -25,3 +25,4 @@
 9/13/2025 23:05:24 Edited file Servers/x.LeumasSocial/src/routes/friends.routes.js
 9/13/2025 23:05:32 Edited file leumas-api.leumas.tech/success.log
 9/13/2025 23:06:03 Edited file leumas-api.leumas.tech/error.log
+9/13/2025 23:06:41 Created file Servers/x.LeumasSocial/src/models/FriendRequest.js
