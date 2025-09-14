@@ -1651,3 +1651,6 @@
 9/14/2025 04:32:04 Edited file tools/ObjectHandDetector/templates/game.html
 9/14/2025 04:33:23 Edited file tools/ObjectHandDetector/templates/game.html
 9/14/2025 04:34:01 Edited file tools/ObjectHandDetector/templates/game.html
+9/14/2025 04:39:57 Edited file tools/ObjectHandDetector/templates/game.html
+9/14/2025 04:40:36 Edited file tools/ObjectHandDetector/player.py
+9/14/2025 04:43:13 Created file tools/ObjectHandDetector/templates/boxing.html
