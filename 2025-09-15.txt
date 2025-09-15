@@ -434,3 +434,6 @@
 9/15/2025 06:58:15 Edited file tools/adapter-manager/server.js
 9/15/2025 06:59:27 Edited file tools/adapter-manager/server.js
 9/15/2025 07:00:04 Edited file tools/adapter-manager/server.js
+9/15/2025 15:45:04 Created file tools/adapter-manager/public/metadata.html
+9/15/2025 15:47:06 Edited file tools/adapter-manager/public/metadata.html
+9/15/2025 15:51:36 Edited file tools/adapter-manager/server.js
