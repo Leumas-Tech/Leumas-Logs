@@ -804,3 +804,7 @@
 9/16/2025 01:49:53 Created file Knowledge-Banks/adapters/b.animals/store/items/Cervus elaphus/attachments/story.md
 9/16/2025 01:50:25 Created file Knowledge-Banks/adapters/b.animals/store/items/Canis lupus familiaris/attachments/story.md
 9/16/2025 01:50:46 Created file Knowledge-Banks/adapters/b.animals/store/items/Ornithorhynchus anatinus/attachments/story.md
+9/16/2025 01:59:02 Edited file Knowledge-Banks/ollama-router.js
+9/16/2025 01:59:36 Edited file Knowledge-Banks/ollama-router.js
+9/16/2025 02:00:13 Edited file Knowledge-Banks/public/bulkforge.ollama.js
+9/16/2025 02:00:46 Edited file Knowledge-Banks/public/bulkforge.ollama.js
