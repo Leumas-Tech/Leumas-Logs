@@ -809,3 +809,11 @@
 9/16/2025 02:00:13 Edited file Knowledge-Banks/public/bulkforge.ollama.js
 9/16/2025 02:00:46 Edited file Knowledge-Banks/public/bulkforge.ollama.js
 9/16/2025 02:04:29 Edited file Knowledge-Banks/public/bulkforge.ollama.js
+9/16/2025 02:12:10 Edited file Knowledge-Banks/ollama-router.js
+9/16/2025 02:14:06 Edited file Knowledge-Banks/public/bulkforge.ollama.js
+9/16/2025 02:15:43 Created file Knowledge-Banks/adapters/b.animals/store/items/Carcharodon carcharias/attachments/related-animal-theory.md
+9/16/2025 02:15:43 Created file Knowledge-Banks/adapters/b.animals/store/items/Cervus elaphus/attachments/related-animal-theory.md
+9/16/2025 02:15:43 Created file Knowledge-Banks/adapters/b.animals/store/items/Canis lupus familiaris/attachments/related-animal-theory.md
+9/16/2025 02:16:20 Created file Knowledge-Banks/adapters/b.animals/store/items/Panthera tigris/attachments/related-animal-theory.json
+9/16/2025 02:20:58 Created file Knowledge-Banks/adapters/b.animals/store/items/Panthera tigris/attachments/fact2.md
+9/16/2025 02:21:13 Created file Knowledge-Banks/adapters/b.animals/store/items/Cervus elaphus/attachments/fact2.md
