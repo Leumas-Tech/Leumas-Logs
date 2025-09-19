@@ -2346,3 +2346,7 @@
 9/19/2025 15:26:59 Created file Knowledge-Banks/adapters/b.plants/store/items/White Nicotiana — Nicotiana linearis/meta.json
 9/19/2025 15:27:35 Created file Knowledge-Banks/adapters/b.plants/store/items/Yellow Secale — Secale yunnanensis/meta.json
 9/19/2025 15:28:09 Created file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Helianthus — Helianthus formosana/meta.json
+9/19/2025 15:28:50 Created file Knowledge-Banks/adapters/b.plants/store/items/Sacred Fagus — Fagus germanica/meta.json
+9/19/2025 15:29:24 Created file Knowledge-Banks/adapters/b.plants/store/items/Golden Zamia — Zamia flava/meta.json
+9/19/2025 15:29:58 Created file Knowledge-Banks/adapters/b.plants/store/items/Garden Asplenium — Asplenium hispanica/meta.json
+9/19/2025 15:31:05 Created file Knowledge-Banks/adapters/b.plants/store/items/Spotted Brassica — Brassica alba/meta.json
