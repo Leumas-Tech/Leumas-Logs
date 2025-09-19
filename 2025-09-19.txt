@@ -2318,3 +2318,6 @@
 9/19/2025 14:12:54 Created folder Knowledge-Banks/adapters/b.plants/store/items/Mountain Eucalyptus — Eucalyptus longifolia/attachments
 9/19/2025 14:13:23 Created folder Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Phaseolus — Phaseolus purpurea/attachments
 9/19/2025 14:15:19 Created folder Knowledge-Banks/adapters/b.plants/store/items/Forest Juniperus — Juniperus parviflora/attachments
+9/19/2025 14:32:52 Created file Knowledge-Banks/adapters/b.plants/store/items/Silver Helianthus — Helianthus macrophylla/meta.json
+9/19/2025 14:33:27 Created file Knowledge-Banks/adapters/b.plants/store/items/Blue Malus — Malus lutea/meta.json
+9/19/2025 14:35:08 Created file Knowledge-Banks/adapters/b.plants/store/items/Woolly Malus — Malus chilensis/meta.json
