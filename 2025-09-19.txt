@@ -2,3 +2,9 @@
 9/18/2025 20:17:06 Edited file tools/list-manager/lists/plants/meta.json
 9/18/2025 20:21:27 Edited file tools/list-manager/lists/animals/segments/000001.ndjson
 9/18/2025 20:21:28 Edited file tools/list-manager/lists/animals/meta.json
+9/18/2025 20:56:11 Edited file tools/list-manager/lists/plants/segments/000001.ndjson
+9/18/2025 20:56:13 Edited file tools/list-manager/lists/plants/meta.json
+9/18/2025 20:56:43 Edited file tools/list-manager/lists/medicine/meta.json
+9/18/2025 20:57:13 Edited file tools/list-manager/lists/Diseases/meta.json
+9/18/2025 20:57:42 Edited file tools/list-manager/lists/Diseases/meta.json
+9/18/2025 20:58:10 Created file tools/list-manager/lists/medicine/segments/000001.ndjson
