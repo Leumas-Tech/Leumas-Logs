@@ -2175,3 +2175,7 @@
 9/19/2025 10:52:48 Created file Knowledge-Banks/adapters/b.plants/store/items/Common Prunus — Prunus repens/meta.json
 9/19/2025 10:53:21 Created file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Cucumis — Cucumis nigra/meta.json
 9/19/2025 10:54:28 Created file Knowledge-Banks/adapters/b.plants/store/items/Mountain Litchi — Litchi decora/meta.json
+9/19/2025 11:44:24 Created file Knowledge-Banks/adapters/b.plants/store/items/Crimson Osmunda — Osmunda robusta/meta.json
+9/19/2025 11:44:55 Created file Knowledge-Banks/adapters/b.plants/store/items/Blue Phaseolus — Phaseolus arenaria/meta.json
+9/19/2025 11:45:27 Created file Knowledge-Banks/adapters/b.plants/store/items/Crimson Sorbus — Sorbus regia/meta.json
+9/19/2025 11:45:27 Created file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Carpinus — Carpinus hainanensis/meta.json
