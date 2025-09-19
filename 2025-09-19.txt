@@ -448,3 +448,91 @@
 9/19/2025 02:35:55 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea var. yunnanensis
 9/19/2025 02:37:57 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra 'Elegans'/attachments/Acer nigra 'Elegans'-facts.json
 9/19/2025 02:37:57 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra subsp. palustris/attachments/Acer nigra subsp. palustris-facts.json
+9/19/2025 02:38:38 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba/attachments/Acer alba-facts.json
+9/19/2025 02:38:38 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba subsp. macrophylla/attachments
+9/19/2025 02:38:38 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba 'Aurea'/attachments
+9/19/2025 02:38:38 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba var. iberica/attachments
+9/19/2025 02:38:39 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea/meta.json
+9/19/2025 02:38:39 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca 'Elegans'/meta.json
+9/19/2025 02:38:39 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea var. yunnanensis/meta.json
+9/19/2025 02:38:39 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea
+9/19/2025 02:38:39 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea var. patagonica
+9/19/2025 02:38:39 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea 'Nana'
+9/19/2025 02:38:39 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea subsp. speciosa
+9/19/2025 02:38:39 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea subsp. scoparia
+9/19/2025 02:38:39 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea 'Pendula'
+9/19/2025 02:40:01 Created folder Knowledge-Banks/adapters/b.plants/store/items/Giant Protea — Protea italica
+9/19/2025 02:40:01 Created folder Knowledge-Banks/adapters/b.plants/store/items/Common Encephalartos — Encephalartos alpina
+9/19/2025 02:40:01 Created folder Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Crataegus — Crataegus sibirica
+9/19/2025 02:40:01 Created folder Knowledge-Banks/adapters/b.plants/store/items/Common Diospyros — Diospyros australis
+9/19/2025 02:40:01 Created folder Knowledge-Banks/adapters/b.plants/store/items/Silver Oryza — Oryza rosea
+9/19/2025 02:40:01 Created folder Knowledge-Banks/adapters/b.plants/store/items/Silver Juglans — Juglans flava
+9/19/2025 02:40:41 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca/attachments
+9/19/2025 02:40:41 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca var. brevifolia/attachments
+9/19/2025 02:41:25 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca subsp. aurea/attachments
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba subsp. macrophylla/attachments/Acer alba subsp. macrophylla-facts.json
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba 'Aurea'/attachments/Acer alba 'Aurea'-facts.json
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba var. iberica/attachments/Acer alba var. iberica-facts.json
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea var. patagonica/meta.json
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea/meta.json
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea 'Nana'/meta.json
+9/19/2025 02:41:25 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea subsp. speciosa/meta.json
+9/19/2025 02:42:04 Created folder Knowledge-Banks/adapters/b.plants/store/items/Giant Solanum — Solanum linearis
+9/19/2025 02:42:04 Created folder Knowledge-Banks/adapters/b.plants/store/items/Spotted Inga — Inga arvensis
+9/19/2025 02:42:04 Created folder Knowledge-Banks/adapters/b.plants/store/items/Yellow Coffea — Coffea patagonica
+9/19/2025 02:42:34 Created file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Crataegus — Crataegus sibirica/meta.json
+9/19/2025 02:42:34 Created file Knowledge-Banks/adapters/b.plants/store/items/Common Diospyros — Diospyros australis/meta.json
+9/19/2025 02:42:34 Created file Knowledge-Banks/adapters/b.plants/store/items/Common Encephalartos — Encephalartos alpina/meta.json
+9/19/2025 02:42:34 Created file Knowledge-Banks/adapters/b.plants/store/items/Silver Oryza — Oryza rosea/meta.json
+9/19/2025 02:42:34 Created file Knowledge-Banks/adapters/b.plants/store/items/Silver Juglans — Juglans flava/meta.json
+9/19/2025 02:42:34 Created file Knowledge-Banks/adapters/b.plants/store/items/Giant Protea — Protea italica/meta.json
+9/19/2025 02:42:34 Created folder Knowledge-Banks/adapters/b.plants/store/items/Blue Ulva — Ulva ovata
+9/19/2025 02:42:34 Created folder Knowledge-Banks/adapters/b.plants/store/items/Garden Oryza — Oryza officinalis
+9/19/2025 02:42:36 Edited file Knowledge-Banks/public/bulkforge.ollama.js
+9/19/2025 02:43:04 Created folder Knowledge-Banks/adapters/b.plants/store/items/Mountain Citrullus — Citrullus sibirica
+9/19/2025 02:43:04 Created folder Knowledge-Banks/adapters/b.plants/store/items/Sacred Oryza — Oryza arenaria
+9/19/2025 02:43:05 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca/attachments/Acer glauca-facts.json
+9/19/2025 02:43:05 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca var. brevifolia/attachments/Acer glauca var. brevifolia-facts.json
+9/19/2025 02:43:43 Created folder Knowledge-Banks/adapters/b.plants/store/items/Wild Beta — Beta microphylla
+9/19/2025 02:43:43 Created folder Knowledge-Banks/adapters/b.plants/store/items/Purple Nicotiana — Nicotiana germanica
+9/19/2025 02:43:43 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca subsp. aurea/attachments/Acer glauca subsp. aurea-facts.json
+9/19/2025 02:43:44 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca 'Elegans'/attachments
+9/19/2025 02:43:44 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea/attachments
+9/19/2025 02:43:44 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea var. yunnanensis/attachments
+9/19/2025 02:44:26 Created file Knowledge-Banks/adapters/b.plants/store/items/Giant Solanum — Solanum linearis/meta.json
+9/19/2025 02:44:26 Created file Knowledge-Banks/adapters/b.plants/store/items/Spotted Inga — Inga arvensis/meta.json
+9/19/2025 02:44:26 Created file Knowledge-Banks/adapters/b.plants/store/items/Yellow Coffea — Coffea patagonica/meta.json
+9/19/2025 02:44:26 Created folder Knowledge-Banks/adapters/b.plants/store/items/Spotted Chlorella — Chlorella heterophylla
+9/19/2025 02:45:12 Created file Knowledge-Banks/adapters/b.plants/store/items/Blue Ulva — Ulva ovata/meta.json
+9/19/2025 02:45:12 Created file Knowledge-Banks/adapters/b.plants/store/items/Garden Oryza — Oryza officinalis/meta.json
+9/19/2025 02:45:12 Created folder Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Juniperus — Juniperus brevifolia
+9/19/2025 02:45:12 Created folder Knowledge-Banks/adapters/b.plants/store/items/Giant Cycas — Cycas decora
+9/19/2025 02:45:12 Created folder Knowledge-Banks/adapters/b.plants/store/items/Mountain Malus — Malus gracilis
+9/19/2025 02:45:57 Created file Knowledge-Banks/adapters/b.plants/store/items/Mountain Citrullus — Citrullus sibirica/meta.json
+9/19/2025 02:45:57 Created file Knowledge-Banks/adapters/b.plants/store/items/Sacred Oryza — Oryza arenaria/meta.json
+9/19/2025 02:45:57 Created folder Knowledge-Banks/adapters/b.plants/store/items/Wild Citrus — Citrus japonica
+9/19/2025 02:46:43 Created file Knowledge-Banks/adapters/b.plants/store/items/Wild Beta — Beta microphylla/meta.json
+9/19/2025 02:46:43 Created file Knowledge-Banks/adapters/b.plants/store/items/Purple Nicotiana — Nicotiana germanica/meta.json
+9/19/2025 02:46:43 Created folder Knowledge-Banks/adapters/b.plants/store/items/Crimson Asplenium — Asplenium argentea
+9/19/2025 02:46:43 Created folder Knowledge-Banks/adapters/b.plants/store/items/River Carpinus — Carpinus argentea
+9/19/2025 02:46:45 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca 'Elegans'/attachments/Acer glauca 'Elegans'-facts.json
+9/19/2025 02:46:45 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea/attachments/Acer purpurea-facts.json
+9/19/2025 02:46:45 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea/attachments
+9/19/2025 02:46:45 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea subsp. speciosa/attachments
+9/19/2025 02:46:45 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea var. patagonica/attachments
+9/19/2025 02:46:45 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea 'Nana'/attachments
+9/19/2025 02:46:45 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea 'Pendula'/attachments
+9/19/2025 02:46:45 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea subsp. scoparia/attachments
+9/19/2025 02:47:29 Created file Knowledge-Banks/adapters/b.plants/store/items/Spotted Chlorella — Chlorella heterophylla/meta.json
+9/19/2025 02:47:30 Created folder Knowledge-Banks/adapters/b.plants/store/items/Garden Encephalartos — Encephalartos decora
+9/19/2025 02:47:30 Created folder Knowledge-Banks/adapters/b.plants/store/items/White Nicotiana — Nicotiana parviflora
+9/19/2025 02:48:11 Created folder Knowledge-Banks/adapters/b.plants/store/items/Common Encephalartos — Encephalartos alpina/attachments
+9/19/2025 02:48:11 Created folder Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Crataegus — Crataegus sibirica/attachments
+9/19/2025 02:48:11 Created folder Knowledge-Banks/adapters/b.plants/store/items/Silver Oryza — Oryza rosea/attachments
+9/19/2025 02:48:11 Created folder Knowledge-Banks/adapters/b.plants/store/items/Giant Protea — Protea italica/attachments
+9/19/2025 02:48:11 Created folder Knowledge-Banks/adapters/b.plants/store/items/Common Diospyros — Diospyros australis/attachments
+9/19/2025 02:48:11 Created folder Knowledge-Banks/adapters/b.plants/store/items/Silver Juglans — Juglans flava/attachments
+9/19/2025 02:48:11 Created file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Juniperus — Juniperus brevifolia/meta.json
+9/19/2025 02:48:11 Created file Knowledge-Banks/adapters/b.plants/store/items/Mountain Malus — Malus gracilis/meta.json
+9/19/2025 02:48:11 Created file Knowledge-Banks/adapters/b.plants/store/items/Giant Cycas — Cycas decora/meta.json
+9/19/2025 02:48:12 Created folder Knowledge-Banks/adapters/b.plants/store/items/Sacred Lactuca — Lactuca elegans
