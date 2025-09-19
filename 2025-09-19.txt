@@ -2169,3 +2169,5 @@
 9/19/2025 10:04:15 Created file Knowledge-Banks/adapters/b.plants/store/items/Sacred Picea — Picea mollis/meta.json
 9/19/2025 10:05:22 Created file Knowledge-Banks/adapters/b.plants/store/items/Silver Rhus — Rhus maculata/meta.json
 9/19/2025 10:05:55 Created file Knowledge-Banks/adapters/b.plants/store/items/Spotted Magnolia — Magnolia regia/meta.json
+9/19/2025 10:34:14 Created file Knowledge-Banks/adapters/b.plants/store/items/Wild Banksia — Banksia latifolia/meta.json
+9/19/2025 10:34:14 Created file Knowledge-Banks/adapters/b.plants/store/items/Black Osmunda — Osmunda yunnanensis/meta.json
