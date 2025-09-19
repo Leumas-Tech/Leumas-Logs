@@ -360,3 +360,51 @@
 9/19/2025 02:16:28 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'
 9/19/2025 02:16:28 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca
 9/19/2025 02:16:28 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea
+9/19/2025 02:18:24 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima 'Grandiflora'/attachments/Acer maritima 'Grandiflora'-facts.json
+9/19/2025 02:18:24 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima var. aurea/attachments/Acer maritima var. aurea-facts.json
+9/19/2025 02:18:24 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima subsp. macrophylla/attachments/Acer maritima subsp. macrophylla-facts.json
+9/19/2025 02:18:25 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris/attachments
+9/19/2025 02:18:25 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris var. arvensis/attachments
+9/19/2025 02:19:05 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris subsp. canadensis/attachments
+9/19/2025 02:19:05 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'/meta.json
+9/19/2025 02:19:05 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca/meta.json
+9/19/2025 02:19:05 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea/meta.json
+9/19/2025 02:19:05 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea subsp. sinensis
+9/19/2025 02:19:05 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea var. lutea
+9/19/2025 02:19:44 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea 'Elegans'
+9/19/2025 02:21:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris/attachments/Acer palustris-facts.json
+9/19/2025 02:21:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris var. arvensis/attachments/Acer palustris var. arvensis-facts.json
+9/19/2025 02:21:40 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris subsp. canadensis/attachments/Acer palustris subsp. canadensis-facts.json
+9/19/2025 02:21:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis/attachments
+9/19/2025 02:21:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis var. discolor/attachments
+9/19/2025 02:21:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris 'Grandiflora'/attachments
+9/19/2025 02:21:40 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea subsp. sinensis/meta.json
+9/19/2025 02:21:40 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea var. lutea/meta.json
+9/19/2025 02:21:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra
+9/19/2025 02:21:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra subsp. purpurea
+9/19/2025 02:21:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra var. decora
+9/19/2025 02:22:20 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea 'Elegans'/meta.json
+9/19/2025 02:24:16 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis/attachments/Acer arvensis-facts.json
+9/19/2025 02:24:16 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis var. discolor/attachments/Acer arvensis var. discolor-facts.json
+9/19/2025 02:24:16 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris 'Grandiflora'/attachments/Acer palustris 'Grandiflora'-facts.json
+9/19/2025 02:24:16 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'/attachments
+9/19/2025 02:24:16 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea/attachments
+9/19/2025 02:24:16 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca/attachments
+9/19/2025 02:24:16 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra/meta.json
+9/19/2025 02:24:16 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra var. decora/meta.json
+9/19/2025 02:24:16 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra subsp. purpurea/meta.json
+9/19/2025 02:24:17 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra
+9/19/2025 02:24:17 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra 'Glauca'
+9/19/2025 02:24:56 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra var. mexicana
+9/19/2025 02:26:52 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca/attachments/Acer arvensis subsp. glauca-facts.json
+9/19/2025 02:26:52 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'/attachments/Acer arvensis 'Variegata'-facts.json
+9/19/2025 02:26:52 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea/attachments/Acer lutea-facts.json
+9/19/2025 02:26:52 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea var. lutea/attachments
+9/19/2025 02:26:52 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea subsp. sinensis/attachments
+9/19/2025 02:26:53 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra/meta.json
+9/19/2025 02:26:53 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra 'Glauca'/meta.json
+9/19/2025 02:26:53 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra 'Elegans'
+9/19/2025 02:26:53 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra subsp. palustris
+9/19/2025 02:27:31 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea 'Elegans'/attachments
+9/19/2025 02:27:31 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra var. mexicana/meta.json
+9/19/2025 02:27:31 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba
