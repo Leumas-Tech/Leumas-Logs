@@ -8,3 +8,8 @@
 9/18/2025 20:57:13 Edited file tools/list-manager/lists/Diseases/meta.json
 9/18/2025 20:57:42 Edited file tools/list-manager/lists/Diseases/meta.json
 9/18/2025 20:58:10 Created file tools/list-manager/lists/medicine/segments/000001.ndjson
+9/18/2025 20:58:39 Created file tools/list-manager/lists/Diseases/segments/000001.ndjson
+9/18/2025 21:00:35 Edited file tools/list-manager/lists/Diseases/segments/000001.ndjson
+9/18/2025 21:00:37 Edited file tools/list-manager/lists/Diseases/meta.json
+9/18/2025 21:05:56 Edited file tools/list-manager/lists/arduino-components/meta.json
+9/18/2025 21:07:21 Created file tools/list-manager/lists/arduino-components/segments/000001.ndjson
