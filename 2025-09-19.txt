@@ -24,3 +24,10 @@
 9/18/2025 21:55:11 Edited file us_places_all.txt
 9/18/2025 21:56:39 Edited file tools/list-manager/lists/animals/meta.json
 9/18/2025 21:57:07 Edited file tools/list-manager/lists/animals/segments/000001.ndjson
+9/18/2025 22:01:55 Created folder tools/list-manager/lists/us-cities
+9/18/2025 22:02:41 Edited file tools/list-manager/lists/Cities/meta.json
+9/18/2025 22:03:17 Created file Scripts/get-all-cities.py
+9/18/2025 22:03:17 Created file world_cities.txt
+9/18/2025 22:03:58 Created file tools/list-manager/lists/us-cities/meta.json
+9/18/2025 22:04:10 Created file tools/list-manager/lists/Cities/segments/000001.ndjson
+9/18/2025 22:06:53 Created folder tools/list-manager/lists/us-cities/segments
