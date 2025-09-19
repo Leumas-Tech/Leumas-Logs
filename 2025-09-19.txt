@@ -31,3 +31,14 @@
 9/18/2025 22:03:58 Created file tools/list-manager/lists/us-cities/meta.json
 9/18/2025 22:04:10 Created file tools/list-manager/lists/Cities/segments/000001.ndjson
 9/18/2025 22:06:53 Created folder tools/list-manager/lists/us-cities/segments
+9/18/2025 22:08:58 Created file tools/list-manager/lists/us-cities/segments/000001.ndjson
+9/18/2025 22:10:16 Created file Scripts/get-all-plants.py
+9/18/2025 22:10:16 Created file Scripts/get-all-animals.py
+9/18/2025 22:11:15 Created file plants_all_species.txt
+9/18/2025 22:11:15 Created file animals_all_species.txt
+9/18/2025 22:14:48 Deleted file Scripts/get-all-animals.py
+9/18/2025 22:16:15 Created file Scripts/get-all-species.py
+9/18/2025 22:16:45 Created file animals_200.txt
+9/18/2025 22:17:40 Edited file tools/list-manager/lists/Cities/segments/000001.ndjson
+9/18/2025 22:17:42 Edited file tools/list-manager/lists/Cities/meta.json
+9/18/2025 22:17:47 Edited file animals_200.txt
