@@ -273,3 +273,54 @@
 9/19/2025 01:57:01 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica
 9/19/2025 01:57:01 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia
 9/19/2025 01:57:01 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'
+9/19/2025 01:58:19 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina/attachments
+9/19/2025 01:58:19 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina var. himalayana/attachments
+9/19/2025 01:58:19 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina subsp. alba/attachments
+9/19/2025 01:59:36 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'/meta.json
+9/19/2025 01:59:36 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia/meta.json
+9/19/2025 01:59:36 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica/meta.json
+9/19/2025 01:59:36 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis subsp. nepalensis
+9/19/2025 01:59:36 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis
+9/19/2025 01:59:36 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis var. arvensis
+9/19/2025 02:00:15 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina 'Splendens'/attachments
+9/19/2025 02:00:15 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia/attachments
+9/19/2025 02:00:15 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia var. japonica/attachments
+9/19/2025 02:00:54 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina/attachments/Acer alpina-facts.json
+9/19/2025 02:00:54 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina subsp. alba/attachments/Acer alpina subsp. alba-facts.json
+9/19/2025 02:00:54 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina var. himalayana/attachments/Acer alpina var. himalayana-facts.json
+9/19/2025 02:02:11 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia 'Splendens'/attachments
+9/19/2025 02:02:11 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora/attachments
+9/19/2025 02:02:11 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia subsp. integrifolia/attachments
+9/19/2025 02:02:12 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis/meta.json
+9/19/2025 02:02:12 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis var. arvensis/meta.json
+9/19/2025 02:02:12 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis subsp. nepalensis/meta.json
+9/19/2025 02:02:12 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis 'Splendens'
+9/19/2025 02:02:12 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica
+9/19/2025 02:02:51 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia/attachments/Acer angustifolia-facts.json
+9/19/2025 02:02:51 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina 'Splendens'/attachments/Acer alpina 'Splendens'-facts.json
+9/19/2025 02:02:51 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia var. japonica/attachments/Acer angustifolia var. japonica-facts.json
+9/19/2025 02:02:51 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica var. palustris
+9/19/2025 02:04:48 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia 'Splendens'/attachments/Acer angustifolia 'Splendens'-facts.json
+9/19/2025 02:04:48 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora/attachments/Acer grandiflora-facts.json
+9/19/2025 02:04:48 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia subsp. integrifolia/attachments/Acer angustifolia subsp. integrifolia-facts.json
+9/19/2025 02:04:48 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia/attachments
+9/19/2025 02:04:48 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'/attachments
+9/19/2025 02:04:48 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica/attachments
+9/19/2025 02:04:48 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis 'Splendens'/meta.json
+9/19/2025 02:04:48 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica/meta.json
+9/19/2025 02:04:48 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica 'Nana'
+9/19/2025 02:04:48 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica subsp. nana
+9/19/2025 02:05:27 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica var. palustris/meta.json
+9/19/2025 02:05:28 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima
+9/19/2025 02:07:23 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'/attachments/Acer grandiflora 'Alba'-facts.json
+9/19/2025 02:07:23 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia/attachments/Acer grandiflora var. tenuifolia-facts.json
+9/19/2025 02:07:23 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica/attachments/Acer grandiflora subsp. italica-facts.json
+9/19/2025 02:07:24 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis subsp. nepalensis/attachments
+9/19/2025 02:07:24 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis var. arvensis/attachments
+9/19/2025 02:07:24 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis/attachments
+9/19/2025 02:07:24 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica 'Nana'/meta.json
+9/19/2025 02:07:24 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica subsp. nana/meta.json
+9/19/2025 02:08:03 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima/meta.json
+9/19/2025 02:08:03 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima 'Grandiflora'
+9/19/2025 02:08:03 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima subsp. macrophylla
+9/19/2025 02:08:03 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima var. aurea
