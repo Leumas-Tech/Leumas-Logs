@@ -17,3 +17,5 @@
 9/18/2025 21:09:48 Edited file tools/list-manager/lists/arduino-components/meta.json
 9/18/2025 21:14:56 Created folder tools/list-manager/lists/countries
 9/18/2025 21:16:23 Created file tools/list-manager/lists/countries/meta.json
+9/18/2025 21:19:47 Created folder tools/list-manager/lists/countries/segments
+9/18/2025 21:21:14 Created file tools/list-manager/lists/countries/segments/000001.ndjson
