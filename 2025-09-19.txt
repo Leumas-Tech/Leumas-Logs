@@ -50,3 +50,9 @@
 9/18/2025 22:24:51 Created folder tools/list-manager/lists/React-JSX-Framework
 9/18/2025 22:26:37 Edited file animals_200.txt
 9/18/2025 22:26:48 Created file tools/list-manager/lists/React-JSX-Framework/meta.json
+9/18/2025 22:28:22 Edited file tools/list-manager/lists/React-JSX-Framework/meta.json
+9/18/2025 22:28:40 Edited file Scripts/get-all-species.py
+9/18/2025 22:28:41 Edited file animals_200.txt
+9/18/2025 22:29:51 Created folder tools/list-manager/lists/React-JSX-Framework/segments
+9/18/2025 22:31:09 Edited file Scripts/get-all-species.py
+9/18/2025 22:31:50 Created file tools/list-manager/lists/React-JSX-Framework/segments/000001.ndjson
