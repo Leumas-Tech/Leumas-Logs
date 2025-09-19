@@ -2350,3 +2350,7 @@
 9/19/2025 15:29:24 Created file Knowledge-Banks/adapters/b.plants/store/items/Golden Zamia — Zamia flava/meta.json
 9/19/2025 15:29:58 Created file Knowledge-Banks/adapters/b.plants/store/items/Garden Asplenium — Asplenium hispanica/meta.json
 9/19/2025 15:31:05 Created file Knowledge-Banks/adapters/b.plants/store/items/Spotted Brassica — Brassica alba/meta.json
+9/19/2025 15:39:27 Created file Knowledge-Banks/adapters/b.plants/store/items/Crimson Fraxinus — Fraxinus argentea/meta.json
+9/19/2025 15:39:28 Created file Knowledge-Banks/adapters/b.plants/store/items/Woolly Sargassum — Sargassum longifolia/meta.json
+9/19/2025 15:40:03 Created file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Litchi — Litchi sinensis/meta.json
+9/19/2025 15:46:27 Edited file Knowledge-Banks/public/bulkforge.ollama.js
