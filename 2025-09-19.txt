@@ -60,3 +60,71 @@
 9/18/2025 22:51:06 Created file tools/list-manager/lists/NodeJS/meta.json
 9/18/2025 22:54:00 Created folder tools/list-manager/lists/NodeJS/segments
 9/18/2025 23:37:40 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 2, text 20x4 LCD display , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 10, text Ambient light sensor (TSL2561) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 11, text Ammonia sensor (MQ-137) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 9, text Altitude sensor (MS5611) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 8, text Alcohol sensor (MQ-3) , deleted false}
+9/18/2025 23:39:06 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 7, text Air quality sensor (MQ-135) , deleted false}
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 2, text 20x4 LCD display , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 10, text Ambient light sensor (TSL2561) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 11, text Ammonia sensor (MQ-137) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 9, text Altitude sensor (MS5611) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 8, text Alcohol sensor (MQ-3) , deleted false}/attachments
+9/18/2025 23:40:32 Created folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 7, text Air quality sensor (MQ-135) , deleted false}/attachments
+9/18/2025 23:41:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}/meta.json
+9/18/2025 23:41:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 2, text 20x4 LCD display , deleted false}/meta.json
+9/18/2025 23:41:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}/meta.json
+9/18/2025 23:41:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}/meta.json
+9/18/2025 23:41:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}/meta.json
+9/18/2025 23:41:01 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}/meta.json
+9/18/2025 23:42:27 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}/attachments/{ id 1, text 16x2 LCD display (HD44780) , deleted false}-facts.json
+9/18/2025 23:42:27 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}/attachments/{ id 3, text 433 MHz RF transmitter receiver , deleted false}-facts.json
+9/18/2025 23:42:27 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}/attachments/{ id 4, text 4G LTE module (SIM7600) , deleted false}-facts.json
+9/18/2025 23:42:27 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}/attachments/{ id 6, text Accelerometer (ADXL345) , deleted false}-facts.json
+9/18/2025 23:42:27 Created file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}/attachments/{ id 5, text 7-segment LED display , deleted false}-facts.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}/attachments/{ id 1, text 16x2 LCD display (HD44780) , deleted false}-facts.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}/attachments/{ id 3, text 433 MHz RF transmitter receiver , deleted false}-facts.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}/attachments/{ id 6, text Accelerometer (ADXL345) , deleted false}-facts.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}/attachments/{ id 5, text 7-segment LED display , deleted false}-facts.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}/attachments/{ id 4, text 4G LTE module (SIM7600) , deleted false}-facts.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}/meta.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}/meta.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}/meta.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 2, text 20x4 LCD display , deleted false}/meta.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}/meta.json
+9/18/2025 23:45:21 Deleted file Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}/meta.json
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 1, text 16x2 LCD display (HD44780) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 2, text 20x4 LCD display , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 2, text 20x4 LCD display , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 3, text 433 MHz RF transmitter receiver , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 4, text 4G LTE module (SIM7600) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 5, text 7-segment LED display , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 10, text Ambient light sensor (TSL2561) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 10, text Ambient light sensor (TSL2561) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 11, text Ammonia sensor (MQ-137) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 11, text Ammonia sensor (MQ-137) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 6, text Accelerometer (ADXL345) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 9, text Altitude sensor (MS5611) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 9, text Altitude sensor (MS5611) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 8, text Alcohol sensor (MQ-3) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 8, text Alcohol sensor (MQ-3) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 7, text Air quality sensor (MQ-135) , deleted false}/attachments
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items/{ id 7, text Air quality sensor (MQ-135) , deleted false}
+9/18/2025 23:45:22 Deleted folder Knowledge-Banks/adapters/b.airvehicles/store/items
+9/18/2025 23:46:33 Edited file Knowledge-Banks/adapters/b.airvehicles/schema.json
