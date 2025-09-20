@@ -375,3 +375,24 @@
 9/19/2025 22:28:05 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Temperature & humidity sensor (AM2320)/attachments
 9/19/2025 22:28:06 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal imaging camera (FLIR Lepton)
 9/19/2025 22:28:13 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:28:52 Created file Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal camera (MLX90640)/meta.json
+9/19/2025 22:28:59 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:29:43 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:30:17 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Thermistor module
+9/19/2025 22:30:24 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:31:03 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Temperature sensor (LM35)/attachments
+9/19/2025 22:31:03 Created file Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal imaging camera (FLIR Lepton)/meta.json
+9/19/2025 22:31:54 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:32:39 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:33:17 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Temperature sensor (TMP36)/attachments
+9/19/2025 22:33:18 Created file Knowledge-Banks/adapters/b.arduino-components/store/items/Thermistor module/meta.json
+9/19/2025 22:33:25 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:33:58 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Tilt ball switch
+9/19/2025 22:34:34 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal camera (MLX90640)/attachments
+9/19/2025 22:34:40 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:35:18 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Tilt sensor (SW-520D)
+9/19/2025 22:36:47 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal imaging camera (FLIR Lepton)/attachments
+9/19/2025 22:36:47 Created file Knowledge-Banks/adapters/b.arduino-components/store/items/Tilt ball switch/meta.json
+9/19/2025 22:36:47 Created folder Knowledge-Banks/adapters/b.arduino-components/store/items/Time-of-flight sensor (VL6180X)
+9/19/2025 22:36:54 Edited file Knowledge-Banks/jobs/job_mfrbsabg_0hz4so.items.json
+9/19/2025 22:38:16 Created file Knowledge-Banks/adapters/b.arduino-components/store/items/Tilt sensor (SW-520D)/meta.json
