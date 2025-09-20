@@ -792,3 +792,8 @@
 9/20/2025 04:16:49 Edited file Knowledge-Banks/v2-router/lib/ollama.js
 9/20/2025 04:17:17 Edited file Knowledge-Banks/v2-router/lib/job-manager.js
 9/20/2025 04:18:14 Edited file Knowledge-Banks/v2-router/lib/job-manager.js
+9/20/2025 04:20:08 Edited file Knowledge-Banks/v2-router/lib/job-manager.js
+9/20/2025 04:20:37 Edited file Knowledge-Banks/v2-router/lib/job-manager.js
+9/20/2025 04:21:06 Edited file Knowledge-Banks/v2-router/jobs.router.js
+9/20/2025 04:24:24 Edited file Knowledge-Banks/v2-router/ollama.router.js
+9/20/2025 04:27:40 Edited file Knowledge-Banks/public/bulkforge2.html
