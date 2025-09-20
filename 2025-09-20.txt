@@ -987,3 +987,13 @@
 9/20/2025 16:17:08 Created file Knowledge-Banks/v3-router/index.js
 9/20/2025 16:17:08 Created file Knowledge-Banks/v3-router/jobs.router.js
 9/20/2025 16:17:08 Created file Knowledge-Banks/v3-router/sse.js
+9/20/2025 16:19:09 Created folder Knowledge-Banks/v3-router/lib
+9/20/2025 16:21:05 Created file Knowledge-Banks/v3-router/lib/banks.js
+9/20/2025 16:21:05 Created file Knowledge-Banks/v3-router/lib/ollama.js
+9/20/2025 16:21:05 Created file Knowledge-Banks/v3-router/lib/job-manager.js
+9/20/2025 16:21:05 Created file Knowledge-Banks/v3-router/lib/util.js
+9/20/2025 16:25:22 Edited file Knowledge-Banks/v3-router/lib/job-manager.js
+9/20/2025 16:25:54 Edited file Knowledge-Banks/public/bulkforge3.js
+9/20/2025 16:25:58 Edited file Knowledge-Banks/data/jobs.json
+9/20/2025 16:26:39 Edited file Knowledge-Banks/data/jobs.json
+9/20/2025 16:28:02 Edited file Knowledge-Banks/data/jobs.json
