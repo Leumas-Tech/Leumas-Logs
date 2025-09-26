@@ -655,3 +655,7 @@
 9/26/2025 18:03:03 Created file Marion/web3-property/apps/api/src/services/normalizer.ts
 9/26/2025 18:03:03 Created file Marion/web3-property/apps/api/src/services/schema.ts
 9/26/2025 18:03:03 Created file Marion/web3-property/apps/api/src/routes/health.ts
+9/26/2025 18:23:25 Edited file Marion/web3-property/apps/api/src/services/ipfs.ts
+9/26/2025 18:23:54 Created file Marion/web3-property/apps/api/src/routes/anchor.ts
+9/26/2025 18:23:54 Created file Marion/web3-property/apps/api/src/routes/ingest.ts
+9/26/2025 18:23:54 Created file Marion/web3-property/apps/api/src/routes/mint.ts
