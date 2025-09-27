@@ -1496,3 +1496,16 @@
 9/27/2025 00:02:27 Edited file tools/reactive-music/public/index.html
 9/27/2025 00:03:15 Edited file Marion/web3-property/.env.example
 9/27/2025 00:04:20 Created folder tools/reactive-music/renders
+9/27/2025 00:06:11 Created file Marion/web3-property/packages/subgraph/schema.graphql
+9/27/2025 00:06:11 Created file Marion/web3-property/packages/subgraph/subgraph.yaml
+9/27/2025 00:06:12 Edited file Marion/web3-property/apps/web/package.json
+9/27/2025 00:06:12 Created file Marion/web3-property/packages/subgraph/mappings/anchor.ts
+9/27/2025 00:06:13 Edited file Marion/web3-property/apps/api/tsconfig.json
+9/27/2025 00:06:14 Edited file Marion/web3-property/package.json
+9/27/2025 00:06:14 Created file Marion/web3-property/README.md
+9/27/2025 00:08:15 Created file Marion/web3-property/eslint.config.mjs
+9/27/2025 00:08:15 Created file Marion/web3-property/.prettierrc.json
+9/27/2025 00:08:23 Edited file tools/reactive-music/public/app.js
+9/27/2025 00:08:23 Edited file tools/reactive-music/public/index.html
+9/27/2025 00:13:00 Edited file Marion/web3-property/apps/api/tsconfig.json
+9/27/2025 00:13:52 Edited file Marion/web3-property/apps/workers/tsconfig.json
