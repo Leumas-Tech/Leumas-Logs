@@ -444,3 +444,1143 @@
 10/16/2025 08:13:52 CHANGE Servers/x.water-grass/git-worker.js
 10/16/2025 08:14:29 CHANGE NPM
 10/16/2025 08:15:02 CHANGE Servers/x.water-grass/server.js
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Keyboards/MacroKeyboards/1 Key Macro Keyboard Dash Button/Arduino_Macro_Keyboard_Dash_Button_Code
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Keyboards/MacroKeyboards/2-12 Key Macro Keyboard/2-12_Key_Macro_Keyboard
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard/RotaryEncoder DashButton Template
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/RotaryEncoder IR Transmitter/RotaryEncoder-IR-Transmitter-Template
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/badusb_interpreter
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2
+10/16/2025 08:15:15 CHANGE Arduino/Arduino-Templates/Remotes/IR Remotes/IR Remote Template/Arduino_Programmable_IR_Remote_Template
+10/16/2025 08:15:15 CHANGE Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther
+10/16/2025 08:15:15 CHANGE atlas
+10/16/2025 08:15:15 CHANGE atlas/live/2025/09/29/imperium-live
+10/16/2025 08:15:15 CHANGE atlas/live/2025/09/30/imperium-live
+10/16/2025 08:15:15 CHANGE atlas/visitors/2025/09/04/cjs-demo
+10/16/2025 08:15:15 CHANGE atlas/visitors/2025/09/30/cjs-demo
+10/16/2025 08:15:15 CHANGE tools/json-stream
+10/16/2025 08:15:15 CHANGE tools/ObjectHandDetector/mp-env
+10/16/2025 08:15:15 CHANGE tools/ObjectHandDetector/mp-env/Lib
+10/16/2025 08:15:15 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages
+10/16/2025 08:15:15 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/absl
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/AI
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/AI/BULK
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/AI/BULK/BulkArduinoProject
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/AI/BULK/BulkArduinoProject/assets
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkArduinoScripts
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/HTML-APPS/GENERATE
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/HTML-APPS/GENERATE/LeumasQRCodeApp
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/HTMLAPPS/TrainingDataBuilder
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/HTMLAPPS/TrainingDataBuilder/DataAugmentation
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/HTMLAPPS/TXTtoHTML/Backend
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/HTMLAPPS/TXTtoHTML/Backend/html
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/AI
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/AI/Advanced-GPT-interfaces/fitness-plans
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/AI/BASIC-GPT-APPS
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/AI/BULK/Bulk Universal Interface
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/Calculators/Calculators
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/HTML-APPS/AUDIO
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/HTML-APPS/GENERATE/LeumasQRCodeApp
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/LEUMAS/htmlCSSdex/htmlCSSdex
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/LEUMAS/Text-To-Speech
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/Library/LEUMAS/Text-To-Speech/imgs
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/One-Page-Leumas-Apps/Text-To-Speech
+10/16/2025 08:15:15 CHANGE tools/OnePageApps/One-Page-Leumas-Apps/Text-To-Speech/imgs
+10/16/2025 08:15:15 CHANGE tools/Packer/release
+10/16/2025 08:15:15 CHANGE tools/Packer/release/win-unpacked
+10/16/2025 08:15:15 CHANGE tools/Packer/release/win-unpacked/resources
+10/16/2025 08:15:15 CHANGE tools/Packer/release/win-unpacked/resources/app
+10/16/2025 08:15:15 CHANGE tools/practices-mvp/atlas_out/william
+10/16/2025 08:15:15 CHANGE tools/practices-mvp/atlas_out/william/fitness
+10/16/2025 08:15:15 CHANGE tools/practices-mvp/data
+10/16/2025 08:15:15 CHANGE tools/practices-mvp/data/chats
+10/16/2025 08:15:15 CHANGE tools/practices-mvp/data/chats/micro-chem
+10/16/2025 08:15:15 CHANGE tools/practices-mvp/data/tasks/fitness
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/entries_detections
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/entries_detections/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/finishers/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/functions/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/middlewares/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/settings/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/columns/variables/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/components/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/tabs/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder2/utils/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder3/modules
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder3/modules/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder3/ui/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder4/columns/Entries
+10/16/2025 08:15:15 CHANGE tools/Python/Keyworder4/columns/Entries/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/KeywordListener/Listener
+10/16/2025 08:15:15 CHANGE tools/Python/KeywordListener/Listener/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/LeumasAI2.0/ActionHandler
+10/16/2025 08:15:15 CHANGE tools/Python/LeumasAI2.0/ActionHandler/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/LeumasAI2.0/Assets/BuiltInChannels
+10/16/2025 08:15:15 CHANGE tools/Python/LeumasAI2.0/AudioVisualizer/__pycache__
+10/16/2025 08:15:15 CHANGE tools/Python/LeumasAI2.0/Components/ChannelManager
+10/16/2025 08:15:15 CHANGE tools/Python/LeumasAI2.0/Components/ChannelManager/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/Clock/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/CodeRunner/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/CustomButton/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/FaceDetection/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/GridManager/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/MenuBar/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/Sidebars/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/Utils/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/FileExplorer/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Listener/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/SavedResponses/CodeSnippets
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/customtkinter
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/customtkinter/customtkinter
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/customtkinter/customtkinter/assets
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/gui/settings
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/gui/settings/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/gui/sidebar/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/main/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates/GoogleExtensions
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates/GoogleExtensions/Basic
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates/NodeJS/nodejs-basic
+10/16/2025 08:15:16 CHANGE tools/Python/SerialPortConditionals/Conditionals
+10/16/2025 08:15:16 CHANGE tools/Python/SerialPortConditionals/Conditionals/__pycache__
+10/16/2025 08:15:16 CHANGE tools/smart-retry/@leumas
+10/16/2025 08:15:16 CHANGE tools/smart-retry/@leumas/smart-retry
+10/16/2025 08:15:16 CHANGE tools/smart-retry/@leumas/smart-retry/docs
+10/16/2025 08:15:16 CHANGE tools/Track-QR engagement/netifaces-0.11.0
+10/16/2025 08:15:16 CHANGE tools/Track-QR engagement/netifaces-0.11.0/netifaces-0.11.0
+10/16/2025 08:15:16 CHANGE tools/Track-QR engagement/netifaces-0.11.0/netifaces-0.11.0/netifaces.egg-info
+10/16/2025 08:15:16 CHANGE tools/UsageTracker/test
+10/16/2025 08:15:16 CHANGE tools/UsageTracker/test/cjs-server
+10/16/2025 08:15:16 CHANGE tools/UsageTracker/test/cjs-server/public
+10/16/2025 08:15:16 CHANGE tools/UsageTracker/test/esm-server/public
+10/16/2025 08:15:16 CHANGE tools/VSCodeWindow/webview-browser
+10/16/2025 08:15:16 CHANGE tools/x.contact-book/data/books/leumas
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/output
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/conclusion
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-descartes
+10/16/2025 08:15:16 CHANGE tools/x.smart-scaffold/templates/react/public
+10/16/2025 08:15:16 CHANGE tools/YoutubeClone/api-server
+10/16/2025 08:15:16 CHANGE Websites/WebWizards
+10/16/2025 08:15:16 CHANGE Websites/WebWizards/Trash/Website/assets/css
+10/16/2025 08:15:16 CHANGE Websites/WebWizards/Trash/Website/components
+10/16/2025 08:15:16 CHANGE z.Domains2/android
+10/16/2025 08:15:16 CHANGE z.Domains2/android/.gradle
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src/androidTest/java
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src/main
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src/main/assets
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src/test/java
+10/16/2025 08:15:16 CHANGE z.Domains2/android/capacitor-cordova-android-plugins/src/main/java
+10/16/2025 08:15:16 CHANGE z.Domains2/config/configs/elaborate
+10/16/2025 08:15:16 CHANGE z.Domains2/config/configs/elaborate/routes
+10/16/2025 08:15:16 CHANGE z.Domains2/core/.routes
+10/16/2025 08:15:16 CHANGE z.Domains2/core/public/Audio
+10/16/2025 08:15:16 CHANGE z.Domains2/core/public/Audio/Music
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/AI-training
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Buttons
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/DemoGallery/Demos
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/helpers/Images
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas/AdminServerHelpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas/AdminServerHelpers/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas/Plugins/CustomPlugins
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Demos/AXIOS2.0
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Footers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Footers/Footer1
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers/Header1
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Loaders/LeumasLoader
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Cards
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Pages/AboutUs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Sidebars/EcommerceSidebar
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Components/LeumasKeyboardShortcuts
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/FRAMEWORK/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Main/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Social/src
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/LEVIATHAN/Capabilities
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/AIArtwork
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/ListLauncher/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/NexusPod/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/PortScanner/constants
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/AIBuild
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForge/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/CRUD/SelectedSchema
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Cymatics/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Imaginate/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Landing/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/NPMPackages/Slider
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Playground/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/PODGPT2/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/ReactBitsClone/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/RunnerPage/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Search/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Telepathy/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/BulkScraper
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/3D
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/16_segments
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Cards/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/ChatBot/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Chatbots/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/AnimatedSlider
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Editors/ACE
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Forms/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/FunctionBuilder/FolderBreaker
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Generators/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Header/Popups
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LMS-WildCard-Helpers/BulkRequests
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Manager/Layouts
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Metamask/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/404
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Payments/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Printify/Blueprints
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Ratings/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/styles/Particles
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/TrafficTracker/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/3DProgramming
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.hooks/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Appstore
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Bank/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Ecommerce/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.mappings/locales
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.services/CLAIRE
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 1
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 1/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 1/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 10/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 10/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 2/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 2/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 3/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 3/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 4/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 4/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 5/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 5/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 6/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 6/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 7/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 7/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 8/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 8/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 9/StaticPages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 9/StaticPages/3d-Valley
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/Assets.xcassets/AppIcon.appiconset
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/Base.lproj
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/assets
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App.xcworkspace/xcshareddata
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/00_DeployAll.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/00_DeployAll.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/00_DeployLMS.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/01_DeployCore.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/02_DeployStakeManager.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/03_DeployGov.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/03_DeployTariffRouter.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/04_DeployAI_Network.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/04_DeployEventNotary.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/05_DeployNodeBilling.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/05_DeployRevenueSplit.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/06_DeployProjectVault.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/07_DeployIdentity.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/00_DeployAll.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/00_DeployAll.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/00_DeployLMS.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/01_DeployCore.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/02_DeployStakeManager.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/03_DeployGov.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/03_DeployTariffRouter.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/04_DeployAI_Network.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/04_DeployEventNotary.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/05_DeployNodeBilling.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/05_DeployRevenueSplit.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/06_DeployProjectVault.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/07_DeployIdentity.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts/src/ai
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/forge-std
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/forge-std/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/forge-std/src/interfaces
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/forge-std/test/compilation
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/.changeset
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/certora/diff
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/access
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/docs/modules
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/lib/erc4626-tests
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/scripts/checks
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test/access
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/packages/sdk
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/packages/sdk/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/packages/sdk/src/tests
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/AI_Image_Rendering_Marketplace
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/AI_Image_Rendering_Marketplace/configs
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/AI_Image_Rendering_Marketplace/integrations/blender_plugin
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/LMS_Dashboard_Demo/client
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/LMS_Dashboard_Demo/client/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/00_DeployAll.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/00_DeployLMS.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/00_DeployLMS.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/01_DeployCore.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/02_DeployStakeManager.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/03_DeployGov.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/04_DeployEventNotary.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/05_DeployNodeBilling.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/broadcast/07_DeployIdentity.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/00_DeployAll.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/00_DeployLMS.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/00_DeployLMS.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/01_DeployCore.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/02_DeployStakeManager.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/03_DeployGov.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/04_DeployEventNotary.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/05_DeployNodeBilling.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache/07_DeployIdentity.s.sol/31337
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts/src/ai
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/forge-std
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/forge-std/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/forge-std/src/interfaces
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/forge-std/test/compilation
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/.changeset
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/certora/diff
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/access
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/docs/modules
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/lib/erc4626-tests
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/scripts/generate
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test/access
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/packages/sdk
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/packages/sdk/src
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/packages/sdk/src/tests
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/Arduino
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/BackupManager
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/BackupManager/backup_all_sftp_async/backup_jobs
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Clusters/boilerplates/public
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/database-connector/adapters/plugins/dummy-adapter
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/database-connector/config/userJSON
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/database-connector/tests
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/DataNormalizer/src/config
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Environment Monitor
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Environment Monitor/ESP8266 Environment Monitor
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Environment Sensor/ESP8266 Environment Sensor
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Environmental Monitor/arduino
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Environmental Sensor/arduino
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node10/ESP8266 Sensor Node10
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node12/ESP8266 Sensor Node12
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node2/arduino
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node7/ESP8266 Sensor Node7
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/event-listener/adapters
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/event-listener/adapters/plugins
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/stores/Color Corner (coloring books)
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/stores/Color Corner (coloring books)/zips
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/stores/digitown/zips
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/stores/imperium/zips
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/stores/myTestStore/zips
+10/16/2025 08:15:16 CHANGE z.Domains2/scripts/components/src/PageBuilding/Cards
+10/16/2025 08:15:16 CHANGE z.Domains2/Server/Router
+10/16/2025 08:15:16 CHANGE z.Domains2/Server/Router/BackupManager/backup_configs
+10/16/2025 08:15:16 CHANGE z.Domains2/Server/Router/DeployManager/deploy_configs
+10/16/2025 08:15:16 CHANGE z.Domains2/stores/alien-store
+10/16/2025 08:15:16 CHANGE z.Domains2/stores/alien-store/files
+10/16/2025 08:15:16 CHANGE z.Domains2/stores/alien-store/files/Product2
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Arduino
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket/ESP8266-WebSocket-NodeJS
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/addConfigFile
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/addConfigFile/AddConfigFileBulk
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/AddREADME--Version/AddREADME-versions
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/AddREADMEtoDirectories/AddREADME-versions
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Boilerplate/Leumas Deploy Files
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/commit-shared-folder-react/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/copy-shared-folder-to-all-from-a-main/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/DeployLoginServer/Leumas Backend Deploy
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/DeployStorageServer/Leumas Backend Deploy
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Dynamic Backup/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Grobotics/Leumas Deploy Files
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/leumas-private-shared-publish/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/LeumasLoginServer/Start Leumas Servers
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/LMS-Inventory/Start Leumas Servers
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/npm-publisher-manager/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/npmBuildApps/LeumasBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/NpmRunBuildReactApps/LeumasBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/RemoveNodeModules/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Shared-Folder-Advanced-Sharer/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/update-all-shared-folders/NPMBatchFiles
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/WebWizards/Leumas Deploy Files
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/NodeJS/adapter-system
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/NodeJS/adapter-system/public
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/NodeJS/leumas-app/public
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Python/python-package
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Clock
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Clock/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Disk/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Google/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/LeumasLogo/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Network/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/RecycleBin/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/System/@Resources
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/React/admin-dashboard/public
+10/16/2025 08:15:16 CHANGE Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard/Rotary_Encoder_Basic_Strings_Template
+10/16/2025 08:15:16 CHANGE Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord
+10/16/2025 08:15:16 CHANGE Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord2
+10/16/2025 08:15:16 CHANGE Arduino/Arduino-Templates
+10/16/2025 08:15:16 CHANGE Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template
+10/16/2025 08:15:16 CHANGE Arduino/PersonalCopies/Wifi Jammer ESP8266 Template
+10/16/2025 08:15:16 CHANGE Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/Reset_Sketch
+10/16/2025 08:15:16 CHANGE Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils
+10/16/2025 08:15:16 CHANGE Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface
+10/16/2025 08:15:16 CHANGE tools
+10/16/2025 08:15:16 CHANGE Websites
+10/16/2025 08:15:16 CHANGE atlas/live
+10/16/2025 08:15:16 CHANGE atlas/live/2025/09
+10/16/2025 08:15:16 CHANGE atlas/visitors/2025/09
+10/16/2025 08:15:16 CHANGE atlas/visitors/2025/09/04
+10/16/2025 08:15:16 CHANGE atlas/visitors/2025/09/04/esm-demo
+10/16/2025 08:15:16 CHANGE atlas/visitors/2025/09/30/esm-demo
+10/16/2025 08:15:16 CHANGE atlas/visitors/2025/09/30/Imperium
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector
+10/16/2025 08:15:16 CHANGE tools/offline-queueing-protocol
+10/16/2025 08:15:16 CHANGE tools/ollama
+10/16/2025 08:15:16 CHANGE tools/ollama-consensus
+10/16/2025 08:15:16 CHANGE tools/ollama-research
+10/16/2025 08:15:16 CHANGE tools/OnePageApps
+10/16/2025 08:15:16 CHANGE tools/open-data-bridge
+10/16/2025 08:15:16 CHANGE tools/Packer
+10/16/2025 08:15:16 CHANGE tools/practices-mvp
+10/16/2025 08:15:16 CHANGE tools/project-eros
+10/16/2025 08:15:16 CHANGE tools/Python
+10/16/2025 08:15:16 CHANGE tools/queue-processor
+10/16/2025 08:15:16 CHANGE tools/reactive-music
+10/16/2025 08:15:16 CHANGE tools/RepoToEmbedding
+10/16/2025 08:15:16 CHANGE tools/ResearchPapers
+10/16/2025 08:15:16 CHANGE tools/script-orchestration
+10/16/2025 08:15:16 CHANGE tools/semantic-placement
+10/16/2025 08:15:16 CHANGE tools/ServerManager
+10/16/2025 08:15:16 CHANGE tools/ServerMover
+10/16/2025 08:15:16 CHANGE tools/smart-retry
+10/16/2025 08:15:16 CHANGE tools/stl
+10/16/2025 08:15:16 CHANGE tools/TelegramClone
+10/16/2025 08:15:16 CHANGE tools/temporal-packet-streaming
+10/16/2025 08:15:16 CHANGE tools/text-to-name
+10/16/2025 08:15:16 CHANGE tools/the-dreamer
+10/16/2025 08:15:16 CHANGE tools/TinderClone
+10/16/2025 08:15:16 CHANGE tools/token-creator
+10/16/2025 08:15:16 CHANGE tools/Track-QR engagement
+10/16/2025 08:15:16 CHANGE tools/TwitchClone
+10/16/2025 08:15:16 CHANGE tools/url-to-screenshot
+10/16/2025 08:15:16 CHANGE tools/UsageTracker
+10/16/2025 08:15:16 CHANGE tools/VSCodeWindow
+10/16/2025 08:15:16 CHANGE tools/wakeword-engine
+10/16/2025 08:15:16 CHANGE tools/x.contact-book
+10/16/2025 08:15:16 CHANGE tools/x.file-explorer
+10/16/2025 08:15:16 CHANGE tools/x.generator
+10/16/2025 08:15:16 CHANGE tools/x.sharer
+10/16/2025 08:15:16 CHANGE tools/x.smart-scaffold
+10/16/2025 08:15:16 CHANGE tools/YoutubeClone
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/albucore
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/Cython
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/easydict
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/mouseinfo
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/onnxruntime
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/pyperclip-1.9.0-py3.10.egg-info
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/pyreadline3
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/scipy.libs
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/sympy
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/werkzeug
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/yaml
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/_sounddevice_data
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/_yaml
+10/16/2025 08:15:16 CHANGE tools/ObjectHandDetector/mp-env/Lib/site-packages/__pycache__
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/HTMLAPPS
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/One-Page-Leumas-Apps
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/BulkArduinoProject/BulkArduinoProject - Copy
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/BulkArduinoProject/js
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/BulkArduinoProject/test
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/BulkArduinoProject/text
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkBlockchainApps
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkBlockchainUseCases
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkBlueprints
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkBrowserExtensions
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkCustomAPI
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkDIYtutorial
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkExplainRequests
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkFundraisingIdeas
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkGrantProposal
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkHomeAutomationSolutions
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkHowItsMade
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkHTMLPages
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkInfographics
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkIOSapps
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkLifeHackIdeas
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkMealPlan
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkProductIdeas
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkPythonScripts
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkRecipes
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkRequestApp
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkRESTAPI
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkSanitySchemas
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkScaleableMicroserviceIdeas
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkSmartContracts
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkSocialMediaBots
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkSongRequests
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkTailwindComponents
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkUIDesign
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkVsCodeExtensions
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkWebScrapers
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkWordPressPlugins
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkWorkoutRoutines
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/AI/BULK/SingleSkills/BulkZeroWasteAlternatives
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/HTMLAPPS/TXTtoHTML
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/HTMLAPPS/TrainingDataBuilder/InteractiveChatSimulator
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/HTMLAPPS/TrainingDataBuilder/WebScraperToTrainingData
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/HTMLAPPS/TXTtoHTML/Backend/public
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/HTMLAPPS/TXTtoHTML/Backend/uploads
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/Calculators
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/LEUMAS
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/AI/Advanced-GPT-interfaces/ListCreator
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/AI/BULK
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/AI/BULK/SingleSkills
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/Calculators/HTML Calculators
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/Calculators/IDEAS
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/Calculators/PythonCalculators
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/currencyConverter
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/GENERATE
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/IMAGES
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/LoremGenerator
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/passwordGenerator
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/sandboxApp
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/TIMERS
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/Validators
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/VIDEO
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/viewJSON
+10/16/2025 08:15:16 CHANGE tools/OnePageApps/Library/HTML-APPS/weatherApp
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/atlas_out/william/hobbies
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/atlas_out/william/micro-chem
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/atlas_out/william/micro-spanish
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/atlas_out/william/religion-bible
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/atlas_out/william/study-js-math
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/tasks
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/chats/study-js-math
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/tasks/hobbies
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/tasks/micro-chem
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/tasks/micro-spanish
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/tasks/religion-bible
+10/16/2025 08:15:16 CHANGE tools/practices-mvp/data/tasks/study-js-math
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder3
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator
+10/16/2025 08:15:16 CHANGE tools/Python/SerialPortConditionals
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/components
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/tabs
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/utils
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/columns/finishers
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/columns/functions
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/columns/middlewares
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/columns/settings
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder2/columns/variables
+10/16/2025 08:15:16 CHANGE tools/Python/Keyworder3/ui
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Assets
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/AudioVisualizer
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/FileExplorer
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Listener
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/SavedResponses
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Assets/FileTypes
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/Clock
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/CodeRunner
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/CustomButton
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/FaceDetection
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/GridManager
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/MenuBar
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/Sidebars
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/Utils
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/Components/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/LeumasAI2.0/SavedResponses/Responses
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/main
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/customtkinter/customtkinter/windows
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/customtkinter/customtkinter/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/gui/sidebar
+10/16/2025 08:15:16 CHANGE tools/Python/Mavis-Demo/gui/__pycache__
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates/HTML
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates/NodeJS/nodejs-dynamic-server
+10/16/2025 08:15:16 CHANGE tools/Python/NewProjectCreator/boilerplates/NodeJS/nodejs-proxy
+10/16/2025 08:15:16 CHANGE tools/UsageTracker/test/esm-server
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-archimedes
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-bernoulli
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-descartes
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-einstein
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-euclid
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-euler
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-fibonacci
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-gauss
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-godel
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-hypatia
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-leibniz
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-mathematics
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-newton
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-pythagoras
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-ramanujan
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-turing
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/introduction-to-von-neumann
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-and-artificial-intelligence
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-and-technology
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-ancient-china
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-ancient-egypt
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-ancient-greece
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-ancient-rome
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-ancient-times
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-babylon
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-india
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-islamic-golden-age
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-17th-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-18th-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-19th-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-20th-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-21st-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-digital-age
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-enlightenment
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-industrial-revolution
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-middle-ages
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/mathematics-in-the-renaissance
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections/modern-mathematics
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-euclid
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-euler
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-fibonacci
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-mathematics
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-newton
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/introduction-to-pythagoras
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-ancient-egypt
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-ancient-greece
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-ancient-times
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-babylon
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-india
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-islamic-golden-age
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-the-17th-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-the-18th-century
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-the-middle-ages
+10/16/2025 08:15:16 CHANGE tools/x.generator/syllabus/the-history-of-mathematics/sections2/mathematics-in-the-renaissance
+10/16/2025 08:15:16 CHANGE tools/x.smart-scaffold/templates/react/src
+10/16/2025 08:15:16 CHANGE tools/YoutubeClone/cli
+10/16/2025 08:15:16 CHANGE tools/YoutubeClone/frontend
+10/16/2025 08:15:16 CHANGE tools/YoutubeClone/sdk
+10/16/2025 08:15:16 CHANGE Websites/WebWizards/Trash/Website/assets/images
+10/16/2025 08:15:16 CHANGE Websites/WebWizards/Trash/Website/assets/styles
+10/16/2025 08:15:16 CHANGE Websites/WebWizards/Trash/Website/assets/videos
+10/16/2025 08:15:16 CHANGE Websites/WebWizards/Trash/Website/pages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium-npm
+10/16/2025 08:15:16 CHANGE z.Domains2/ios
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy
+10/16/2025 08:15:16 CHANGE z.Domains2/repos
+10/16/2025 08:15:16 CHANGE z.Domains2/Router
+10/16/2025 08:15:16 CHANGE z.Domains2/Server
+10/16/2025 08:15:16 CHANGE z.Domains2/stores
+10/16/2025 08:15:16 CHANGE z.Domains2/templates
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app
+10/16/2025 08:15:16 CHANGE z.Domains2/android/capacitor-cordova-android-plugins
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src/main/java
+10/16/2025 08:15:16 CHANGE z.Domains2/android/app/src/main/res
+10/16/2025 08:15:16 CHANGE z.Domains2/android/capacitor-cordova-android-plugins/src/main/res
+10/16/2025 08:15:16 CHANGE z.Domains2/core/public
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Demos
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/LEVIATHAN
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.hooks
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.mappings
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.services
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/DemoGallery
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/Pages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Cells
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Charts
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Clusters
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/DragDrop
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Editors
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Generators
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/GRIDS
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Inputs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Managers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Modals
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Plugins
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/scripts
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Tabs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/3DProgramming/components/Triggers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas/deprecated
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas/Plugins
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/AdminLeumas/Plugins/Plugins
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Demos/FormInjectionExample
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Demos/LivestreamDemo
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Loaders
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Pages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Sidebars
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Footers/Footer2
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Footers/Footer3
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Footers/Footer4
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Footers/Footer5
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers/Header2
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers/Header3
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers/Header4
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers/Header5
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Headers/StoreHeader
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Loaders/LoaderOne
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/CTA
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Footers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Forms
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Grids
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Headers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Heros
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Inputs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/MISC
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Pagination
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Pricing
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Tabs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Testimonials
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/PageBuilding/Timeline
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Pages/ContactUs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Pages/FAQ
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Pages/GoFundME
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Pages/Home
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Globals/Sidebars/Sidebar1
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/FRAMEWORK
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/ImperiumLive
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Main
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Providers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Servers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Sitemaps
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Social
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Stores
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Tabs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Components/MemoryLeakDetector
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Components/Overlays
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Components/SppedDial
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/FRAMEWORK/context
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Main/mappings
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Imperium/Main/Verifications
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/LEVIATHAN/components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/LEVIATHAN/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/InfinityDisplays
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/ListLauncher
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/NexusPod
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/PortScanner
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/ListLauncher/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/ListLauncher/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/NexusPod/Demo
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/NexusPod/Pages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/NexusPod/Uploaders
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/PortScanner/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/MicroServices/PortScanner/modules
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Audio
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/AutonomousWorkers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForge
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForgeProcess2
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Configs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Contact
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/CRUD
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Cymatics
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Dashboard
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Demo
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Details
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Docs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/DownloadLMX
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Event
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/EyeTracking
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/FiverrGigCard
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Fusions
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Generative
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Home
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Imaginate
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Index
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/IPAPI
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Landing
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/leumas.tech
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/LeumasLibraryBuilder
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/LinkedIn
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Localhost
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/MongoDBConnectionForm
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/MyProfile
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/NPMPackages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Playground
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/PODGPT2
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Portfolio
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Radio
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/ReactApps
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/ReactBitsClone
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/ReactLibrary
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/RunnerPage
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Search
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Search2
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/SiteAnalysis
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Telepathy
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Translators
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Webhooks
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Workflows
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForge/Demo
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForge/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForge/Tabs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/BulkForge/Testing
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Playground/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/PODGPT2/pages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/ReactBitsClone/data
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/RunnerPage/Utils
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Search/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/Telepathy/Tabs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/DataCleaner
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/ScrapeAndClean
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/ScrapeLinks
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/Scraper
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/Scrapers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/ScrapeTor
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/utils
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Pages/WebScraping/WebScrapeHub
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/APIKeys
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/AsideMenu
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Audio
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Boilerplates
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Buttons
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Cards
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/ChatBot
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Chatbots
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Checkout
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/ConnectBackends
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Contexts
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Dropper
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Editors
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/FileGrids
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/FileSplit
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/FiverrGigCard
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Footer
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Forms
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Friends
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/FunctionBuilder
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Generators
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/geo
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/GridBuilder
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/GridBuilder2
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Header
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/HelperBars
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/HTMLBuilder
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/IDE
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/IPAPI-Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/JSON
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LeumasID
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LeumasWallet
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LiveOrb
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LMS-WildCard-Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Manager
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/MeanMedianMode
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Messenger
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Metamask
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/MonitorSelector
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/MultiWindowViewer
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/OPENAI
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/OpenCMDButton
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Payments
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pokemon
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/PostComposer
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Printify
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Ratings
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/RenderData
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/SideBar
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/SpeedDial
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/StaticPageTool
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/StyledButton
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/styles
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/TextToSpeech
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Theme
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/ThreeJS
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/TrafficData
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/TrafficTracker
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/UX
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/Leumas AI Graphics
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/LeumasBackgrounds
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/LeumasFavicons
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/LeumasLogo
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/SharedSVG
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/assets/Steps
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Chatbots/hooks
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Chatbots/utils
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/AppIntroduction
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Backgrounds
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Booking
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/BuilderIO
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/CommandPrompt
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/DeviceManager
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Downloaders
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/FileExplorer
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/FlashLight
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Gallery
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Gemini
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Generators
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/GithubProfile
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/HeroSections
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/HTML
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/IFRAME
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Jumbotrons
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/LeumasSearch
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Loaders
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/LocalStorageManager
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/LocationsAndMaps
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/NetworkTraffic
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/NPM
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/SerialPort
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/ShapeMask
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Stenography
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/SystemMonitor
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/Tabs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/TaskManager
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/TCPClient
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/VerticalTimeline
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Components/YoutubeChannel
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Forms/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LMS-WildCard-Helpers/Components
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LMS-WildCard-Helpers/Schemas
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/LMS-WildCard-Helpers/UniversalCrud
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/BlankBuilderPage
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/GoFundMe
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/Learn
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/Login
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/Paypal
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Pages/Signup
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Payments/Helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Payments/Stripe
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/Shared/Printify/ProductPage
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Admin
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/BulkForge
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Claire
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Ecommerce
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Export
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/History
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/LeumasBank
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Leviathan
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/ListLauncher
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Metamask
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Playground
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/PODGPT
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Search
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/TaskScheduling
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.helpers/helpers/Utilities
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.hooks/Fusions
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.hooks/IMPERIUM
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.hooks/UserAccounts
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Bank
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Ecommerce
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/ID
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Membership
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Membership copy
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Services
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Tokens
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Wallet
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Bank/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Bank/LeumasCheckout
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Ecommerce/context
+10/16/2025 08:15:16 CHANGE z.Domains2/core/src/z.leumas/Ecommerce/pages
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 10
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 2
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 3
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 4
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 5
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 6
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 7
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 8
+10/16/2025 08:15:16 CHANGE z.Domains2/imperium/version 9
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App.xcworkspace
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/Assets.xcassets/Splash.imageset
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/Audio
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/Cursors
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/icons
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/models
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/RhinoContexts
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/textures
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/wakeword-models
+10/16/2025 08:15:16 CHANGE z.Domains2/ios/App/App/public/Wakewords
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/packages
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/00_DeployLMS.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/01_DeployCore.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/03_DeployTariffRouter.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/04_DeployAI_Network.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/04_DeployEventNotary.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/05_DeployNodeBilling.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/05_DeployRevenueSplit.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/broadcast/06_DeployProjectVault.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/00_DeployLMS.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/01_DeployCore.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/03_DeployTariffRouter.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/04_DeployAI_Network.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/04_DeployEventNotary.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/05_DeployNodeBilling.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/05_DeployRevenueSplit.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/cache/06_DeployProjectVault.s.sol
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts/src/core
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts/src/governance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts/src/network
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/contracts/src/script
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/forge-std/test
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/forge-std/test/fixtures
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/audits
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/certora
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/hardhat
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/lib
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/scripts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/certora/harnesses
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/certora/reports
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/certora/specs
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/finance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/governance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/interfaces
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/metatx
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/mocks
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/proxy
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/token
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/utils
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/contracts/vendor
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/lib/forge-std
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/scripts/generate
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/scripts/release
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/scripts/upgradeable
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test/governance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test/proxy
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test/token
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/lib/openzeppelin-contracts/test/utils
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/LMS_Dashboard_Demo
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/LMS_Node_Gateway
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/AI_Image_Rendering_Marketplace/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/AI_Image_Rendering_Marketplace/integrations
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin/Projects/LMS_Dashboard_Demo/scripts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/cache
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/packages
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts/src/core
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts/src/governance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts/src/network
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/contracts/src/script
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/forge-std/test
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/forge-std/test/fixtures
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/audits
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/certora
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/docs
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/lib
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/scripts
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/certora/harnesses
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/certora/reports
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/certora/specs
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/finance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/governance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/interfaces
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/metatx
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/mocks
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/proxy
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/token
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/utils
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/contracts/vendor
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/lib/forge-std
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/scripts/release
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/scripts/upgradeable
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test/governance
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test/helpers
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test/proxy
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test/token
+10/16/2025 08:15:16 CHANGE z.Domains2/LMSCoin copy/lib/openzeppelin-contracts/test/utils
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/Batch
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/imported
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/JavaScript
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/JSONStructures
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/Leumas
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/NodeJS
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/Python
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/React
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/ReactLibrary
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/Scripts
+10/16/2025 08:15:16 CHANGE z.Domains2/repos/templates
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Clusters
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/database-connector
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/event-listener
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/stores
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Environment Sensor
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node10
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node12
+10/16/2025 08:15:16 CHANGE z.Domains2/Router/Devices/ESP8266 Sensor Node7
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/NodeJS
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/NPM
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Python
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Arduino/Arduino-Nodejs-Websocket/server
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/AddREADME--Version
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/AddREADMEtoDirectories
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Boilerplate
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/commit-shared-folder-react
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/copy-shared-folder-to-all-from-a-main
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/DeployLoginServer
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/DeployStorageServer
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Dynamic Backup
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Grobotics
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/leumas-private-shared-publish
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/LeumasLoginServer
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/LMS-Inventory
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/npm-publisher-manager
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/npmBuildApps
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/NpmRunBuildReactApps
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/RemoveNodeModules
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/Shared-Folder-Advanced-Sharer
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/update-all-shared-folders
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Batch/WebWizards
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/NodeJS/leumas-app
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Disk
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Google
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/LeumasLogo
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Network
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/RecycleBin
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/System
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Clock/Disk
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Clock/Recycle Bin
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Clock/Welcome
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Disk/Disk
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Disk/Recycle Bin
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/Disk/Welcome
+10/16/2025 08:15:16 CHANGE z.Domains2/templates/Rainmeter/RecycleBin/Recycle Bin
+10/16/2025 08:15:16 CHANGE Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2
+10/16/2025 08:15:16 CHANGE atlas/visitors
+10/16/2025 08:15:16 CHANGE atlas/visitors/2025/09/30
