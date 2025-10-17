@@ -66330,3 +66330,16 @@
 10/17/2025 15:26:50 Edited file NPM/leumas-middleware/lib/a.algorithms
 10/17/2025 15:26:50 Edited file NPM
 10/17/2025 15:26:50 Edited file NPM/leumas-middleware/lib/a.helpers/test/all-tests/adapters.test.js
+10/17/2025 15:27:12 Created file NPM/leumas-middleware/lib/a.helpers/test/all-tests/simple.test.js
+10/17/2025 15:27:12 Edited file NPM/leumas-middleware/lib/a.helpers/test/all-tests
+10/17/2025 15:30:09 Created file NPM/leumas-middleware/lib/a.helpers/test/check_import.js
+10/17/2025 15:30:09 Edited file NPM/leumas-middleware/lib/a.helpers/test
+10/17/2025 15:30:45 Edited file NPM/leumas-middleware/lib/a.helpers/test/all-tests/adapters.test.js
+10/17/2025 15:30:54 Edited file NPM/leumas-middleware/lib/a.helpers/test/all-tests/adapters.test.js
+10/17/2025 15:32:06 Edited file NPM/leumas-middleware/lib/a.helpers/test/all-tests/adapters.test.js
+10/17/2025 15:32:42 Created file NPM/leumas-middleware/lib/a.helpers/test/run_adapters_test.js
+10/17/2025 15:32:42 Edited file NPM/leumas-middleware/lib/a.helpers/test
+10/17/2025 15:33:39 Edited file NPM/leumas-middleware/lib/a.helpers/test/run_adapters_test.js
+10/17/2025 15:33:51 Edited file NPM/leumas-middleware/lib/a.helpers/test/run_adapters_test.js
+10/17/2025 15:34:15 Edited file NPM/leumas-middleware/lib/a.helpers/test/run_adapters_test.js
+10/17/2025 15:34:33 Edited file NPM/leumas-middleware/lib/a.helpers/test/run_adapters_test.js
