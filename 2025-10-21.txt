@@ -95320,3 +95320,191 @@
 10/21/2025 01:16:41 Edited file Listeners/CustomComandLiners
 10/21/2025 01:26:22 Edited file Listeners/Opener
 10/21/2025 01:26:22 Edited file tools/gemini
+10/21/2025 01:27:50 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/21/2025 01:30:01 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/21/2025 01:34:06 Edited file z.Domains2/templates/HTML/leumas-logged-in-demo
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/04_DeployEventNotary.s.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/TariffRouter.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Base.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Vm.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/TreasuryDAO.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Test.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Strings.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/UUPSUpgradeable.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/TariffRouter.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StorageSlot.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/TreasuryDAO.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdUtils.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdToml.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdStyle.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdMath.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdStorage.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdInvariant.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdJson.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdError.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdConstants.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdCheats.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/SignedMath.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdAssertions.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StakeManager.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Script.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StakeManager.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/StdChains.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/safeconsole.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/SafeERC20.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/RevenueSplit.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/RevenueSplit.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Registry.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Registry.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/ProjectVault.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Pausable.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/ProjectVault.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Ownable.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/NodeBilling.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/NodeBilling.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Math.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC721Receiver.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/LMS.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IMulticall3.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC721Metadata.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC721.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/LMS.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC20Permit.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC4906.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC165.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC20.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IERC20Metadata.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Identity_Reputation.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IBeacon.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/IdLib.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Example.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Identity.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/Example.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/EventNotary.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/EventNotary.t.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/ERC721URIStorage.sol
+10/21/2025 01:34:06 Edited file z.Domains2/LMSCoin/out/ERC20.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/ERC1967Utils.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/ERC721.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/EnumerableSet.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/draft-IERC6093.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/ERC165.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/EnumerableMap.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/draft-IERC1822.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/Context.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/ComputeOracle.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/console.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/Address.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/10_UpgradeModule.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/ComputeOracle.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/07_DeployIdentity.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/BaseUUPS.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/05_DeployRevenueSplit.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/05_DeployNodeBilling.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/03_DeployGov.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/03_DeployTariffRouter.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/04_DeployAI_Network.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/02_DeployStakeManager.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/06_DeployProjectVault.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/00_DeployAll.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/01_DeployCore.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin/out/00_DeployLMS.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC721.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC4906.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC20Metadata.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC20.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC165.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IdLib.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC721Metadata.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Identity_Reputation.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Registry.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdJson.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Math.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Vm.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/TreasuryDAO.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/TreasuryDAO.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Test.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/TariffRouter.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/TariffRouter.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdUtils.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Strings.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdToml.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdStyle.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdStorage.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdError.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdInvariant.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdMath.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdConstants.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdCheats.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdChains.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StdAssertions.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StakeManager.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/StakeManager.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Script.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/SignedMath.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/safeconsole.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/RevenueSplit.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/RevenueSplit.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Registry.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ProjectVault.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ProjectVault.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Pausable.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Ownable.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/NodeBilling.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/NodeBilling.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/LMS.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/LMS.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IMulticall3.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Identity.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/IERC721Receiver.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Example.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/EventNotary.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ERC721URIStorage.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/EventNotary.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ERC20.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ERC721.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Example.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ERC165.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/EnumerableSet.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/EnumerableMap.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/draft-IERC6093.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/console.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Context.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ComputeOracle.t.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/ComputeOracle.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/07_DeployIdentity.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/06_DeployProjectVault.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/05_DeployNodeBilling.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/Base.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/05_DeployRevenueSplit.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/04_DeployAI_Network.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/03_DeployGov.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/02_DeployStakeManager.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/03_DeployTariffRouter.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/01_DeployCore.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/00_DeployAll.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/00_DeployLMS.s.sol
+10/21/2025 01:34:07 Edited file z.Domains2/LMSCoin copy/out/04_DeployEventNotary.s.sol
+10/21/2025 01:34:07 Edited file tools/ollama-research/out
+10/21/2025 01:34:07 Edited file tools/image-zipper/out
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000006_leumas_V_XUEeakBKE_unsplash
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/originals
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000004_leumas_1cs303oOOqY_unsplash
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000003_leumas_WW359HyHwok_unsplash
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000005_leumas_GocWK92SQzE_unsplash
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000002_leumas_N9TWvqUoFVw_unsplash
+10/21/2025 01:34:07 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000001_leumas_j3fFlUUBvH8_unsplash
+10/21/2025 01:34:08 Edited file NPM/leumas-middleware/lib/a.dependency/out
+10/21/2025 01:34:08 Edited file NPM/leumas-middleware/lib/a.dependency/test/helpers/atlas/out
+10/21/2025 01:34:08 Edited file NPM/leumas-middleware/lib/a.dependency/test/helpers/atlas/out/embeddings
+10/21/2025 01:34:08 Edited file atlas/out
+10/21/2025 01:34:08 Edited file atlas/out/graph
+10/21/2025 01:34:08 Edited file atlas/out/adapters
+10/21/2025 01:34:08 Edited file atlas/out/embeddings
+10/21/2025 01:34:27 Edited file z.Domains2/templates/HTML/pokemon-programmable-wakeword/pokemon-programmable-wakewords.html
+10/21/2025 01:35:08 Edited file z.Domains2/templates/Leumas/leumas-react-app
