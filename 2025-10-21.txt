@@ -44213,3 +44213,6 @@
 10/20/2025 23:01:52 Edited file NPM/leumas-middleware/lib/a.coms/todo
 10/20/2025 23:01:52 Edited file tools/leumas-cast/leumas-cast2/adapters/mouse
 10/20/2025 23:01:52 Edited file NPM/leumas-middleware/lib/a.coms/adapters/coap
+10/20/2025 23:10:05 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/20/2025 23:14:50 Edited file Listeners/Opener
+10/20/2025 23:14:50 Edited file tools/gemini
