@@ -163135,3 +163135,6 @@
 10/22/2025 12:50:40 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/Camera/models/midas/ros/midas_cpp
 10/22/2025 12:51:16 Edited file tools/leumas-lab2/adapters/youtube
 10/22/2025 12:58:02 Edited file Servers/x.water-grass/git-worker.js
+10/22/2025 13:10:35 Edited file z.Domains2/templates
+10/22/2025 13:10:35 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/22/2025 13:10:35 Edited file z.Domains2/templates/Leumas
