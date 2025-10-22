@@ -75052,3 +75052,421 @@
 10/22/2025 03:17:43 Edited file atlas/out/embeddings
 10/22/2025 03:17:43 Edited file atlas/out/graph
 10/22/2025 03:17:43 Edited file GIT_REPOS/stable-diffusion-webui/tmp
+10/22/2025 03:17:59 Edited file NPM/leumas-middleware/lib/a.dependency/out
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T21-51-34-766Z-5d787i/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T21-51-34-766Z-5d787i
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T21-59-10-283Z-h8oq20/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T21-51-34-766Z-5d787i/work
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-04-37-926Z-fce59o/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-07-14-567Z-mexz04/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T21-59-10-283Z-h8oq20
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-04-37-926Z-fce59o
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-11-14-179Z-09je2m/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T21-59-10-283Z-h8oq20/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-15-41-226Z-lwgy3l/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-24-07-589Z-dy6413/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-04-37-926Z-fce59o/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-28-01-540Z-gphk4f/downloads
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-07-14-567Z-mexz04/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-07-14-567Z-mexz04
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-11-14-179Z-09je2m
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-15-41-226Z-lwgy3l
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-24-07-589Z-dy6413
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-28-01-540Z-gphk4f
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-11-14-179Z-09je2m/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-15-41-226Z-lwgy3l/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-24-07-589Z-dy6413/final
+10/22/2025 03:18:27 Edited file tools/image-aggregator/tmp/exports/2025-10-10T22-28-01-540Z-gphk4f/final
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/originals
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000001_leumas_j3fFlUUBvH8_unsplash
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms
+10/22/2025 03:18:27 Edited file tools/image-zipper/out
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000002_leumas_N9TWvqUoFVw_unsplash
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000003_leumas_WW359HyHwok_unsplash
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000004_leumas_1cs303oOOqY_unsplash
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000005_leumas_GocWK92SQzE_unsplash
+10/22/2025 03:18:27 Edited file tools/image-zipper/out/images_with_transforms/transforms/invert/000006_leumas_V_XUEeakBKE_unsplash
+10/22/2025 03:18:32 Edited file tools/ollama-research/out
+10/22/2025 03:18:38 Edited file tools/VSCodeWindow/webview-browser/out
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/00_DeployAll.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/00_DeployLMS.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/01_DeployCore.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/02_DeployStakeManager.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/03_DeployGov.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/03_DeployTariffRouter.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/04_DeployAI_Network.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/04_DeployEventNotary.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/05_DeployNodeBilling.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/05_DeployRevenueSplit.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/06_DeployProjectVault.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/07_DeployIdentity.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/10_UpgradeModule.s.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Address.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Base.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/BaseUUPS.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ComputeOracle.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ComputeOracle.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/console.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Context.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/draft-IERC1822.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/draft-IERC6093.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/EnumerableMap.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/EnumerableSet.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ERC165.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ERC1967Utils.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ERC20.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ERC721.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ERC721URIStorage.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/EventNotary.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/EventNotary.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Example.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Example.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IBeacon.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Identity.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Identity_Reputation.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IdLib.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC165.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC20.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC20Metadata.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC20Permit.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC4906.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC721.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC721Metadata.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IERC721Receiver.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/IMulticall3.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/LMS.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/LMS.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Math.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/NodeBilling.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/NodeBilling.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Ownable.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Pausable.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ProjectVault.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/ProjectVault.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Registry.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Registry.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/RevenueSplit.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/RevenueSplit.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/safeconsole.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/SafeERC20.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Script.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/SignedMath.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StakeManager.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StakeManager.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdAssertions.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdChains.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdCheats.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdConstants.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdError.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdInvariant.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdJson.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdMath.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdStorage.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdStyle.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdToml.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StdUtils.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/StorageSlot.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Strings.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/TariffRouter.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/TariffRouter.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Test.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/TreasuryDAO.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/TreasuryDAO.t.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/UUPSUpgradeable.sol
+10/22/2025 03:18:38 Edited file z.Domains2/LMSCoin/out/Vm.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/00_DeployAll.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/00_DeployLMS.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/01_DeployCore.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/02_DeployStakeManager.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/03_DeployGov.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/03_DeployTariffRouter.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/04_DeployAI_Network.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/04_DeployEventNotary.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/05_DeployNodeBilling.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/05_DeployRevenueSplit.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/06_DeployProjectVault.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/07_DeployIdentity.s.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Base.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ComputeOracle.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ComputeOracle.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/console.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Context.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/draft-IERC6093.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/EnumerableMap.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/EnumerableSet.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ERC165.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ERC20.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ERC721.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ERC721URIStorage.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/EventNotary.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/EventNotary.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Example.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Example.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Identity.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Identity_Reputation.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IdLib.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC165.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC20.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC20Metadata.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC4906.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC721.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC721Metadata.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IERC721Receiver.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/IMulticall3.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/LMS.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/LMS.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Math.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/NodeBilling.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/NodeBilling.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Ownable.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Pausable.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ProjectVault.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/ProjectVault.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Registry.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Registry.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/RevenueSplit.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/RevenueSplit.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/safeconsole.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Script.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/SignedMath.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StakeManager.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StakeManager.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdAssertions.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdChains.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdCheats.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdConstants.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdError.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdInvariant.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdJson.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdMath.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdStorage.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdStyle.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdToml.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/StdUtils.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Strings.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/TariffRouter.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/TariffRouter.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Test.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/TreasuryDAO.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/TreasuryDAO.t.sol
+10/22/2025 03:18:43 Edited file z.Domains2/LMSCoin copy/out/Vm.sol
+10/22/2025 03:19:15 Edited file Servers/x.8D/8d-audio-converter.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/A7800-5.2-win64/a7800.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/accelerate-config.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/accelerate-launch.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/accelerate.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/Altirra-4.31-win64/Altirra.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/Altirra-4.31-win64/Altirra64.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/azahar-2122.1-win64.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/azaharplus-2122-A-win64/azaharplus-2122-A-windows/azahar-room.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/azaharplus-2122-A-win64/azaharplus-2122-A-windows/azahar.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/backend-test-tools.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/BigPEmu-1.19/BigPEmu.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/bsnes_v115-windows/bsnes_v115-windows/bsnes.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/check-model.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/check-node.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/cli-32.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/cli-32.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/cli-32.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/cli-64.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/cli-64.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/cli-64.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/cli-arm64.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/cli-arm64.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/cli-arm64.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/cli.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/cli.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/cli.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/convert-caffe2-to-onnx.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/convert-caffe2-to-onnx.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/convert-onnx-to-caffe2.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/convert-onnx-to-caffe2.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/cygdb.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/cygdb.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/cython.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/cython.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/cythonize.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/cythonize.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/dateparser-download.exe
+10/22/2025 03:19:15 Edited file Scripts/Executors/demo.exe
+10/22/2025 03:19:15 Edited file Servers/z.Programming/Scripts/Executors/demo.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/Dolphin-2506a-win64/Dolphin-x64/Dolphin.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/Dolphin-2506a-win64/Dolphin-x64/DolphinTool.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/Dolphin-2506a-win64/Dolphin-x64/DSPTool.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/DuckStation-0.1-8971-win64/DuckStation/duckstation-qt-x64-ReleaseLTCG.exe
+10/22/2025 03:19:15 Edited file tools/Packer/release/win-unpacked/resources/elevate.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/encodec.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/f2py.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/f2py.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/f2py.exe
+10/22/2025 03:19:15 Edited file sherlock/venv/Scripts/f2py.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/fceux-2.6.6-win64/fceux64.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/flask.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/flask.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/fonttools.exe
+10/22/2025 03:19:15 Edited file Scripts/Voice/.venv/Scripts/fonttools.exe
+10/22/2025 03:19:15 Edited file tools/ObjectHandDetector/mp-env/Scripts/fonttools.exe
+10/22/2025 03:19:15 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/ftfy.exe
+10/22/2025 03:19:15 Edited file Scripts/config/generate-dynamic-page.exe
+10/22/2025 03:19:15 Edited file CONSOLES/Downloads/gopher64-1.1.3-win64.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/gradio.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/gruut-ipa.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/gruut.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/gui-32.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/gui-32.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/gui-32.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/gui-64.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/gui-64.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/gui-arm64.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/gui-64.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/gui-arm64.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/gui-arm64.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Lib/site-packages/setuptools/gui.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/setuptools/gui.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/hf.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/setuptools/gui.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/httpx.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/humanfriendly.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/huggingface-cli.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/huggingface-cli.exe
+10/22/2025 03:19:16 Edited file Arduino/libraries/UTFT/Tools/ImageConverter565.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/imageio_download_bin.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/imageio_download_bin.exe
+10/22/2025 03:19:16 Edited file Arduino/libraries/UTFT/Tools/ImgConv.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/imageio_remove_bin.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/imageio_remove_bin.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/insightface-cli.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/isympy.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/isympy.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/isympy.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/jsonschema.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/KegaFusion_3.64.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/Kronos-2.6.1-win64/Kronos/kronos.exe
+10/22/2025 03:19:16 Edited file Servers/z.Programming/leumas-api.exe
+10/22/2025 03:19:16 Edited file Servers/x.script-playground/leumas-script-playground.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/lsm2bin.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/lsm2bin.exe
+10/22/2025 03:19:16 Edited file Servers/x.whisper/main.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/markdown-it.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/markdown_py.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/melonDS-1.0-win64/melonDS.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/mGBA-0.10.5-win64.exe
+10/22/2025 03:19:16 Edited file tools/Python/Runners/Assembly/nasm-2.16.02-installer-x64.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/nestopia-1.53.2-win32/nestopia.exe
+10/22/2025 03:19:16 Edited file tools/leumas-dns/nginx-1.28.0/nginx.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/nltk.exe
+10/22/2025 03:19:16 Edited file sherlock/venv/Scripts/normalizer.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/normalizer.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/normalizer.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/normalizer.exe
+10/22/2025 03:19:16 Edited file sherlock/venv/Scripts/numpy-config.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/numpy-config.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/torch/bin/nvfuser_tests.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/onnxruntime_test.exe
+10/22/2025 03:19:16 Edited file tools/Packer/packer.exe
+10/22/2025 03:19:16 Edited file tools/Packer/release/PackerApp Setup 1.0.0.exe
+10/22/2025 03:19:16 Edited file tools/Packer/release/win-unpacked/PackerApp.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/pcsx2-2.4.0-win64.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/pip.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/pip.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/.venv/Scripts/pip.exe
+10/22/2025 03:19:16 Edited file tools/camera-detection-system/venv/Scripts/pip.exe
+10/22/2025 03:19:16 Edited file sherlock/venv/Scripts/pip.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pip.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/pip3.10.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/pip3.10.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pip3.10.exe
+10/22/2025 03:19:16 Edited file sherlock/venv/Scripts/pip3.13.exe
+10/22/2025 03:19:16 Edited file tools/camera-detection-system/venv/Scripts/pip3.13.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/.venv/Scripts/pip3.13.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pip3.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/pip3.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/.venv/Scripts/pip3.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/pip3.exe
+10/22/2025 03:19:16 Edited file tools/camera-detection-system/venv/Scripts/pip3.exe
+10/22/2025 03:19:16 Edited file sherlock/venv/Scripts/pip3.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/PPSSPP-1.19.3-win64.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Lib/site-packages/torch/bin/protoc.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Lib/site-packages/torch/bin/protoc.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/punes-0.111-win64-opengl/punes32.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pybabel.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pyftmerge.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/pyftmerge.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/pyftmerge.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pyftsubset.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/pyftsubset.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/pyftsubset.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pygmentize.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pypinyin.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/python.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/python.exe
+10/22/2025 03:19:16 Edited file tools/camera-detection-system/venv/Scripts/python.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/.venv/Scripts/python.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/python.exe
+10/22/2025 03:19:16 Edited file sherlock/venv/Scripts/pythonw.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/.venv/Scripts/pythonw.exe
+10/22/2025 03:19:16 Edited file Scripts/Voice/.venv/Scripts/pythonw.exe
+10/22/2025 03:19:16 Edited file tools/ObjectHandDetector/mp-env/Scripts/pythonw.exe
+10/22/2025 03:19:16 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/pythonw.exe
+10/22/2025 03:19:16 Edited file tools/camera-detection-system/venv/Scripts/pythonw.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/rpcs3-0.0.37-17986-win64/rpcs3.exe
+10/22/2025 03:19:16 Edited file CONSOLES/Downloads/sameboy-1.0.2-win/sameboy.exe
+10/22/2025 03:19:16 Edited file Servers/GroboticsV2/server/server.exe
+10/22/2025 03:19:16 Edited file tools/ServerMover/ServerMover.exe
+10/22/2025 03:19:16 Edited file d8916e808e908ab183/Setup.exe
+10/22/2025 03:19:16 Edited file d8916e808e908ab183/SetupUtility.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/snes9x-1.63-win64/snes9x-x64.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/spacy.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/Stella-7.0c-win64.exe
+10/22/2025 03:19:17 Edited file stripe/stripe.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/sudachipy.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/sz_split.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/sz_wc.exe
+10/22/2025 03:19:17 Edited file tools/Python/LeumasAI2.0/temp.exe
+10/22/2025 03:19:17 Edited file tools/Python/Runners/CPP/temp.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/tensorboard.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/tiff2fsspec.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/tiff2fsspec.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/tiffcomment.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/tiffcomment.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/tifffile.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/tifffile.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/tiny-agents.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/tiny-agents.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/torchfrtrace.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/torchrun.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/torchrun.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/tqdm.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/tqdm.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/tqdm.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/transformers-cli.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/transformers-cli.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/tts-server.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/tts.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/ttx.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/ttx.exe
+10/22/2025 03:19:17 Edited file tools/ObjectHandDetector/mp-env/Scripts/ttx.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/typer.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/unidecode.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/Dolphin-2506a-win64/Dolphin-x64/Updater.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/DuckStation-0.1-8971-win64/DuckStation/updater.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/upload_theme.exe
+10/22/2025 03:19:17 Edited file GIT_REPOS/stable-diffusion-webui/venv/Scripts/uvicorn.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/VisualBoyAdvance-M-2.1.11-win64/visualboyadvance-m.exe
+10/22/2025 03:19:17 Edited file tools/leumas-cast/leumas-cast2/vs_BuildTools.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/cdiemu-0.5.3-beta9/wcdiemu-v053b9.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/weasel.exe
+10/22/2025 03:19:17 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/What-Is-This/what-is-this.exe
+10/22/2025 03:19:17 Edited file Scripts/Voice/.venv/Scripts/wheel.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/cdiemu-0.5.3-beta9/winterm.exe
+10/22/2025 03:19:17 Edited file tools/x.file-explorer/x.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/xemu-0.8.10-win32/xemu.exe
+10/22/2025 03:19:17 Edited file CONSOLES/Downloads/Xenia-1.0.2817-win64/xenia.exe
+10/22/2025 03:25:13 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/22/2025 03:25:13 Edited file z.Domains2/templates/Leumas
