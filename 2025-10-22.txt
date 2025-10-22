@@ -25516,3 +25516,10 @@
 10/21/2025 21:03:38 Edited file tools/leumas-cast/leumas-cast2/adapters/keyboard
 10/21/2025 21:03:38 Edited file tools/leumas-cast/leumas-cast2/adapters/mouse
 10/21/2025 21:03:38 Edited file NPM/leumas-middleware/lib/a.coms/adapters/coap
+10/21/2025 21:45:46 Edited file z.Domains2/templates
+10/21/2025 21:45:46 Edited file z.Domains2
+10/21/2025 21:45:46 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/21/2025 21:45:46 Edited file z.Domains2/templates/Leumas
+10/21/2025 21:47:28 Edited file package.json
+10/21/2025 21:47:28 Edited file Servers
+10/21/2025 21:47:28 Edited file Servers/x.water-grass
