@@ -163046,3 +163046,12 @@
 10/22/2025 12:17:20 Edited file tools/leumas-lab2/adapters/log/metadata.json
 10/22/2025 12:17:20 Edited file tools/leumas-lab2/adapters/manual/metadata.json
 10/22/2025 12:17:20 Edited file tools/leumas-lab2/adapters/random/metadata.json
+10/22/2025 12:18:58 Edited file tools/leumas-lab2/frontend/src/components/canvas/WorkflowCanvas.jsx
+10/22/2025 12:19:22 Edited file tools/leumas-lab2/frontend/src/components/canvas/CanvasConnections.jsx
+10/22/2025 12:19:41 Edited file tools/leumas-lab2/frontend/src/components/canvas/WorkflowCanvas.jsx
+10/22/2025 12:19:56 Edited file tools/leumas-lab2/frontend/src/components/canvas/CanvasConnections.jsx
+10/22/2025 12:20:14 Edited file tools/leumas-lab2/frontend/src/components/canvas/CanvasConnections.jsx
+10/22/2025 12:21:35 Edited file tools/leumas-lab2/frontend/src/components/canvas/CanvasConnections.jsx
+10/22/2025 12:21:54 Edited file tools/leumas-lab2/frontend/src/components/canvas/WorkflowCanvas.jsx
+10/22/2025 12:22:15 Edited file tools/leumas-lab2/frontend/src/components/canvas/CanvasConnections.jsx
+10/22/2025 12:22:28 Edited file tools/leumas-lab2/frontend/src/components/canvas/CanvasConnections.jsx
