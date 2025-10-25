@@ -63508,3 +63508,980 @@
 10/25/2025 24:46:00 Edited file Servers/z.Programming/Grids/1732174239839/meta.json
 10/25/2025 24:49:30 Edited file Servers
 10/25/2025 24:49:49 Edited file NPM/leumas-middleware/lib/a.dependency/index.js
+10/25/2025 24:51:14 Edited file assets/aduio-router.js
+10/25/2025 24:51:14 Edited file assets/lms-processors.json
+10/25/2025 24:51:14 Edited file assets/router.js
+10/25/2025 24:51:14 Edited file assets/settings.json
+10/25/2025 24:51:14 Edited file assets/JSON/boilerplate-docs.json
+10/25/2025 24:51:14 Edited file assets/JSON/channels.json
+10/25/2025 24:51:14 Edited file assets/JSON/combined-documentation.json
+10/25/2025 24:51:14 Edited file assets/JSON/convert-all-to-training-data.js
+10/25/2025 24:51:14 Edited file assets/JSON/convert-to-training-data.js
+10/25/2025 24:51:14 Edited file assets/JSON/generate-with-ollama-parallel.js
+10/25/2025 24:51:14 Edited file assets/JSON/generate-with-ollama.js
+10/25/2025 24:51:14 Edited file assets/JSON/jsonRouter.js
+10/25/2025 24:51:14 Edited file assets/JSON/keyboard_macros.json
+10/25/2025 24:51:14 Edited file assets/JSON/package-lock.json
+10/25/2025 24:51:14 Edited file assets/JSON/PROJECT-INDEX.json
+10/25/2025 24:51:14 Edited file assets/JSON/ReactApps.json
+10/25/2025 24:51:14 Edited file assets/JSON/schemas.json
+10/25/2025 24:51:14 Edited file assets/JSON/secret_passwords.json
+10/25/2025 24:51:14 Edited file assets/projects/notes.txt
+10/25/2025 24:51:14 Edited file assets/ShopifyThemes/desktop.ini
+10/25/2025 24:51:14 Edited file assets/TXT/perfect-numbers.txt
+10/25/2025 24:51:15 Edited file assets/Videos/AI Eye.html
+10/25/2025 24:51:15 Edited file Marion/assets/theme.txt
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-16-01/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-53-35/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-54-08/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-55-09/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-54-23/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-56-05/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-07-01_20-55-47/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-37-51/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-42-26/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-41-26/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-45-17/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-50-39/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-56-14/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-56-42/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-56-29/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-57-20/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-58-22/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_07-57-21/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-00-05/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-00-26/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-00-06/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-07-10/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-07-29/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-07-11/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-07-30/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-07-49/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-07-50/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-15/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-16/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-17/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-18/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-19/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-20/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-21/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-10-22/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-28-47/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_08-37-47/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-27-22/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-27-24/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-37-31/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-36-24/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-58-20/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-51-54/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-58-43/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-58-19/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_16-58-44/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_17-17-37/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_17-18-03/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_17-17-38/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_17-18-04/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_17-43-36/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_17-43-37/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-01/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-25/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-02/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-26/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-27/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-56/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-13-57/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-14-29/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-14-28/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-15-58/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-17-30/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-15-59/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-18-20/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-18-19/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-18-51/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-18-52/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-25-25/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-25-26/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-31-48/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-26-39/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-31-47/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-33-30/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-33-31/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-34-58/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-34-59/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-34-57/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-37-51/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-37-52/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-40-48/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-26-07/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-07_18-40-49/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-26-11/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-27-53/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-27-54/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-50-26/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-50-27/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-50-28/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-52-13/embeddings.json
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-52-14/embeddings.json
+10/25/2025 24:51:15 Edited file assets/JSON/activity-books/conversation.json
+10/25/2025 24:51:15 Edited file assets/JSON/activity-books/example.json
+10/25/2025 24:51:15 Edited file assets/JSON/activity-books/README.md
+10/25/2025 24:51:15 Edited file assets/Embeddings/2025-08-08_03-52-15/embeddings.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/activity-books.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/ai-generator.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/ai-generators.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/ai-workflow.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/arduino-circuits.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/auto-sorter.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/batch-automation-tasks.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/calculators-scientific.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/calculators.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/cheatsheets.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/circuit.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/code-snippets.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/color-palletes.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/command-scripts.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/cross-words.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/decision-trees.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/dynamic-servers.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/example.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/file-sorter-rulebook.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/file-trees.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/flashcards.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/iframes.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/local-outreach-funnels.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/opener-configs.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/puddles.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/quizes.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/README.md
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/regex-patterns.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/roadmaps.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/runner-bots.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/saas-generator.json
+10/25/2025 24:51:15 Edited file assets/JSON/ai-generators/services.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-generators/stores.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-generators/string-transformation-recipes.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-generators/telepathy.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-generators/unit-converter.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-generators/workouts.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-workflow/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/ai-workflow/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/arduino-circuits/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/arduino-circuits/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/auto-sorter/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/auto-sorter/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/calculators/conversation.json
+10/25/2025 24:51:16 Edited file assets/JSON/calculators/conversation_shard_0.json
+10/25/2025 24:51:16 Edited file assets/JSON/calculators/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/calculators/ohms-law.json
+10/25/2025 24:51:16 Edited file assets/JSON/batch-automation-tasks/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/batch-automation-tasks/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/calculators-scientific/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/calculators-scientific/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/cheatsheets/conversation_shard_0.json
+10/25/2025 24:51:16 Edited file assets/JSON/cheatsheets/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/cheatsheets/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/cli-tools/demo-run.json
+10/25/2025 24:51:16 Edited file assets/JSON/cli-tools/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/cli-tools/imperium-cli.json
+10/25/2025 24:51:16 Edited file assets/JSON/cli-tools/universal-cli.js
+10/25/2025 24:51:16 Edited file assets/JSON/color-palletes/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/color-palletes/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/code-snippets/conversation_shard_0.json
+10/25/2025 24:51:16 Edited file assets/JSON/code-snippets/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/code-snippets/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/command-scripts/command-scripts.json
+10/25/2025 24:51:16 Edited file assets/JSON/command-scripts/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/command-scripts/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/command-scripts/router.js
+10/25/2025 24:51:16 Edited file assets/JSON/cross-words/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/cross-words/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/decision-trees/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/decision-trees/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/dependencies/reading-heatmaps.md
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-18T02-59-10-843Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-18T02-59-31-311Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-18T03-03-54-524Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-18T03-05-18-195Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-18T03-05-57-111Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-26T05-00-14-787Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dependency-graphs-imperium/dependency-graph-2025-06-26T20-25-14-371Z.json
+10/25/2025 24:51:16 Edited file assets/JSON/dynamic-servers/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/dynamic-servers/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/file-sorter-rulebook/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/file-sorter-rulebook/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/file-trees/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/file-trees/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/flashcards/example.json
+10/25/2025 24:51:16 Edited file assets/JSON/flashcards/README.md
+10/25/2025 24:51:16 Edited file assets/JSON/folder-stats-imperium/z.Domains2-stack-stats-2025-06-18T03-35-12.json
+10/25/2025 24:51:16 Edited file assets/JSON/folder-stats-imperium/z.Domains2-stack-stats-2025-06-18T03-35-49.json
+10/25/2025 24:51:16 Edited file assets/JSON/folder-stats-imperium/z.Domains2-stats-2025-06-18T03-28-55.json
+10/25/2025 24:51:16 Edited file assets/JSON/folder-stats-imperium/z.Domains2-stats-2025-06-18T03-31-43.json
+10/25/2025 24:51:16 Edited file assets/JSON/folder-stats-imperium/z.Domains2-stats-2025-06-18T03-35-12.json
+10/25/2025 24:51:16 Edited file assets/JSON/folder-stats-imperium/z.Domains2-stats-2025-06-18T03-35-49.json
+10/25/2025 24:51:17 Edited file assets/JSON/iframes/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/iframes/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/html-css-js/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/html-css-js/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/imperium-cli/imperium-cli-main.json
+10/25/2025 24:51:17 Edited file assets/JSON/imperium-domains/subdomains.json
+10/25/2025 24:51:17 Edited file assets/JSON/Leumapier/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/Leumapier/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/local-outreach-funnels/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/local-outreach-funnels/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/mealplans/conversation_shard_0.json
+10/25/2025 24:51:17 Edited file assets/JSON/mealplans/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/number-lines/number-lines-2025-06-18T02-46-17-848Z.json
+10/25/2025 24:51:17 Edited file assets/JSON/number-lines/number-lines-2025-06-26T20-33-32-876Z.json
+10/25/2025 24:51:17 Edited file assets/JSON/number-lines/number-lines.json
+10/25/2025 24:51:17 Edited file assets/JSON/opener-configs/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/opener-configs/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/operators/main-operator.json
+10/25/2025 24:51:17 Edited file assets/JSON/operators/new.json
+10/25/2025 24:51:17 Edited file assets/JSON/operators/routes.js
+10/25/2025 24:51:17 Edited file assets/JSON/operators/test-operator-script.js
+10/25/2025 24:51:17 Edited file assets/JSON/puddles/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/puddles/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/regex-patterns/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/regex-patterns/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/19aae98b-ffb0-4cf1-b1cf-4300dbc1179c.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/25b9fee4-6f52-49d3-aabb-002e872b8d9f.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/3fa7578e-ca7b-44c9-b955-0e4dd8793679.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/4c1ba7d3-dce1-457f-bea8-ae6a78d40acf.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/53c596e1-2592-4631-8207-48cc35e627ad.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/81cd76c9-28bb-4b73-afbe-d5e006c8771f.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/8306d1a6-3efe-4b90-bee8-7717daadc52e.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/8eba043c-432a-4af8-a2e8-4730b7d9c119.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/8f6b3ab1-f0b9-456e-b33f-dc9fa21909e4.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/cd180001-0af6-4a3d-a482-5c7740344d97.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/demo_quiz_1.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/demo_quiz_2.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/dogs_quiz.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/IQ-complete.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/IQ-logical-reasoning.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/IQ-pattern-recognition.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/IQ-problem-solving.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/math_quiz.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/pokemon-quiz.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/quiz_solar_system.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/science_quiz.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/test_create_quiz.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/test_create_quiz_dick.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/test_edit_quiz.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/test_quiz_1.json
+10/25/2025 24:51:17 Edited file assets/JSON/quizes/test_quiz_2.json
+10/25/2025 24:51:17 Edited file assets/JSON/roadmaps/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/roadmaps/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/runner-bots/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/runner-bots/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/saas-generator/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/saas-generator/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/services/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/services/leumas-services.json
+10/25/2025 24:51:17 Edited file assets/JSON/services/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/stores/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/stores/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/string-transformation-recipes/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/string-transformation-recipes/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/telepathy/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/telepathy/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/unit-converter/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/unit-converter/README.md
+10/25/2025 24:51:17 Edited file assets/JSON/workouts/example.json
+10/25/2025 24:51:17 Edited file assets/JSON/workouts/README.md
+10/25/2025 24:51:17 Edited file assets/Images/mascot/fill3d.js
+10/25/2025 24:51:17 Edited file assets/Images/mascot/generate3d.js
+10/25/2025 24:51:17 Edited file assets/Images/mascot/inflate3d.js
+10/25/2025 24:51:18 Edited file assets/Images/mascot/solidify3d.js
+10/25/2025 24:51:18 Edited file package.json
+10/25/2025 24:51:18 Edited file assets/Images/mascot/solidify3d2.js
+10/25/2025 24:51:18 Edited file assets/Images/mascot/solidify_smooth.js
+10/25/2025 24:51:18 Edited file Servers/x.water-grass
+10/25/2025 24:51:18 Edited file assets/Text/ImageText/result.txt
+10/25/2025 24:51:18 Edited file assets/TXT/GeminiFlows/Invention.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/10ArduinoProjects.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/150 Python GUIs.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/20000Subdomains.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/5000Subdomains.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/APIAutomationIdeas.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Arduino Circuits.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Arduino Lists 3000.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Arduino Lists.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoCircuitIdeas.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoCircuits.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoComponents.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoList2.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoLists Basic.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoProjects.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ArduinoSmartHomeDevices.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/BatchFiles.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Boilerplates.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Bulk-Calculator-List.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/C++ Calculator List.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Colors.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/DogeInVariousPlaces.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ESP32Projects.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/FileTypes.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/GPTPrompts.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/HistoricalDates.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ImageGenerationIdeas.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/JavaScriptControlStructures.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/JavaScriptDataStructures.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/JavaScriptFunctionsAndMethods.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/JavaScriptGlobalObjects.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/JavaScriptOperators.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/JavaScriptPrimitiveDataTypes.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/KeyboardLibraryFunctions.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/KeyboardLibraryKeystrokes.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/LearnArduinoStarter.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ListsToBuild.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/MongooseSchemaTypes.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/nodeJS.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/PlaneModels.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Pokemon.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ProgrammingLanguages.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/PYTHONGUIS1.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/PythonScripts.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ReactComponentsWithPrompts.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ReactHooks.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/ReactJSXFrontend.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Reuasable HTML Components.txt
+10/25/2025 24:51:18 Edited file assets/TXT/Lists/Reusable Arduino Circuit List.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/Reusable Arduino Code List.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/Reusable React Components.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/Reusable Smart Contracts.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableArduinoCodeSnippets.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableButtons.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableC++Scripts.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableJavaScriptFunctions.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableJSXCards.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableJSXComponents.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/ReusableSchemas.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/Science Topics List.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/SmartContracts.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/T Shirt Idea List.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/Test.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/TestImageModeBulkForge.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/TopicPrompts.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/Topics.txt
+10/25/2025 24:51:19 Edited file assets/TXT/Lists/WordPressSnippets.txt
+10/25/2025 24:51:19 Edited file assets/Images/svg/1 house.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/1.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/10.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/100.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/101.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/102.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/103.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/104.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/105.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/106.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/107.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/108.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/109.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/11.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/110.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/111.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/112.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/113.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/114.svg
+10/25/2025 24:51:19 Edited file assets/Images/svg/115.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/116.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/117.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/118.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/119.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/12.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/120.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/121.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/122.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/123.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/124.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/125.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/126.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/127.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/128.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/129.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/13.svg
+10/25/2025 24:51:20 Edited file assets/Images/svg/130.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/131.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/132.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/133.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/134.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/135.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/136.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/137.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/138.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/139.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/14.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/140.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/141.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/142.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/143.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/144.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/145.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/146.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/147.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/148.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/15.svg
+10/25/2025 24:51:21 Edited file assets/Images/svg/16.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/17.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/18.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/19.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/2.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/20.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/21.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/21_kybrdq.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/22.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/22_p9h9wb (1).svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/22_p9h9wb.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/23.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/23_ra9sbd.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/24.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/24_mtpse9.svg
+10/25/2025 24:51:22 Edited file assets/Images/svg/25.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/25_tsaw9i.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/26.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/26_synsmx.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/27.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/27_hihscn.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/28.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/28_zrghzh.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/29.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/29_sajte2.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/2house.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/3.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/30.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/30_qjnijt.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/31.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/31_fg8ypl.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/32.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/32_mdamub.svg
+10/25/2025 24:51:23 Edited file assets/Images/svg/33.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/33_dk1rcs.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/34.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/34_e71uad.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/35.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/35_q1fejm.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/36.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/36_aoptpx.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/37.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/37_mqtvlc.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/38.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/38_xucsus.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/39.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/39_ctnsiw.svg
+10/25/2025 24:51:24 Edited file assets/Images/svg/3d AI Graphic.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-amber-lookup.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-amber.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-axis.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-edges.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-rgb.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-standard-2x2.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-standard-lookup.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/3dlut-standard.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/4.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/40.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/40_cgztes.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/41.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/41_v27gdb.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/42.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/42_ripwm0.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/43.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/43_rfwln8.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/44.svg
+10/25/2025 24:51:25 Edited file assets/Images/svg/44_lepmrq.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/45.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/45_hqcjxv.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/46.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/46_ozpio9.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/47.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/47_eiun52.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/48.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/48_thbzmv.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/49.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/49_ptixkh.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/5.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/50.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/50_hvemzo.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/51.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/51_jo4vlw.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/52.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/52_xaahfg.svg
+10/25/2025 24:51:26 Edited file assets/Images/svg/53.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/53_x48cyn.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/54.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/54_t0za1a.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/55.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/55_mwxu4k.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/56.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/56_prbcx0.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/57.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/57_ruxxlq.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/58.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/58_igzijp.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/59.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/59_aknavm.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/5_hodg9i.svg
+10/25/2025 24:51:27 Edited file assets/Images/svg/6.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/60.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/60_di7pfp.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/61.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/61_unzux0.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/62.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/62_flukfq.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/63.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/63_no21z1.svg
+10/25/2025 24:51:28 Edited file assets/Images/svg/64.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/64_xaqegv.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/65.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/65_sbkr2z.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/66.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/66_kxwi9f.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/67.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/67_ywp5l6.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/68.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/68_je841m.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/69.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/69_vwmyu2.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/7.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/70.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/70_rufkc0.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/71.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/71_eq7v70.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/72.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/72_r6w9pg.svg
+10/25/2025 24:51:29 Edited file assets/Images/svg/73.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/73_a4j0cu.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/74.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/74_hdfjq0.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/75.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/75_gi1nn0.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/76.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/77.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/78.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/79.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/8.svg
+10/25/2025 24:51:30 Edited file assets/Images/svg/80.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/81.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/82.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/83.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/84.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/85.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/86.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/87.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/88.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/89.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/9.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/90.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/91.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/92.svg
+10/25/2025 24:51:31 Edited file assets/Images/svg/93.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/94.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/95.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/96.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/97.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/98.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/99.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/a single drop of milk.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Advanced.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/AI.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Amazon_Alexa_logo.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/api.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Apple.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/appSvg1.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/appSvg2.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/arcade.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Archer.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Arduino Logo.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/array.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Avatar3D1.svg
+10/25/2025 24:51:32 Edited file assets/Images/svg/Avatar3D10.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D11.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D12.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D13.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D14.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D15.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D2.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D3.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D4.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D5.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D6.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D7.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D8.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Avatar3D9.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Balls2Walls (1).svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Balls2Walls.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/basket.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Batch Files (1).svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Batch Files.svg
+10/25/2025 24:51:33 Edited file assets/Images/svg/Bear.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/binary code.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Bitcoin Logo.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Black Icon square 500.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Black Logo square 500.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/blackbox.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/bluepacman.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/bluetooth-3.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/boolean.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/bot.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/bot1.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/bracket.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Brain.js_Logo.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/brands.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/buttonsGaming.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/byte.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/C++ Logo.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/camera-fit-scene.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/camera-inside-windmill.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/canva-1.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/card 3.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/card1.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/card2.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/char.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/ChatBOT Graphic.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/CHATBOT.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/chatgpt-icon.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/chevron.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/class.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/close.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Cobra.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Code.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/command-1.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/computed-camera-position.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/console-collapse.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/console-expand.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/console.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/continue.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/copy-to-clipboard.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Crow.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/css-3.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/cube-faces-vertex.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/cube-triangles.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/cube-vertex-positions.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/cube-vertex-winding-order.svg
+10/25/2025 24:51:34 Edited file assets/Images/svg/Cursed Tees 270 x 80.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Custom PC (1).svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Custom PC.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Custom Sensor (1).svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Custom Sensor.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Custom Web Tool (1).svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Custom Web Tool.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Cyber Security.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Debit card-hYs7e1dq.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Debit card.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Debit Cards.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/debug.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/defs4.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/defs5.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Developer.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/double.svg
+10/25/2025 24:51:35 Edited file assets/Images/svg/Drones (1).svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/Drones.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/dumbell.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/Eagle.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/earnPassiveRevenue.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/editor-fullscreen-icon.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/editor-unfullscreen-icon.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/electronjs-icon.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/ellipse.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/energy.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/error.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/estatex.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/fa-brands-400.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/fa-regular-400.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/fa-solid-900.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/facebook-2020-2-1.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/facebook-4.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/facebook.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/favicon.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/field-of-view-camera.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/field.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/Files.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/flame.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/float.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/FolderWithImages.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/fontawesome-webfont.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/foundation.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/frame.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/fritzing.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/frustum-3d.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/gallery.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/gameboy.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/git-bash.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/github-icon (1).svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/github-icon.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/global card.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/Goat.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/Google Ai Gemini.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/google-1-1 (1).svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/google-1-1.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/google-my-business-logo.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/google-sheets-logo-icon.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/Google.svg
+10/25/2025 24:51:36 Edited file assets/Images/svg/GUI.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/HandID.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/Hazmat.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/heartHealth.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/heightmap-points.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/heightmap-triangles.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/hexagon.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/home.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/houghlines1.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/HTML 5 Logo.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/https___cookbook.leumas.tech.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/https___leumas.tech_wp-admin_post.php_post=1976&action=edit.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/icon.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ic_arrow_drop_down_black_24dp.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ic_close_black_24dp.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ic_code_black_24dp.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ic_menu_black_24dp.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ic_mode_edit_black_24dp.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ic_search_black_24dp.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/ID.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/image2vector (1).svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/image2vector.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/instagram-2016-5.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/integer.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/IR Sensors (1).svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/IR Sensors.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/joker.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/kali-1.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/Kraken.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/Kursed Tees Background Square.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/Kursed Tees Logo.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/Kursed Tees Text.svg
+10/25/2025 24:51:37 Edited file assets/Images/svg/Kursed_Tees_Logo_bpr3f4.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/la-brands-400.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/la-regular-400.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/la-solid-900.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/leumas Favicons.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/Leumas Logo.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/library.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/line-awesome.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/lineJoinsAndCaps.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/linkedin-icon-2.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/List Graphic.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/list-downloading.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/list-incompatible.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/list-up-to-date.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/list-update-available.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/local.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/logo (1).svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/logo-javascript.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/logo-light.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/logo.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/logoOnly.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/long.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/loyalty_black_24dp.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/loyalty_white_24dp.svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/macro keyboard (1).svg
+10/25/2025 24:51:38 Edited file assets/Images/svg/macro keyboard (2).svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/macro keyboard (3).svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/macro keyboard.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/maliciousHacker.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/mastercard.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Mavis 900 x 300.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Mavis Icon (1).svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Mavis ICON Square.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Mavis Icon.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/MAVIS Square.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/meshroom-tagline-vertical.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/meshroom.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Metamask.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Metamask2.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/Metamask3.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/method.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/mini.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/minihouse.svg
+10/25/2025 24:51:39 Edited file assets/Images/svg/MongoDB Logo.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/MQTT (1).svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/MQTT.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/multiple-css-classes.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/Neurosity (1).svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/Neurosity.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/newBasket.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/node.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/NODEJS Logo.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/notitle.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/NRF (1).svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/NRF.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/object.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/openai-2.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/Openai.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/ordering.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/panel-install.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/panel-remove.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/panel-update.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/Phantom.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/pixel art cat.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/pixel art controller 2.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/pixel art.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/pixelart heart.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/pixelQuestionMark.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/placecImageIcon.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/POD GPT Graphics (1).svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/POD GPT Graphics (2).svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/POD GPT Graphics.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/pokemon-23.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/polar_remap_doc.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/postman.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/Printify.svg
+10/25/2025 24:51:40 Edited file assets/Images/svg/Productivity.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/programmer.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/publishFusion.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/purified milk.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Python Logo.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Random.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/React Logo.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/regular.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/retroarcademachine.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/retrocontroller.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/right.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Robot hand.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Robot.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/rotate.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/roundJoinPrecisionIssue.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/rss-icon.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/run.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/runing.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Samurai.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scale.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scene-down.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-car.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-generic.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-human.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-solarsystem.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-sun-earth-fixed.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-sun-earth-moon.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-sun-earth.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/scenegraph-tank.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Seal of approval.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/search-reset.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/search.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/second seal of appropval.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/send.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Serial Port (1).svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Serial Port.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/settingGear.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/settings.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/Shark.svg
+10/25/2025 24:51:41 Edited file assets/Images/svg/shop.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/shopify-2.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/short.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/signup.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/slick.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/SmartHome.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/socket-io-1.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/solid.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/solidity.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/startBuilding.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/step.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/stop.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/storefront.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/storefront2.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/string.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/StripeLogo.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/style-css-inside-defs.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/styles.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/Svg-defs.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/Svg-defs2.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/svgUpload-1734754794923.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/Swords Clash.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/tabler-icons.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/tailwind-css-2.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/telegram.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/tensorflow-2.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/TextToImage.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/The holy utter.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/three lives.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-1cube-no-light-scene.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-1cube-with-directionallight.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-3cubes-scene.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-attributes.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-geometry.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-postprocessing.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs-structure.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/threejs.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/thumbnails.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/tiger.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/title.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/token.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/toll_black_24dp.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/toll_white_24dp.svg
+10/25/2025 24:51:42 Edited file assets/Images/svg/Translate IT.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/translate.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/triple cards.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Twitter.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/UI Graphic 2.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/UI Graphic.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/uk.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/units.svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px) (1).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px) (2).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px) (3).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px) (4).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px) (5).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px) (6).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled (300 x 300 px).svg
+10/25/2025 24:51:43 Edited file assets/Images/svg/Untitled design (1).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Untitled design (2).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Untitled design (3).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Untitled design (4).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Untitled design (5).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Untitled design.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/usa-wikipedia.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/user.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/VectorHIW.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/videoio_overview.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/vimeo.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/visual-studio-code-1.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Wave-defs.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Web 3.0 (1).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Web 3.0.svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Web Scraper (1).svg
+10/25/2025 24:51:44 Edited file assets/Images/svg/Web Scraper.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/Websites, Apps, Prototypes, IoT Services (1).svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/Websites, Apps, Prototypes, IoT Services.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/White Icon Square 500.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/White Logo Square 500.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/whitebox.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/WordPress Logo.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/Wordpress-Logo.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/XYZ.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/Youtube Logo.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/youtube-2.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/youtube-icon-5.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/youtube.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/zebra-collisions.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/zero-radius.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/Zombie.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/ZombieDead.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-10.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-11.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-12.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-13.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-14.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-15.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-16.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-17.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-18.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-19.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-2.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-20.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-21.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-22.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-23.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-24.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-25.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-3.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-4.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-5.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-6.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-7.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-8.svg
+10/25/2025 24:51:45 Edited file assets/Images/svg/_Group_-9.svg
+10/25/2025 24:51:45 Edited file assets/Videos/AI Eye_files/8ff80f0bc990e679.css
+10/25/2025 24:51:45 Edited file assets/Videos/AI Eye_files/f917dc89ec905c8a.css
+10/25/2025 24:51:45 Edited file assets/Videos/AI Eye_files/frame.html
+10/25/2025 24:51:45 Edited file assets/Videos/AI Eye_files/saved_resource.html
