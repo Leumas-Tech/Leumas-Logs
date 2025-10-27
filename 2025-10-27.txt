@@ -73,3 +73,13 @@
 10/27/2025 12:10:25 Created file z.Domains2/templates/Leumas/leumas-react-app/vitest.config.mjs.timestamp-1761585025725-7182987660874.mjs
 10/27/2025 12:10:25 Edited file z.Domains2/templates/Leumas/leumas-react-app
 10/27/2025 12:18:33 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/Printer/printer.html
+10/27/2025 12:20:02 Edited file z.Domains2/templates/Leumas/leumas-react-app/assets/manifest.json
+10/27/2025 12:20:02 Edited file z.Domains2/templates/Leumas/leumas-react-app/assets/88dbe417-7548-4564-8283-062a2b8e48bd.png
+10/27/2025 12:20:02 Edited file z.Domains2/templates/Leumas/leumas-react-app/assets/555bc497-0226-49a8-b41e-d8dd67f84ba0.svg
+10/27/2025 12:22:27 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/server/index.js
+10/27/2025 12:22:43 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/pages/Settings.jsx
+10/27/2025 12:23:01 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/pages/Settings.jsx
+10/27/2025 12:23:24 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/pages/Settings.jsx
+10/27/2025 12:23:47 Created file z.Domains2/templates/Leumas/leumas-react-app/vitest.config.mjs.timestamp-1761585827072-61ca7572c1c86.mjs
+10/27/2025 12:23:47 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/27/2025 12:28:33 Edited file package.json
