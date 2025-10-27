@@ -86,3 +86,9 @@
 10/27/2025 12:30:01 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/data/settings.json
 10/27/2025 12:34:14 Edited file Arduino/desktop.ini
 10/27/2025 12:58:34 Edited file Servers/x.water-grass/git-worker.js
+10/27/2025 13:05:33 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/data/settings.json
+10/27/2025 13:05:33 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal
+10/27/2025 13:05:33 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/data
+10/27/2025 13:05:33 Created file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/data/admin.db-journal
+10/27/2025 13:05:33 Edited file z.Domains2/templates/Leumas
+10/27/2025 13:05:33 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/data/admin.db
