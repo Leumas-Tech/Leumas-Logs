@@ -527,3 +527,5 @@
 10/28/2025 04:29:02 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/vite.config.js
 10/28/2025 04:29:02 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/package-lock.json
 10/28/2025 04:29:03 Edited file Servers/x.water-grass
+10/28/2025 04:31:41 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/server/lib/component-registry.js
+10/28/2025 04:32:06 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/server/lib/component-registry.js
