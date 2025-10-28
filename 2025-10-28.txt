@@ -33870,3 +33870,1021 @@
 10/28/2025 06:32:17 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/components/FunctionParameterEditor.jsx
 10/28/2025 06:32:17 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/lib/remoteActions.js
 10/28/2025 06:32:17 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/lib/api.js
+10/28/2025 06:42:27 Edited file atlas
+10/28/2025 06:42:27 Edited file atlas/adapters
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/scripts
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/src/pages
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/src/pages/dashboard
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/src
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/server/lib
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/data
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/src/components
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/src/lib
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/src/context
+10/28/2025 06:42:29 Edited file z.Domains2/templates/Leumas/leumas-react-app/admin-portal/src/context
+10/28/2025 06:42:35 Edited file leumas-api.leumas.tech/APIRouter.js
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/index.js
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/routes.cjs
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/cache.cjs
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/database-connector/routers/universalcrud.cjs
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/database-connector/middleware/auth.cjs
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/database-connector/services/adapterFactory.cjs
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/database-connector/realtime-layer/index.js
+10/28/2025 06:42:38 Edited file NPM/leumas-middleware/lib/database-connector/middleware/file-logging-monitoring.js
+10/28/2025 06:42:39 Edited file NPM/leumas-middleware/lib/workflow-system/workflow-router.js
+10/28/2025 06:42:39 Edited file NPM/leumas-middleware/lib/workflow-system/workflow-runner.js
+10/28/2025 06:42:39 Edited file NPM/leumas-middleware/lib/workflow-system/adapter-loader.js
+10/28/2025 06:42:39 Edited file NPM/leumas-middleware/lib/Webhook/index.js
+10/28/2025 06:42:39 Edited file NPM/leumas-middleware/lib/Webhook/routes.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/a.bulkforge/index.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/a.bulkforge/metadata.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/a.methods/index.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/cache-system/index.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/cache-system/services/cacheService.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/cache-system/services/pluginLoader.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/connector-system/index.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/connector-system/services/connectorService.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/connector-system/services/pluginLoader.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/index.cjs
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/aws.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/base.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/cloudinary.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/csv-file.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/firebase.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/json-file.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/json-folder.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/local-fs.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/mongo.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/redis.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/adapters/sql.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/routers/config-crud.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/database-connector/routers/universalcrud-mvp.js
+10/28/2025 06:42:40 Edited file NPM/leumas-middleware/lib/device-system/index.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/device-system/services/deviceService.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/device-system/services/pluginLoader.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/event-listener/index.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/event-listener/services/listenersService.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/event-listener/services/loadListeners.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/event-listener/services/pluginLoader.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/logicals-system/index.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/logicals-system/utils.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/logicals-system/metadata.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/logicals-system/backendLogic.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/orchestration-system/index.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/orchestration-system/services/orchestrationService.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/orchestration-system/services/pluginLoader.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/transformation-system/index.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/transformation-system/services/transformationService.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/transformation-system/services/pluginLoader.js
+10/28/2025 06:42:41 Edited file NPM/leumas-middleware/lib/parser-system/index.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/servers-server.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/tools-router.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/docs-router.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/Ollama/router.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/BSCScan/router.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/check-server.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/ScraperDarkweb/GoogleTrends/index.js
+10/28/2025 06:42:41 Edited file leumas-api.leumas.tech/APIRouter/External/Dalle/DalleToS3.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Configs/dynamic-links-router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Configs/header-links-router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/header-config-router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/StaticPages/router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/config-details-router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/config-edit-router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/16Personalities/routes/personalityRouter.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/16Personalities/services/personalityService.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/SSL/router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Mureka/routes.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Mureka/controllers.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/IPIT/ssid-ip.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/IPIT/helpers/wifi-utils.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/IPIT/scan-devices.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/IPIT/helpers/network-scanner.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/PortChecker/router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/PortChecker/knownPorts.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Tools/Markdown/text-to-markdown.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Puddles/router.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Puddles/runner.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Puddles/runnerv3.js
+10/28/2025 06:42:46 Edited file leumas-api.leumas.tech/APIRouter/Puddles/runnerv4.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Puddles/runnerv5.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Leumas/router.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Trends/router.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/External/Github/routes.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/External/Github/index.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/External/Github/helpers/migrateToGithub.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/External/Github/helpers/updateExistingGithubRepo.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/router.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/index.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/getAllQuizzes.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/getQuizById.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/createQuiz.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/createQuizzesInBulk.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/editQuiz.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/deleteQuiz.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/cloneQuiz.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/generateQuizUsingAI.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/takeQuiz.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/exposeQuizAsIframe.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/Quizes/utilities/bulkGenerateQuizzes.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/JSONtoUI/routes.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/JSONtoUI/functions/index.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/JSONtoUI/functions/generateReactForm.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/ChatGPTWrappers/router.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/ChatGPTWrappers/controllers.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/ChatGPTWrappers/model.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/ChatGPTWrappers/postProcess.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/PublicUploader/routes.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/router.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/controllers.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/helpers/generateAndUploadAIImagesToPrintify.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/helpers/createCanvasProductOnPrintify.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/helpers/generateAndCreateProductCatbox.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/ephemeral.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/helpers/generateAndCreateProductEphemeral.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/createHighQualityImageWithExternalResize.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/Tools/PODGPT/helpers/generateAndCreateProductExternalResize.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/3DProgramming/routes.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/3DProgramming/controllers/gridController.js
+10/28/2025 06:42:47 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Grid.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/Esprima/routes.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/Esprima/helper.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/Configs/router.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/FunctionCalls/routes.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/FunctionCalls/common/interactionManager.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/FunctionCalls/common/openAIClient.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/FunctionCalls/common/functionRegistry.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/GenerativeForTools/Utils/splitters.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/PythonScripts/routes.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/PythonScripts/utils/processManager.js
+10/28/2025 06:42:48 Edited file leumas-api.leumas.tech/APIRouter/PythonScripts/startPythonScripts.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/STL/routes.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/PNG-SVG/routes.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/PNG-SVG/index.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/PNG-SVG/functions/png-to-svg.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/PNG-SVG/functions/convert-folder.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Embeddings/routes.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Embeddings/index.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Embeddings/functions/embed-text.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Embeddings/functions/embed-file.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Radio/routes.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Radio/index.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Radio/functions/stream-station.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Radio/functions/extract-url-from-pls.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Binary/routes.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Binary/index.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Binary/functions/binary-code.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Binary/functions/binary-path.js
+10/28/2025 06:42:49 Edited file leumas-api.leumas.tech/APIRouter/Compormise/routes.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/typo/typo.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/routes.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/index.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/callCpanelApi.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/getDomains.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/getSubdomains.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/listEmailAccounts.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/createDatabase.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/createDbUser.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/listDnsZones.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/listFiles.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/listCronJobs.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/addCronJob.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/createBackup.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/CPANEL/functions/getDiskUsage.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/Roku/RokuRouter.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/router.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/router.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/index.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/createSlide.js
+10/28/2025 06:42:50 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/index.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/UniversalPresets.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/ids/LeumasID.schema.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Content.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/ImageUrls.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/IPAddress.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/ListLauncher.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Automation.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AutomationBlock.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/TriggerBlocks/custom-time-trigger.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Blueprints.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/QRCode.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/EventsHistory.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GPTConversation.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Animal.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Aviation.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Biography.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/GPTData.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/HistoricalFigure.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Invention.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Movie.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Plant.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Poetry.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/AI/Story.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/MQTT.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Task.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/ScheduleTask.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/TrafficDataNPM/TrafficData.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/EXE.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Transaction.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/LeumasDocument.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/LeumasComment.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/LeumasDocumentVersion.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/sheets/LeumasSheet.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/sheets/LeumasSheetVersion.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/sheets/LeumasSheetComment.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/sheets/LeumasSheetFormula.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/slides/LeumasSlide.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/slides/LeumasSlideVersion.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/slides/LeumasSlideComment.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/slides/LeumasSlideMedia.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/GoogleSchemas/slides/LeumasSlideTheme.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/PodGPTJob.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/modalityModel.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/ConfigTemplate.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/PrivateCapability.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/FunctionCalls.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Purchase.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Pen.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/Portfolio.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/getSlide.js
+10/28/2025 06:42:52 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/updateSlide.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/deleteSlide.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/getSlideVersions.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/shareSlide.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/collaborateSlide.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/addComment.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/getComments.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/deleteComment.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/searchSlides.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/updateTitle.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/updateSlides.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/lockSlide.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/unlockSlide.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/addMedia.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/removeMedia.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/applyThemes.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Slides/functions/getThemes.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/authorizeMiddleware.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/router.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/index.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/createSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/getSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/updateSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/deleteSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/getSheetVersions.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/shareSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/collaborateSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/addComment.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/getComments.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/deleteComment.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/searchSheets.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/updateTitle.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/updateData.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/lockSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/unlockSheet.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/addFormula.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/getFormulas.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Sheets/functions/updateFormulas.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/router.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/index.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/createDocument.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/getDocument.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/updateDocument.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/deleteDocument.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/getDocumentVersions.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/shareDocument.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/collaborateDocument.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/addComment.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/getComments.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/deleteComment.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/searchDocuments.js
+10/28/2025 06:42:53 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/updateTitle.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/updateContent.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/lockDocument.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Docs/functions/unlockDocument.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/router.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/index.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/createSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/schemas/LeumasSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/getSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/updateSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/deleteSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/getAllSites.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/addPage.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/schemas/LeumasPage.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/getPage.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/updatePage.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/deletePage.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/getAllPages.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/applyTheme.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/getThemes.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/updateTheme.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/addSection.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/updateSection.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/deleteSection.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/addCustomDomain.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/deleteCustomDomain.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/searchSites.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/publishSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/getPublishStatus.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasSites/functions/unpublishSite.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/router.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/index.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/collectAnalytics.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getReports.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getEvents.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getUsers.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getSessions.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getConversions.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getRealTime.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/defineCustomEvents.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getCustomEvents.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/updateCustomEvent.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/deleteCustomEvent.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getFunnels.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getTrafficSources.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getAudience.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/configAnalytics.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getConfig.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/updateConfig.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/deleteConfig.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/compareAnalytics.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getGeo.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getTechnology.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getContent.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/defineGoals.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getGoals.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/updateGoal.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/deleteGoal.js
+10/28/2025 06:42:54 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Analytics/functions/getDashboard.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/router.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/index.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/createProject.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/schemas/LeumasProject.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getProjects.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getProject.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/updateProject.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/deleteProject.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/createDataset.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/schemas/LeumasDataset.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getDatasets.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getDataset.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/updateDataset.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/deleteDataset.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/createTable.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/schemas/LeumasTable.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getTables.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getTable.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/updateTable.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/deleteTable.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/executeQuery.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/loadData.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/exportData.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/configureSecurity.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas BigQuery/functions/getMetadata.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/router.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/index.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/createEvent.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/getEvent.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/updateEvent.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/deleteEvent.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/getAllEvents.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/shareEvent.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/notifyEvent.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/searchEvents.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/updateEventTitle.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/updateEventTime.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/setEventRecurrence.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/getEventRecurrence.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/removeEventRecurrence.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/addAttendees.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/removeAttendee.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/getAttendees.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/updateEventLocation.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Calendar/functions/getEventLocation.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/router.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/index.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/sendMessage.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/getChatRooms.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/createChatRoom.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/getChatRoom.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/updateChatRoom.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/deleteChatRoom.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/addMembers.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/removeMember.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/getMessages.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/getMessage.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/updateMessage.js
+10/28/2025 06:42:55 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/deleteMessage.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/replyToMessage.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/likeMessage.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/unlikeMessage.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/getParticipants.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/addParticipant.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/removeParticipant.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/searchMessages.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/renameChatRoom.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/archiveChatRoom.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Chat/functions/unarchiveChatRoom.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/router.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/index.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/createForm.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/schemas/LeumasForm.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/getForm.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/updateForm.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/deleteForm.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/getFormVersions.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/shareForm.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/getFormResponses.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/schemas/LeumasFormResponse.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/submitFormResponse.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/getSpecificResponse.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/deleteSpecificResponse.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/searchForms.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/updateFormTitle.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/addQuestion.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/updateQuestion.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/deleteQuestion.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/addLogic.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/getLogic.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Forms/functions/deleteLogic.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/router.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/index.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/createNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/schemas/LeumasNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/getNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/updateNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/deleteNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/getAllNotes.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/shareNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/searchNotes.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/addLabel.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/removeLabel.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/pinNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/unpinNote.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/changeColor.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/setReminder.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/removeReminder.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/addChecklist.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/updateChecklistItem.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/removeChecklistItem.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/addAttachment.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Keep/functions/removeAttachment.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/router.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/index.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/sendEmail.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/schemas/LeumasMail.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/getInbox.js
+10/28/2025 06:42:56 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/getSentEmails.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/getDrafts.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/getEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/updateEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/deleteEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/replyEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/forwardEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/addAttachment.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/removeAttachment.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/searchEmails.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/createLabel.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/getLabels.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/updateLabel.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/deleteLabel.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/addLabelToEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/removeLabelFromEmail.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/getAttachments.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/downloadAttachment.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/markImportant.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Mail/functions/unmarkImportant.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/router.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/index.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/createTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getTopics.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/updateTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/deleteTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/createSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getSubscriptions.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/updateSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/deleteSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/publishMessage.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/acknowledgeMessages.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/nackMessages.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/pullMessages.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/pushMessages.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getTopicMetrics.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getSubscriptionMetrics.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/searchTopicsAndSubscriptions.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/addLabelsToTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getLabelsOfTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/removeLabelFromTopic.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/addLabelsToSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getLabelsOfSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/removeLabelFromSubscription.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/setTopicPermissions.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getTopicPermissions.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/removeTopicPermission.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/setSubscriptionPermissions.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/getSubscriptionPermissions.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas PubSub/functions/removeSubscriptionPermission.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/router.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/index.js
+10/28/2025 06:42:57 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/createPolicy.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getPolicies.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getPolicy.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/updatePolicy.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/deletePolicy.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/applyPolicy.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getPolicyApplications.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/searchData.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getSearchResults.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/exportData.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getExportStatus.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/cancelExport.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getAuditLogs.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getAuditLog.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/configureCompliance.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getCompliance.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/updateCompliance.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/resetCompliance.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/createAlert.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getAlerts.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/getAlert.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/updateAlert.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/Leumas Vault/functions/deleteAlert.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/router.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/index.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/uploadFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/getFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/updateFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/deleteFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/getFileVersions.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/shareFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/searchFiles.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/createFolder.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/getFolder.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/updateFolder.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/deleteFolder.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/getFolderChildren.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/moveFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/copyFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/downloadFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/renameFile.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/modifyFilePermissions.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/getFilePermissions.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/GoogleLeumas/LeumasDrive/functions/deleteFilePermission.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/routes.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/handleChatbotRequest.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/functions.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/utilities.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/OPENAI/helpers.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/Workflow/routes.js
+10/28/2025 06:42:58 Edited file leumas-api.leumas.tech/APIRouter/Workflow/Aftercalls/index.js
+10/28/2025 06:43:04 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/routes.js
+10/28/2025 06:43:13 Edited file leumas-api.leumas.tech/APIRouter/Workflow/routesV2.js
+10/28/2025 06:43:14 Edited file leumas-api.leumas.tech/APIRouter/ProductDescriptions/routes.js
+10/28/2025 06:43:14 Edited file leumas-api.leumas.tech/APIRouter/SmartContractDeployer/routes.js
+10/28/2025 06:43:16 Edited file leumas-api.leumas.tech/APIRouter/Sentiment/routes.js
+10/28/2025 06:43:16 Edited file leumas-api.leumas.tech/APIRouter/Mercator/routes.js
+10/28/2025 06:43:16 Edited file leumas-api.leumas.tech/APIRouter/Metals/routes.js
+10/28/2025 06:43:16 Edited file leumas-api.leumas.tech/APIRouter/PokeAPI/routes.js
+10/28/2025 06:43:16 Edited file leumas-api.leumas.tech/APIRouter/Screenshot/routes.js
+10/28/2025 06:43:16 Edited file leumas-api.leumas.tech/APIRouter/GoogleCloudSpeech/routes.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/TextToSpeech/routes.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Sidebars/routes.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Sidebars/appstoreSidebar.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/External/GoogleSearchEngines/GoogleSearchEngines.router.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/External/Linkedin/routes.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Webhook/routes.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/routes.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/LeumasToolMapping.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/GoogleExtensions.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/RegexSnippets.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/KeyboardLibrarySnippets.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/SocialLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/LeumasLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/SiteFooter.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/bulkForgeHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/appstoreHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/podgptHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/taskMancerHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/links.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/LMXSnippets.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/3dHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/adminHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/arcadeHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/chainHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/cheatsheetsHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/crudHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/freeCSSHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/galleryHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/historyHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/imaginateHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/ipHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/listLauncherHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/lmxHeaderLinks.js
+10/28/2025 06:43:19 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/playlistsHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/qrHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/scrapeHubHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/searchHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/soxialHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/translatorHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/weatherHeaderLinks.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/CDNS.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/ArduinoSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/BatchSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/ExpressNodeJSSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/HTMLSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/JavaScriptSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/JavaSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/PythonSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/ReactSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/SocketIOSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/SoliditySyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/TailwindSyntax.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/BiologicalClassificationMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/ChemicalCompoundsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/ChemicalReactionsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/EcoSystemMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/EnergyTypesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/FundamentalForcesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/GeneticsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/HumanAnatomyMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/HumanDiseasesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/KnownRenewableEnergySourcesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/OceanCurrentsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/PeriodicTableMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/PhysicsConstantsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/PhysicsEquations.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/PlanetaryMoonsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/RenewableEnergySourcesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/RenewableEnergyTechnologysAndImplicationsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/RocksAndMineralsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/SolarSystemMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/SolarSystemObjectsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Science/VitaminsAndMineralsMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/AplhabetMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/EmotionsEmojiMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/IframeGamesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/LeumasDataMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/LeumasSchemas.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/LeumasServicesGridMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/ProgrammingLangaugesMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Misc/PublicAPISMapping.js
+10/28/2025 06:43:20 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/leumasAPIHeader.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/WhatsNew/WhatsNewLatest.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/fileTreesSyntax.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/ArduinoKeyboardLibrarySyntax.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/Syntax/SSMLSyntax.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/megaMenuLinks.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/Math/MathConstantsMapping.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Configs/Headers/playgroundHeaderLinks.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/ScraperDarkweb/ColorPalletes/ColorPalletes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Regex/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/QR/QR-Cloudinary.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/PythonApps/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Python/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/LMX/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/PDF/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/functions/listFiles.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Storage/SmartContracts/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Batch/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/ReactLibrary/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/ReactLibrary/_helpers/index.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/ReactLibrary/_helpers/file-system.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/ReactLibrary/_helpers/ai-generators.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/ReactLibrary/_helpers/component-resolver.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/Tinder-For-Ideas/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library/publicRoutes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/IPIT/routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/IPIT/helpers/dns-lookup.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/IPIT/get-ip-routes.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/IPIT/helpers/geolocation.js
+10/28/2025 06:43:21 Edited file leumas-api.leumas.tech/APIRouter/API/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Utilities/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Text/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Strings/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Conversions/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Calculators/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Calculators/Math/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Calculators/Physics/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/API/Random/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Authentication/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Authentication/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Posts/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Posts/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Pages/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Pages/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Comments/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Comments/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Taxonomies/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Taxonomies/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Categories/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Categories/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Tags/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Tags/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Types/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Types/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Statuses/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Statuses/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Users/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Users/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Media/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Media/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Settings/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Settings/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Login/routes.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Login/controllers.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/WP-API/Users/User.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/router.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/router.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/index.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/createBlogPost.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/deleteBlogPost.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/editBlogPost.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/getAllBlogPosts.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/blog/getBlogPost.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/categories/router.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/categories/index.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/categories/createCategory.js
+10/28/2025 06:43:22 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/categories/deleteCategory.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/categories/editCategory.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/categories/getAllCategories.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/comments/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/comments/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/comments/deleteComment.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/comments/editComment.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/comments/commentOnBlogPost.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/deleteMediaItem.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/downloadMediaByUrl.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/editMediaItem.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/getAllMedia.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/getMediaById.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/searchMediaItems.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/media/uploadMedia.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/menus/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/menus/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/menus/addMenuItem.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/menus/createMenu.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/menus/deleteMenuItem.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/menus/editMenu.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/createPage.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/createPageWithContent.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/editPage.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/editPageWithAIContent.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/generateContentAndCreatePage.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/pages/getAllPages.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/activatePlugin.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/deactivatePlugin.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/deletePlugin.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/getAllPlugins.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/plugins/installPlugin.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/SEO/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/SEO/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/SEO/fetchAllPostsSeoData.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/SEO/fetchSeoMetaData.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/SEO/updateMultiplePostsSeoData.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/SEO/updateSeoMetaData.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/settings/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/settings/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/settings/getAllSettings.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/settings/getSpecificSetting.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/settings/updateMultipleSettings.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/settings/updateSetting.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/tags/router.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/tags/index.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/tags/createTag.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/tags/deleteTag.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/tags/editTag.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/tags/getAllTags.js
+10/28/2025 06:43:23 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/themes/router.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/themes/index.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/themes/activateTheme.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/themes/deleteTheme.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/themes/getAllThemes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/themes/updateThemeOptions.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/router.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/index.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/createUser.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/deleteUser.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/editUser.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/getAllUsers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Wordpress/scripts/users/getUserById.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/CyberSecurity/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/ScraperDarkweb/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/Messages/router.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/Messages/controller.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/SMSAPI/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/SMSAPI/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/VOICESMS/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/VOICESMS/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/OTPMFA/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/OTPMFA/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/CONTACTS/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/CONTACTS/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APIVIRTUALNUMBERS/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APIVIRTUALNUMBERS/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APICREDITCONSULTATION/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APICREDITCONSULTATION/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APISUBACCOUNTS/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APISUBACCOUNTS/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APIDEFAULTPARAMETERS/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/APIDEFAULTPARAMETERS/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/OctoPush/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Fliki/routes.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Fliki/controllers.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Fliki/flikiAPI.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Fliki/controllersBYOAPI.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/External/Fliki/getFlikiApi.js
+10/28/2025 06:43:24 Edited file leumas-api.leumas.tech/APIRouter/Search/Search.routes.js
+10/28/2025 06:43:25 Edited file leumas-api.leumas.tech/APIRouter/Search/Search.controllers.js
+10/28/2025 06:43:40 Created file z.Domains2/templates/Leumas/leumas-react-app/routes.js
+10/28/2025 06:43:40 Edited file z.Domains2/templates/Leumas/leumas-react-app
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/ids/ids.routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Abi/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Accounts/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Contract/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Ens/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Iban/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Personal/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Eth/Subscribe/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Bzz/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Shh/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/External/Infura/Utils/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/Blockchain/routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/Blockchain/LMSChain.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/Conversations/conversation.routes.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/Conversations/conversation.controllers.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/Leumas/Leumas.router.js
+10/28/2025 06:43:46 Edited file leumas-api.leumas.tech/APIRouter/Leumas/Leumas.controllers.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/Nexus/routes.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/BulkForge/routes.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/BulkForge/controllers.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/BulkForge/test/Annealing-Qunatum.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/routes.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/auth/authMiddleware.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/controllers.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/router.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/routes/triggerBlock.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/Functions/loadTriggerBlocks.js
+10/28/2025 06:43:49 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/TriggerBlocks/ButtonTriggerBlock.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/Tools/TaskMacer/routes/buttonTrigger.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/Tools/Imaginate/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/Tools/QuickSkill/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/WebScraper/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/runBrowser.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/WebScraper/boilerplates.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/WebScraper/controllers.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/WebScraper/pageScraper.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/WebScraper/serpcontroller.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Brightdata/Datasets/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Cloudinary/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Cloudinary/controllers.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Cloudinary/config.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Copyleaks/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Copyleaks/endpoints.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/IPapi/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/IPapi/controllers.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/IPstack/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/IPstack/controllers.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Shops/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Shops/controllers.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/printifyUtils.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Events/routes.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Events/controllers.js
+10/28/2025 06:43:50 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Events/notificationService.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Orders/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Orders/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Products/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Products/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Uploads/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Uploads/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Webhooks/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/Webhooks/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Printify/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/ScrapeStack/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/ScrapeStack/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/SerpStack/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/SerpStack/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/WeatherStack/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/WeatherStack/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Activities/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Activities/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Captions/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Captions/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Channels/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Comments/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Comments/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Pagination/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Pagination/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Partials/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Playlists/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Ratings/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Search/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Subscriptions/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/Videos/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Youtube/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Zapier/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Zapier/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/controllers.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/functions.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/routes.js
+10/28/2025 06:43:51 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/modelMiddleware.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/middlewares/authneticateJWT.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/middlewares/checkOwnership.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/routes2.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/Google/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/apiControllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Gadgets/router.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Gadgets/LMSGlasses/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Gadgets/IR/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Gadgets/IR/Remotes/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Gadgets/Keyboard/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/GenerativeForTools/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/Twilio/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/Twilio/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/CoinLayer/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/CoinLayer/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/CurrencyLayer/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/CurrencyLayer/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/AviationStack/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/AviationStack/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/DNSLOOKUPAPI/new-routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/DNSLOOKUPAPI/new-controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/MediaStack/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/MediaStack/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/PDFLayer/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/PDFLayer/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/PositionStack/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/PositionStack/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/UserStack/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/UserStack/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/ScreenshotLayer/routes.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/ScreenshotLayer/controllers.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Storage/Fetch/fetchRouter.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/Storage/Fetch/fetchPython.js
+10/28/2025 06:43:52 Edited file leumas-api.leumas.tech/APIRouter/External/GoogleCloudStorage/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/GoogleCloudStorage/init.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/LoginKit/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/LoginKit/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/ContentPosting/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/ContentPosting/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Display/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Display/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Research/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Research/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/CommercialContent/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/CommercialContent/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Legacy/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Legacy/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Embed/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/TikTok/Embed/controllers.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/ImageConversions/routes.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/images/router.js
+10/28/2025 06:43:53 Edited file leumas-api.leumas.tech/APIRouter/External/Wildcard/UniversalCrud/schemas/TrafficDataNPM/APIKey.js
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/workflow-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/Webhook/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/a.bulkforge/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/a.methods/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/cache-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/connector-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/database-connector/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/device-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/event-listener/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/logicals-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/orchestration-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/transformation-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/lib/parser-system/package.json
+10/28/2025 06:43:57 Edited file NPM/leumas-middleware/package.json
+10/28/2025 06:43:57 Edited file leumas-api.leumas.tech/package.json
+10/28/2025 06:43:59 Edited file leumas-api.leumas.tech/APIRouter/Embeddings/package.json
+10/28/2025 06:43:59 Edited file leumas-api.leumas.tech/APIRouter/Compormise/package.json
+10/28/2025 06:43:59 Edited file leumas-api.leumas.tech/APIRouter/Roku/package.json
+10/28/2025 06:43:59 Edited file leumas-api.leumas.tech/APIRouter/Webhook/package.json
+10/28/2025 06:43:59 Edited file leumas-api.leumas.tech/APIRouter/Tools/BulkForge/package.json
+10/28/2025 06:43:59 Edited file leumas-api.leumas.tech/APIRouter/External/Cloudinary/package.json
+10/28/2025 06:44:10 Edited file z.Domains2/templates/Leumas/leumas-react-app/package.json
+10/28/2025 06:46:32 Edited file z.Domains2/templates/Leumas/leumas-react-app/plugins
+10/28/2025 06:46:32 Edited file leumas-api.leumas.tech
+10/28/2025 06:46:32 Edited file leumas-api.leumas.tech/APIRouter
+10/28/2025 06:46:32 Edited file leumas-api.leumas.tech/APIRouter/Tools
+10/28/2025 06:46:32 Edited file leumas-api.leumas.tech/APIRouter/Tools/Library
+10/28/2025 06:49:25 Edited file Servers
