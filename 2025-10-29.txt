@@ -1731,3 +1731,5 @@
 10/28/2025 19:43:02 Edited file NPM/leumas-smart-logic/demos/smart-find.html
 10/28/2025 19:43:02 Edited file NPM/leumas-smart-logic/demos/smart-symmetry.html
 10/28/2025 19:43:02 Edited file NPM/leumas-smart-logic/demos/smart-cognition.html
+10/28/2025 19:43:50 Edited file NPM/leumas-middleware/lib/database-connector/README.md
+10/28/2025 19:53:02 Edited file Servers
