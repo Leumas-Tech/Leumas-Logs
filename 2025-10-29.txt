@@ -47866,3 +47866,7 @@
 10/28/2025 23:18:32 Created file NPM/leumas-middleware/lib/database-connector/DLeumasz.Domains2Routerdatabase-connectorconfigexample.csv
 10/28/2025 23:18:49 Edited file NPM/leumas-middleware/lib/database-connector/package.json
 10/28/2025 23:23:13 Edited file Servers/x.water-grass/git-worker.js
+10/28/2025 23:23:13 Edited file NPM/leumas-smart-logic/demos/smart-merge.html
+10/28/2025 23:23:13 Edited file NPM/leumas-smart-logic/demos/smart-compare.html
+10/28/2025 23:23:13 Edited file NPM/leumas-smart-logic/demos/smart-pattern.html
+10/28/2025 23:23:13 Edited file NPM/leumas-smart-logic/demos/smart-execute.html
