@@ -24735,3 +24735,8 @@
 10/28/2025 22:23:09 Edited file NPM/leumas-smart-logic/demos/smart-compare.html
 10/28/2025 22:23:09 Edited file NPM/leumas-smart-logic/demos/smart-merge.html
 10/28/2025 22:23:09 Edited file NPM/leumas-smart-logic/demos/smart-execute.html
+10/28/2025 22:23:51 Edited file NPM/leumas-middleware/lib/database-connector/README.md
+10/28/2025 22:25:48 Edited file NPM/leumas-middleware/lib/database-connector/frontend
+10/28/2025 22:28:36 Edited file NPM/leumas-middleware
+10/28/2025 22:28:36 Edited file NPM/leumas-middleware/lib/database-connector
+10/28/2025 22:28:36 Edited file NPM/leumas-middleware/lib
