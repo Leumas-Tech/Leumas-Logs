@@ -22974,3 +22974,7 @@
 10/29/2025 20:05:22 Edited file EEG-Lab
 10/29/2025 20:05:47 Edited file EEG-Lab
 10/29/2025 20:24:17 Edited file Servers/x.water-grass/git-worker.js
+10/29/2025 20:30:36 Edited file experiments/jalynn/README.md
+10/29/2025 20:31:38 Edited file .npmrc
+10/29/2025 20:33:54 Edited file experiments/jalynn
+10/29/2025 20:34:07 Edited file experiments/jalynn/vowel-detector
