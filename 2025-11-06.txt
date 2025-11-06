@@ -1,1 +1,705 @@
 11/6/2025 08:03:17 Edited file Servers/x.water-grass/git-worker.js
+11/6/2025 08:06:53 Edited file Knowledge-Banks/package.json
+11/6/2025 08:06:53 Edited file Knowledge-Banks/server.js
+11/6/2025 08:06:53 Edited file Knowledge-Banks/.env
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/adapters/index.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/lib/banks-registry.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/admin-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/lib/queuefs.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/ollama-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/viz-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/research-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/research-router2.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/schemas-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/admin-banks-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/knowledge-meta-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/knowledge-queue.router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/routers/kb-api-router.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/v2-router/index.js
+11/6/2025 08:06:56 Edited file Knowledge-Banks/v2-router/jobs.router.js
+11/6/2025 08:06:57 Edited file Knowledge-Banks/v2-router/sse.js
+11/6/2025 08:06:57 Edited file Knowledge-Banks/v2-router/lib/job-manager.js
+11/6/2025 08:06:57 Edited file Knowledge-Banks/v2-router/lib/util.js
+11/6/2025 08:06:57 Edited file Knowledge-Banks/v2-router/lib/banks.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v2-router/lib/ollama.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/data/jobs.json
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v2-router/ollama.router.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/index.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/lib/banks.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/lib/util.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/jobs.router.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/sse.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/lib/job-manager.js
+11/6/2025 08:06:59 Edited file Knowledge-Banks/v3-router/lib/ollama.js
+11/6/2025 08:07:12 Edited file Knowledge-Banks/public/index.html
+11/6/2025 08:07:16 Edited file Knowledge-Banks/public/pages/space/index.html
+11/6/2025 08:07:16 Edited file Knowledge-Banks/lib/data/banks.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Brassica — Brassica latifolia/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/16x2 LCD display (HD44780)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Canis lupus familiaris/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Capsicum — Capsicum virginiana/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/20x4 LCD display/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba 'Aurea'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Carcharodon carcharias/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Cedrus — Cedrus splendens/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba subsp. macrophylla/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba var. iberica/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/433 MHz RF transmitter receiver/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Crataegus — Crataegus virginiana/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Inga — Inga patagonica/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Cervus elaphus/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Laminaria — Laminaria robusta/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/4G LTE module (SIM7600)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Cross River gorilla – Gorilla gorilla diehli/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Osmunda — Osmunda yunnanensis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina 'Splendens'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Eastern gorilla – Gorilla beringei/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/7-segment LED display/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Persea — Persea palmatum/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina subsp. alba/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Felis catus/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina var. himalayana/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Accelerometer (ADXL345)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Picea — Picea taiwaniana/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Ornithorhynchus anatinus/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Air quality sensor (MQ-135)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Populus — Populus rosea/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Ovis aries/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia 'Splendens'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Triticum — Triticum chilensis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Alcohol sensor (MQ-3)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia subsp. integrifolia/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Black Triticum — Triticum lanceolata/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia var. japonica/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Panthera tigris/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Altitude sensor (MS5611)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Abies — Abies gracilis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Alnus — Alnus maritima/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea 'Nana'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Papio hamadryas/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Ambient light sensor (TSL2561)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea subsp. speciosa/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Annona — Annona variegata/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea var. patagonica/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Betula — Betula australis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.animals/store/items/Western lowland gorilla – Gorilla gorilla gorilla/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Ammonia sensor (MQ-137)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Capsicum — Capsicum heterophylla/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Barometric + temperature + humidity (BME280)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Daucus — Daucus australis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Diospyros — Diospyros madagascariensis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Barometric pressure sensor (BMP180)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis var. discolor/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Helianthus — Helianthus variegata/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Barometric pressure sensor (BMP280)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Larix — Larix grandiflora/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Battery management module (TP4056)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca 'Elegans'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Malus — Malus lutea/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca subsp. aurea/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Bluetooth module (HC-05)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Phaseolus — Phaseolus arenaria/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca var. brevifolia/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Populus — Populus officinalis/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Bluetooth module (HC-06)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Spinacia — Spinacia microphylla/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Brushless DC motor (BLDC)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Ulmus — Ulmus robusta/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Camera module (OV2640)/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Ulmus — Ulmus villosa/meta.json
+11/6/2025 08:07:16 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Ulva — Ulva ovata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Camera module (OV7670)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Blue Zea — Zea gracilis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea 'Elegans'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/CAN bus transceiver (MCP2515)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Alnus — Alnus taiwaniana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea subsp. sinensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Brassica — Brassica divaricata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Capacitive touch sensor (TTP223B)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea var. lutea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Glycine — Glycine flava/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Carbon monoxide sensor (MQ-7)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Grevillea — Grevillea grandiflora/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima 'Grandiflora'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Juniperus — Juniperus brevifolia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/CO2 sensor (MH-Z19B)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Oryza — Oryza regia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima subsp. macrophylla/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Color sensor (APDS-9960)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Pachira — Pachira pendula/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima var. aurea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Psidium — Psidium decora/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Color sensor (TCS3200)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra 'Elegans'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Pyrus — Pyrus madagascariensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Current sensor (INA219)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Solanum — Solanum japonica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra subsp. palustris/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Current sensor module (ACS712)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Vaccinium — Vaccinium canadensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra var. mexicana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Broadleaf Zamia — Zamia angustifolia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/DC motor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis 'Splendens'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Coffea — Coffea riparia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Digital compass module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis subsp. nepalensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Cucumis — Cucumis palmatum/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis var. arvensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Digital humidity sensor (DHT11)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Cycas — Cycas chilensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Digital humidity sensor (DHT22)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Diospyros — Diospyros australis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris 'Grandiflora'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Digital potentiometer (MCP41010)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris subsp. canadensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Diospyros — Diospyros nepalensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Digital temperature sensor (DS18B20)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris var. arvensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Encephalartos — Encephalartos alpina/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Glycine — Glycine sinensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Dot matrix display/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Grevillea — Grevillea nana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea var. yunnanensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Dust sensor (GP2Y1010AU0F)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Inga — Inga gigantea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/E-paper display/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Mangifera — Mangifera madagascariensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra 'Glauca'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Phaseolus — Phaseolus madagascariensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/EC (electrical conductivity) sensor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra subsp. purpurea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Prunus — Prunus repens/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra var. decora/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/ECG sensor module (AD8232)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Rosa — Rosa gracilis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Secale — Secale mexicana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/EEG sensor module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica 'Nana'/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Tilia — Tilia patagonica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica subsp. nana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/EEPROM module (24C256)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Common Vaccinium — Vaccinium angustifolia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica var. palustris/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/EMG sensor module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Asplenium — Asplenium argentea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Citrullus — Citrullus alpina/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Energy meter module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Dryopteris — Dryopteris madagascariensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/ESC (electronic speed controller)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Encephalartos — Encephalartos cordata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Ethernet module (ENC28J60)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Eucalyptus — Eucalyptus montana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Fingerprint sensor (R305)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Fraxinus — Fraxinus argentea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Flex sensor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Laminaria — Laminaria riparia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Force-sensitive resistor (FSR)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Osmunda — Osmunda robusta/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Gas flame sensor (IR flame sensor)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Prunus — Prunus decora/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Quercus — Quercus taiwaniana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Geiger counter module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Rhus — Rhus formosana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Gesture recognition module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Rosa — Rosa hispanica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Gesture sensor (PAJ7620U2)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Salix — Salix italica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/GPS module (NEO-6M)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Sorbus — Sorbus regia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Crimson Vaccinium — Vaccinium formosana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/GSM GPRS module (SIM800L)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Banksia — Banksia officinalis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Gyroscope (MPU6050)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Coffea — Coffea sativa/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Hall effect sensor (A3144)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Cucumis — Cucumis nigra/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Heartbeat sensor (pulse sensor)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Diospyros — Diospyros officinalis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/High torque servo motor (MG996R)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Equisetum — Equisetum sinensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Hydrogen sensor (MQ-8)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Grevillea — Grevillea patagonica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Helianthus — Helianthus formosana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/IMU 10-DOF (BNO055)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Larix — Larix mexicana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/IMU 9-DOF (MPU9250)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Pinus — Pinus cordata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Psidium — Psidium hainanensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Inclinometer sensor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Sequoia — Sequoia borealis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Inertial navigation module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Syzygium — Syzygium hispanica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Infrared emitter LED/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Dwarf Tilia — Tilia longifolia/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Infrared receiver module (VS1838B)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Adiantum — Adiantum ovata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Infrared thermometer (MLX90614)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Asplenium — Asplenium sibirica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Carpinus — Carpinus palustris/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Infrared tracking sensor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Dimocarpus — Dimocarpus madagascariensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Equisetum — Equisetum occidentalis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/IR obstacle avoidance sensor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Grevillea — Grevillea linearis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Grevillea — Grevillea maritima/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Joystick module/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Inga — Inga microphylla/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Keypad module (4x4 matrix)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Inga — Inga purpurea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Knock sensor (KY-031)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Laminaria — Laminaria palmatum/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Larix — Larix rubra/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Malus — Malus canadensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Laser module (KY-008)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Malus — Malus heterophylla/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/LED matrix display (MAX7219)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Mangifera — Mangifera rosea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Line follower IR sensor array/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Nephelium — Nephelium virginiana/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Linear actuator/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Phaseolus — Phaseolus flava/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Rhus — Rhus aurea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Liquid pressure sensor/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Rosa — Rosa polymorpha/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Load cell (HX711 amplifier)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Sargassum — Sargassum chilensis/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/LoRa module (SX1278)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Sorbus — Sorbus lanceolata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Forest Zea — Zea pendula/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/LPG sensor (MQ-2)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Acacia — Acacia hispanica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Magnetic reed switch/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Asplenium — Asplenium hispanica/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Magnetometer (HMC5883L)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Banksia — Banksia cordata/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Chlorella — Chlorella rosea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Methane sensor (MQ-4)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Diospyros — Diospyros cerulea/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Microphone module (KY-037)/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Encephalartos — Encephalartos decora/meta.json
+11/6/2025 08:07:17 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Motor driver (L293D)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Juglans — Juglans aurea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Motor driver (L298N)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Juniperus — Juniperus linearis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/NFC communication module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Lactuca — Lactuca longifolia/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Oryza — Oryza officinalis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/NFC reader (PN532)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Phaseolus — Phaseolus splendens/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/NRF24L01 RF transceiver/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Pisum — Pisum grandiflora/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/OLED display (SSD1306)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Prunus — Prunus microphylla/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Optical rotary encoder/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Pyrus — Pyrus microphylla/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Ozone sensor (MQ-131)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Secale — Secale nigra/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Particulate matter sensor (PMS5003)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Taxus — Taxus alpina/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Garden Taxus — Taxus ovata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Photodiode sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Abies — Abies rosea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Photoresistor (LDR)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Artocarpus — Artocarpus yunnanensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Cedrus — Cedrus ovata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Phototransistor module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Citrullus — Citrullus sativa/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Piezoelectric vibration sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Cycas — Cycas decora/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/PIR motion sensor (HC-SR501)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Dryopteris — Dryopteris alba/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Helianthus — Helianthus sibirica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Power monitoring module (ZMPT101B)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Juniperus — Juniperus argentea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Proximity capacitive sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Persea — Persea variegata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/PS2 game controller interface/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Pouteria — Pouteria alpina/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Radiation detector tube/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Protea — Protea italica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Rain sensor module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Sequoia — Sequoia montana/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Solanum — Solanum linearis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Real-time clock (DS3231)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Spinacia — Spinacia aurea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Relay module (1-channel)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Syzygium — Syzygium sinensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Relay module (4-channel)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Giant Ulmus — Ulmus latifolia/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Resistive touch sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Carpinus — Carpinus glauca/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/RFID reader module (RC522)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Chrysophyllum — Chrysophyllum aurea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Citrullus — Citrullus gracilis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/RGB LED module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Coffea — Coffea palustris/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Dimocarpus — Dimocarpus gracilis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Rotary encoder (KY-040)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Diospyros — Diospyros rubra/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Rotary potentiometer/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Hordeum — Hordeum aurea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/SD card module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Juglans — Juglans ovata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Juniperus — Juniperus arenaria/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Servo motor (SG90)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Litchi — Litchi riparia/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Smart card reader module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Pinus — Pinus chilensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Smoke sensor (MQ-2)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Pisum — Pisum italica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Pouteria — Pouteria linearis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Soil moisture sensor (capacitive)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Secale — Secale repens/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Soil pH sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Spinacia — Spinacia heterophylla/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Soil temperature sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Golden Zamia — Zamia flava/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Solar panel module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Annona — Annona occidentalis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Diospyros — Diospyros japonica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Solenoid lock module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Nephelium — Nephelium pendula/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Solid-state relay module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Osmunda — Osmunda gracilis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Sound localization array/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Salix — Salix taiwaniana/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Ulmus — Ulmus lutea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Sound sensor module (LM393)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Green Ulva — Ulva sibirica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Step counter (pedometer module)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Abies — Abies hispanica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Stepper driver (A4988, DRV8825)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Acacia — Acacia nana/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Annona — Annona macrophylla/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Stepper motor (28BYJ-48)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Asplenium — Asplenium arvensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Temperature & humidity sensor (AM2320)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Chlorella — Chlorella palmatum/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Temperature sensor (LM35)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Citrullus — Citrullus sibirica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Temperature sensor (TMP36)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Cucurbita — Cucurbita parviflora/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/TFT LCD display (ILI9341)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Dimocarpus — Dimocarpus rosea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal camera (MLX90640)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Diospyros — Diospyros splendens/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Encephalartos — Encephalartos orientalis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Thermal imaging camera (FLIR Lepton)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Equisetum — Equisetum divaricata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Thermistor module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Ginkgo — Ginkgo italica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Laminaria — Laminaria purpurea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Tilt ball switch/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Litchi — Litchi decora/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Tilt sensor (SW-520D)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Malus — Malus gracilis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Time-of-flight sensor (VL6180X)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Mangifera — Mangifera grandiflora/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Pisum — Pisum cerulea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Touchscreen module (TFT + touch)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Rhus — Rhus flava/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Turbidity sensor/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Mountain Solanum — Solanum officinalis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Acacia — Acacia repens/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Ultrasonic microphone (MAX9814)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Betula — Betula japonica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Carpinus — Carpinus cordata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Ultrasonic radar module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Carpinus — Carpinus hainanensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/USB host shield/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Chlorella — Chlorella nepalensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/UV light sensor (GUVA-S12SD)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Chlorella — Chlorella occidentalis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Citrullus — Citrullus viridis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Vibration sensor (SW-420)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Crataegus — Crataegus sibirica/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Vibration sensor module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Cucurbita — Cucurbita tenuifolia/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/VOC sensor (CCS811)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Cucurbita — Cucurbita variegata/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Voice recognition module (Elechouse VR3)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Dryopteris — Dryopteris gracilis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Equisetum — Equisetum alpina/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Voltage sensor module/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Equisetum — Equisetum rosea/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Water flow sensor (YF-S201)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Helianthus — Helianthus repens/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Water level sensor (YL-69)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Litchi — Litchi sinensis/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Waterproof temperature probe (DS18B20)/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Pinus — Pinus nana/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Pisum — Pisum latifolia/meta.json
+11/6/2025 08:07:18 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Weather station sensor kit/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Psidium — Psidium japonica/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/WiFi module (ESP32)/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Rhus — Rhus glauca/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Syzygium — Syzygium rotundifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/WiFi module (ESP8266)/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Taxus — Taxus arenaria/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/WS2812 RGB LED strip/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Narrowleaf Ulva — Ulva angustifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.arduino-components/store/items/Zigbee module (XBee)/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Adiantum — Adiantum decora/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Asplenium — Asplenium lanceolata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Avena — Avena argentea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Coffea — Coffea heterophylla/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Crataegus — Crataegus mexicana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Dimocarpus — Dimocarpus canadensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Dryopteris — Dryopteris repens/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Grevillea — Grevillea purpurea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Juniperus — Juniperus mexicana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Juniperus — Juniperus taiwaniana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Magnolia — Magnolia lanceolata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Malus — Malus variegata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Manilkara — Manilkara officinalis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Nephelium — Nephelium splendens/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Nicotiana — Nicotiana germanica/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Pachira — Pachira arvensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Populus — Populus latifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Protea — Protea occidentalis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Selaginella — Selaginella rotundifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Purple Tilia — Tilia maculata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Annona — Annona palmatum/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Brassica — Brassica repens/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Carpinus — Carpinus argentea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Carpinus — Carpinus rosea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Citrus — Citrus germanica/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Eucalyptus — Eucalyptus linearis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Helianthus — Helianthus elegans/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Juglans — Juglans occidentalis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Larix — Larix rosea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Litchi — Litchi formosana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Mangifera — Mangifera gigantea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Phaseolus — Phaseolus maculata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Polystichum — Polystichum officinalis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Pyrus — Pyrus palmatum/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Syzygium — Syzygium madagascariensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Taxus — Taxus virginiana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Vaccinium — Vaccinium mollis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/River Zea — Zea alpina/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Alnus — Alnus chilensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Annona — Annona taiwaniana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Betula — Betula vulgaris/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Citrus — Citrus brevifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Fagus — Fagus germanica/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Ficus — Ficus taiwaniana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Glycine — Glycine microphylla/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Lactuca — Lactuca elegans/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Oryza — Oryza arenaria/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Oryza — Oryza palmatum/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Picea — Picea mollis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Pisum — Pisum lutea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Populus — Populus elegans/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Quercus — Quercus canadensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Sargassum — Sargassum linearis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Secale — Secale longifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Taxus — Taxus ovata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Vitis — Vitis lutea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Sacred Vitis — Vitis palmatum/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Acacia — Acacia taiwaniana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Alnus — Alnus virginiana/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Beta — Beta japonica/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Brassica — Brassica latifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Brassica — Brassica orientalis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Coffea — Coffea palustris/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Dryopteris — Dryopteris tenuifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Encephalartos — Encephalartos nepalensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Fraxinus — Fraxinus divaricata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Helianthus — Helianthus argentea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Helianthus — Helianthus macrophylla/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Inga — Inga splendens/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Juglans — Juglans flava/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Mangifera — Mangifera decora/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Oryza — Oryza rosea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Persea — Persea arenaria/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Populus — Populus arvensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Prunus — Prunus longifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Rhus — Rhus maculata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Sargassum — Sargassum orientalis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Solanum — Solanum palmatum/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Silver Tilia — Tilia nepalensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Carpinus — Carpinus aurea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Crataegus — Crataegus rosea/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Dimocarpus — Dimocarpus lanceolata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Dryopteris — Dryopteris ovata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Dryopteris — Dryopteris repens/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Fagus — Fagus hainanensis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Ginkgo — Ginkgo longifolia/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Nephelium — Nephelium borealis/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Oryza — Oryza italica/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Populus — Populus lanceolata/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Pouteria — Pouteria sativa/meta.json
+11/6/2025 08:07:19 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Protea — Protea maritima/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Protea — Protea orientalis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Psidium — Psidium germanica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Smooth Ulmus — Ulmus alba/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Asplenium — Asplenium divaricata/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Brassica — Brassica alba/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Chlorella — Chlorella heterophylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Cucurbita — Cucurbita tenuifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Dimocarpus — Dimocarpus mexicana/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Encephalartos — Encephalartos nigra/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Fagus — Fagus yunnanensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Inga — Inga arvensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Lactuca — Lactuca glauca/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Lactuca — Lactuca hainanensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Lactuca — Lactuca maritima/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Magnolia — Magnolia elegans/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Magnolia — Magnolia regia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Mangifera — Mangifera brevifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Oryza — Oryza parviflora/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Persea — Persea palmatum/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Populus — Populus grandiflora/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Spotted Populus — Populus regia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Acer — Acer microphylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Cedrus — Cedrus formosana/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Cedrus — Cedrus maculata/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Encephalartos — Encephalartos microphylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Hordeum — Hordeum gracilis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Malus — Malus angustifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Nicotiana — Nicotiana polymorpha/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Pisum — Pisum parviflora/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Porphyra — Porphyra maculata/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Psidium — Psidium officinalis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Rosa — Rosa microphylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Striped Sequoia — Sequoia cerulea/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Abies — Abies longifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Adiantum — Adiantum sinensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Allium — Allium aurea/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Avena — Avena latifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Diospyros — Diospyros variegata/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Dryopteris — Dryopteris angustifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Ficus — Ficus microphylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Ginkgo — Ginkgo sinensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Laminaria — Laminaria palmatum/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Nephelium — Nephelium rosea/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Nicotiana — Nicotiana linearis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Nicotiana — Nicotiana parviflora/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Polystichum — Polystichum pumila/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Polystichum — Polystichum splendens/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Pouteria — Pouteria maculata/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Psidium — Psidium glauca/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Sequoia — Sequoia tenuifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/White Ulva — Ulva canadensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Banksia — Banksia glauca/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Banksia — Banksia latifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Beta — Beta microphylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Capsicum — Capsicum repens/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Cedrus — Cedrus microphylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Chrysophyllum — Chrysophyllum macrophylla/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Citrullus — Citrullus rubra/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Citrus — Citrus japonica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Dimocarpus — Dimocarpus rubra/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Equisetum — Equisetum pumila/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Ficus — Ficus formosana/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Glycine — Glycine orientalis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Laminaria — Laminaria decora/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Oryza — Oryza borealis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Polystichum — Polystichum germanica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Psidium — Psidium mollis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Rhus — Rhus patagonica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Wild Secale — Secale montana/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Capsicum — Capsicum formosana/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Capsicum — Capsicum polymorpha/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Daucus — Daucus robusta/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Dryopteris — Dryopteris grandiflora/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Ficus — Ficus hainanensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Ginkgo — Ginkgo longifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Helianthus — Helianthus pendula/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Hordeum — Hordeum ovata/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Hordeum — Hordeum viridis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Juniperus — Juniperus brevifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Juniperus — Juniperus sibirica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Malus — Malus chilensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Malus — Malus polymorpha/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Phaseolus — Phaseolus borealis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Pouteria — Pouteria palustris/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Protea — Protea purpurea/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Prunus — Prunus sinensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Sargassum — Sargassum longifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Solanum — Solanum repens/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Syzygium — Syzygium madagascariensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Syzygium — Syzygium patagonica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Woolly Syzygium — Syzygium sinensis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Chlorella — Chlorella tenuifolia/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Coffea — Coffea patagonica/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Fagus — Fagus viridis/meta.json
+11/6/2025 08:07:20 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Ginkgo — Ginkgo mollis/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Juniperus — Juniperus mexicana/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Litchi — Litchi arenaria/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Pisum — Pisum divaricata/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Protea — Protea polymorpha/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Pyrus — Pyrus lutea/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Rubus — Rubus alba/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Secale — Secale robusta/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Secale — Secale yunnanensis/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.plants/store/items/Yellow Syzygium — Syzygium borealis/meta.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba/attachments/Acer alba-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba 'Aurea'/attachments/Acer alba 'Aurea'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba subsp. macrophylla/attachments/Acer alba subsp. macrophylla-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba var. iberica/attachments/Acer alba var. iberica-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina 'Splendens'/attachments/Acer alpina 'Splendens'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina var. himalayana/attachments/Acer alpina var. himalayana-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia/attachments/Acer angustifolia-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia subsp. integrifolia/attachments/Acer angustifolia subsp. integrifolia-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia var. japonica/attachments/Acer angustifolia var. japonica-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis/attachments/Acer arvensis-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'/attachments/Acer arvensis 'Variegata'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca/attachments/Acer arvensis subsp. glauca-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis var. discolor/attachments/Acer arvensis var. discolor-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca/attachments/Acer glauca-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca 'Elegans'/attachments/Acer glauca 'Elegans'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca subsp. aurea/attachments/Acer glauca subsp. aurea-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca var. brevifolia/attachments/Acer glauca var. brevifolia-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora/attachments/Acer grandiflora-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'/attachments/Acer grandiflora 'Alba'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica/attachments/Acer grandiflora subsp. italica-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia/attachments/Acer grandiflora var. tenuifolia-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea/attachments/Acer lutea-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea 'Elegans'/attachments/Acer lutea 'Elegans'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea var. lutea/attachments/Acer lutea var. lutea-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima/attachments/Acer maritima-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima 'Grandiflora'/attachments/Acer maritima 'Grandiflora'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima var. aurea/attachments/Acer maritima var. aurea-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra/attachments/Acer nigra-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra 'Elegans'/attachments/Acer nigra 'Elegans'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra subsp. palustris/attachments/Acer nigra subsp. palustris-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra var. mexicana/attachments/Acer nigra var. mexicana-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis/attachments/Acer officinalis-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis 'Splendens'/attachments/Acer officinalis 'Splendens'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis subsp. nepalensis/attachments/Acer officinalis subsp. nepalensis-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis var. arvensis/attachments/Acer officinalis var. arvensis-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris/attachments/Acer palustris-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris subsp. canadensis/attachments/Acer palustris subsp. canadensis-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris var. arvensis/attachments/Acer palustris var. arvensis-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra subsp. purpurea/attachments/Acer rubra subsp. purpurea-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra var. decora/attachments/Acer rubra var. decora-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica/attachments/Acer sylvatica-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica 'Nana'/attachments/Acer sylvatica 'Nana'-facts.json
+11/6/2025 08:07:21 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica var. palustris/attachments/Acer sylvatica var. palustris-facts.json
+11/6/2025 08:09:45 Edited file Knowledge-Banks/public/pages/registry/index.html
+11/6/2025 08:09:45 Edited file Knowledge-Banks/public/assets/styles.css
+11/6/2025 08:11:43 Edited file Knowledge-Banks/public/pages/registry/index.html
+11/6/2025 08:13:12 Edited file Knowledge-Banks/public/assets/app.js
