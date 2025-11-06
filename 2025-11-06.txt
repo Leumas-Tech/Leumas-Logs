@@ -744,3 +744,70 @@
 11/6/2025 09:03:18 Edited file Servers/x.water-grass/git-worker.js
 11/6/2025 09:33:19 Edited file package.json
 11/6/2025 09:43:19 Edited file Servers
+11/6/2025 09:46:39 Edited file Knowledge-Banks/lib/data/banks.json
+11/6/2025 09:46:39 Edited file Knowledge-Banks/adapters/b.airvehicles/config.json
+11/6/2025 09:46:39 Edited file Knowledge-Banks/adapters/b.airvehicles/schema.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba 'Aurea'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba subsp. macrophylla/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alba var. iberica/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina 'Splendens'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina subsp. alba/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer alpina var. himalayana/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia 'Splendens'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia subsp. integrifolia/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer angustifolia var. japonica/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea 'Nana'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea subsp. speciosa/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer argentea var. patagonica/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis 'Variegata'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis subsp. glauca/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer arvensis var. discolor/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca 'Elegans'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca subsp. aurea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer glauca var. brevifolia/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora 'Alba'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora subsp. italica/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer grandiflora var. tenuifolia/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea 'Elegans'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea subsp. sinensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer lutea var. lutea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima 'Grandiflora'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima subsp. macrophylla/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer maritima var. aurea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra 'Elegans'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra subsp. palustris/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer nigra var. mexicana/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis 'Splendens'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis subsp. nepalensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer officinalis var. arvensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris 'Grandiflora'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris subsp. canadensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer palustris var. arvensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer purpurea var. yunnanensis/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra 'Glauca'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra subsp. purpurea/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer rubra var. decora/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica 'Nana'/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica subsp. nana/meta.json
+11/6/2025 09:53:11 Edited file Knowledge-Banks/adapters/b.airvehicles/store/items/Acer sylvatica var. palustris/meta.json
+11/6/2025 09:53:20 Edited file Servers/x.water-grass
+11/6/2025 09:53:23 Edited file Knowledge-Banks/adapters/b.animals/config.json
+11/6/2025 09:53:23 Edited file Knowledge-Banks/adapters/b.animals/store/index.json
+11/6/2025 09:53:23 Edited file Knowledge-Banks/adapters/b.animals/schema.json
+11/6/2025 09:55:46 Edited file z.Domains2
+11/6/2025 10:03:20 Edited file Servers/x.water-grass/git-worker.js
