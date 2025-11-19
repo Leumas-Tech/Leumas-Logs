@@ -270,3 +270,98 @@
 11/7/2025 19:30:49 Edited file tools/reactive-music/adapters/entropyFountainGL.js
 11/7/2025 19:30:49 Edited file tools/reactive-music/adapters/phaseSpaceCoralGL.js
 11/7/2025 19:30:49 Edited file tools/reactive-music/adapters/temporalGradientCollapseGL.js
+11/7/2025 19:34:55 Edited file tools/reactive-music/helpers
+11/7/2025 19:34:55 Edited file tools/reactive-music/scripts
+11/7/2025 19:34:55 Edited file tools/reactive-music/adapters/test_adapter
+11/7/2025 19:34:55 Edited file tools/reactive-music/scripts/templates
+11/7/2025 19:36:03 Created file tools/reactive-music/renders/Smells_Like_Teen_Spirit_1762565763530.mp4
+11/7/2025 19:36:03 Edited file tools/reactive-music/renders
+11/7/2025 19:36:06 Edited file tools/reactive-music/renders/Smells_Like_Teen_Spirit_1762565763530.mp4
+11/7/2025 19:36:18 Edited file tools/reactive-music/router.js
+11/7/2025 19:36:28 Created file tools/reactive-music/helpers/fast-renderer.js
+11/7/2025 19:36:28 Edited file tools/reactive-music/helpers
+11/7/2025 19:36:34 Edited file tools/reactive-music/renders/Smells_Like_Teen_Spirit_1762565763530.mp4
+11/7/2025 19:36:35 Edited file tools/reactive-music/helpers/fast-renderer.js
+11/7/2025 19:36:41 Created file tools/reactive-music/public/fast-render.html
+11/7/2025 19:36:41 Edited file tools/reactive-music/public
+11/7/2025 19:36:47 Created file tools/reactive-music/public/fast-render.js
+11/7/2025 19:36:47 Edited file tools/reactive-music/public
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/amplitudeManifoldGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/audioSculptGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/auroraVeilGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/bassWarpGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/chladniFieldGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/chladniResonanceSlabGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/chromaticMobiusLoopGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/chromaticPhaseFractureGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/dnaTunnelGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/fractalEntanglementLatticeGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/hexDiffractionDomeGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/hyperbolicBloomNetworkGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/hyperspaceKaleidoGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/informationRainGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/ionStormFieldGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/kaleidoInfernoGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/manifoldBloomGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/metaSymmetryGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/mindMeshGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/neoMatrixWarpGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/nonEuclideanChladniFieldGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/particleFlow.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/particleTornadoGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/probabilityFabricGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/psySpinGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/quantumBraidingNetworkGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/quantumResonatorGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredChimeGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredHarmonicsGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredLotusGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredPulseGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredResonanceGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredSigilGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sacredVibrationGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/sonicMirrorGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/spaceChladni.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/spaceChladniGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/spectralHeliosphereGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/spectrumBars.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/spiralGalaxyGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/syntheticSynesthesiaEngineGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/temporalRefractionChamberGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/thirdEyeGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/topologicalRefractionGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/triPrismCascadeGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/vectorizedEmotionFieldGL.js
+11/7/2025 19:37:48 Edited file tools/reactive-music/adapters/warpNebularGL.js
+11/7/2025 19:37:51 Edited file tools/reactive-music/helpers/fast-renderer.js
+11/7/2025 19:38:16 Edited file tools/reactive-music/frontend
+11/7/2025 19:38:53 Edited file assets
+11/7/2025 19:38:54 Edited file assets/Audio/44216^alarm.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/67560^alarma.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/86502^alarm (1).mp3
+11/7/2025 19:38:54 Edited file assets/Audio/80807^BurglarAlarm.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/BBL Drizzy.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Beat It  8D Audio.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/audio.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Believe In Me.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Believer 8D.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Better 8D.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Bohemian Rhapsody.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Boulevard Of Broken Dreams.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Ain't No Rest For The Wicked.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/Bring Me To Life.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/97744^ALARM.mp3
+11/7/2025 19:38:54 Edited file assets/Audio/86502^alarm.mp3
+11/7/2025 19:40:26 Created file tools/reactive-music/renders/fast_render_fast_1762566022266.mp4
+11/7/2025 19:40:26 Edited file tools/reactive-music/renders
+11/7/2025 19:41:27 Edited file tools/reactive-music/renders/fast_render_fast_1762566022266.mp4
+11/7/2025 19:41:56 Edited file package.json
+11/7/2025 19:43:08 Edited file tools/reactive-music/renders/fast_render_fast_1762566022266.mp4
+11/7/2025 19:45:57 Edited file NPM/leumas-middleware
+11/7/2025 19:45:57 Edited file NPM/leumas-middleware/lib/a.audio
+11/7/2025 19:45:57 Edited file NPM/leumas-middleware/lib/a.audio/frontend
+11/7/2025 19:45:57 Edited file NPM
+11/7/2025 19:45:57 Edited file NPM/leumas-middleware/lib
+11/7/2025 19:46:14 Edited file tools/reactive-music/public/fast-render.js
+11/7/2025 19:46:32 Edited file tools/reactive-music/helpers/fast-renderer.js
+11/7/2025 19:46:39 Edited file tools/reactive-music/helpers/fast-renderer.js
