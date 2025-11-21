@@ -20074,3 +20074,6 @@
 11/20/2025 18:55:21 Edited file z.Domains2/core/src/Pages/leumas.tech/LeumasLanding.jsx
 11/20/2025 18:56:27 Edited file z.Domains2/core/src/Pages/leumas.tech/LeumasLanding.jsx
 11/20/2025 18:56:35 Edited file package.json
+11/20/2025 18:59:30 Edited file z.Domains2/core/src/Pages/leumas.tech/LeumasLanding.jsx
+11/20/2025 19:00:05 Edited file z.Domains2/core/src/Pages/leumas.tech/LeumasLanding.jsx
+11/20/2025 19:00:11 Edited file z.Domains2/core/src/Pages/leumas.tech/LeumasLanding.jsx
