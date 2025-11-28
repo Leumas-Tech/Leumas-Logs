@@ -48159,3 +48159,10 @@
 11/28/2025 02:31:32 Edited file NPM/leumas-middleware/lib/a.functioncalls/functioncalls
 11/28/2025 02:33:09 Edited file NPM/leumas-middleware/lib/a.chatbots/public/chat-realtime.html
 11/28/2025 02:34:06 Edited file NPM/leumas-middleware/lib/a.chatbots/public/chat-realtime.html
+11/28/2025 02:42:34 Edited file NPM/leumas-middleware/lib/a.chatbots/server.js
+11/28/2025 02:42:44 Edited file NPM/leumas-middleware/lib/a.chatbots/server.js
+11/28/2025 02:43:00 Edited file NPM/leumas-middleware/lib/a.chatbots/public/chat-realtime.html
+11/28/2025 02:43:03 Edited file NPM/leumas-middleware/lib/a.chatbots/public/chat-realtime.html
+11/28/2025 02:43:12 Edited file NPM/leumas-middleware/lib/a.chatbots/package.json
+11/28/2025 02:44:06 Edited file tools/perspective
+11/28/2025 02:45:33 Edited file NPM/leumas-middleware/lib/a.chatbots
