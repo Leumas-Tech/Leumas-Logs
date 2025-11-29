@@ -24682,3 +24682,2145 @@
 11/29/2025 12:59:55 Edited file tools/ObjectHandDetector/mp-env/Lib
 11/29/2025 12:59:55 Edited file tools/ObjectHandDetector/mp-env/Lib/site-packages/insightface/thirdparty/face3d/mesh/cython/mesh_core.cpp
 11/29/2025 13:03:56 Edited file package.json
+11/29/2025 13:08:10 Edited file tools/reactive-music
+11/29/2025 13:08:17 Edited file tools/reactive-music/package.json
+11/29/2025 13:08:17 Edited file tools/reactive-music/server.js
+11/29/2025 13:08:18 Edited file tools/reactive-music/router.js
+11/29/2025 13:08:18 Edited file tools/reactive-music/helpers/upload-audio.js
+11/29/2025 13:08:18 Edited file tools/reactive-music/helpers
+11/29/2025 13:08:18 Edited file tools/reactive-music/helpers/fast-renderer.js
+11/29/2025 13:08:18 Edited file tools/reactive-music/helpers/tts.js
+11/29/2025 13:08:18 Edited file tools/reactive-music/helpers/audio-analysis.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/frontend
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/algorithmicMirageIIGL.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/algorithmicOceanGL.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/amplitudeManifoldGL.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/anharmonicTessellationGL.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/audioLensGL.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/audioSculptGL.js
+11/29/2025 13:08:27 Edited file tools/reactive-music/adapters/auroraRibbonSpireGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/auroraVeilGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/axisOfBalanceGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/bassWarpGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/beatCityGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/biomechPulseSpineGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/cascadingMoireTunnelGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/causalLoopBloomGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/celestialGlyphWheelGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chladniAuroraGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chladniFieldGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chladniFractalCascadeGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chladniResonanceSlabGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chromaticEntanglementGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chromaticMobiusLoopGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chromaticPhaseFractureGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/chromaticShockVeilGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/cognitiveDiffractionGridGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/colorLogicAutomatonGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/cosmicSingularityGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/crystalFieldGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/cymaticPlasmaVeilGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/cymaticVolumeGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/cymaticWaterSheetGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/dataHaloGL.js
+11/29/2025 13:08:28 Edited file tools/reactive-music/adapters/dnaTunnelGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/dualWaveGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/echoOppositionGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenfrequencySpineGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorAuroraGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorGardenGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorLatticeBloomGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorPulseVeilGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorSkyWeaveGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorWaveTrellisGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eigenvectorZenGardenGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/electricGridGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/electrostaticPebblesGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/entropyFountainGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/entropyReversalFieldGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/eventHorizonBloomGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/flashGridGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/fractalEmberBloomGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/fractalEntanglementLatticeGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/fractalFeedbackGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/fractalNebulaGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/fractalPolarBloomGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/frequencyShellResonatorGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/frequencyWormholeBloomGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/frequencyWormholeCascadeGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/frequencyWormholeGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/frequencyWormholeHelixGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/geodesicBloomShellGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/harmonicFluidGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/harmonicHyperTorusGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/harmonicOrigamiFieldGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/helicalResonanceColumnGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/heliosphereFluxGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/hexDiffractionDomeGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/hyperBloomLatticeGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/hyperbolicBloomNetworkGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/hyperbolicLaceGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/hyperspaceKaleidoGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/infiniteHarmonicCorridorGL.js
+11/29/2025 13:08:29 Edited file tools/reactive-music/adapters/informationPlasmaGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/informationRainGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/ionStormFieldGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/kaleidoInfernoGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/laserGridGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/luminiferousWebGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/magneticFluxTubesGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/manifoldBloomGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/metaSymmetryGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/mindMeshGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/multiversalChimeArrayGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/myceliumPulseNetGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/neoMatrixWarpGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/neonLissajousWebGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/neonPulseMatrixGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/nonEuclideanChladniFieldGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/particleChorusGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/particleFlow.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/particleTornadoGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/perceptualMoireEngineGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseLockedSpectrumWebGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseRibbonArrayGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseRibbonBloomGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseRibbonCascadeGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseRibbonHelixGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseShiftMoireGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phaseSpaceCoralGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phospheneCathedralGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/phyllotaxisPulseGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/planarHarmonicMirrorGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/polarHarmonicBurstGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/positiveNegativeSpaceGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/prismaticLensWarpGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/probabilityFabricGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/probabilityGardenGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/psySpinGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/pulseCathedralGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/quantumBraidingNetworkGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/quantumHarmonicCloudGL.js
+11/29/2025 13:08:30 Edited file tools/reactive-music/adapters/quantumKaleidosphereGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/quantumMatrixSurgeGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/quantumResonatorGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/quantumSprayDomeGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/quantumVortexGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/radialResonanceBloomGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/rectilinearNodeMatrixGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/recursiveFourierBloomGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/recursiveSpectrumEngineGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/resonantMeshGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/resonantVortexRingGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredBloomGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredChimeGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsAuroraGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsFlareGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsFluxGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsHaloGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsMirageGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsNovaGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsPrismGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHarmonicsPulseGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredHelixGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredInterfereGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredLotusGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredMirrorGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredPulseGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredResonanceGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredSigilGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sacredVibrationGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/shadowMirrorGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/solarLunarGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sonicDNAGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/sonicMirrorGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spaceChladni.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spaceChladniGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spectralBlackbodyBloomGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spectralBubbleSwarmGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spectralCompressionFieldGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spectralFeedbackGardenGL.js
+11/29/2025 13:08:31 Edited file tools/reactive-music/adapters/spectralFeedbackOrganismGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spectralHeliosphereGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spectralOrbitsGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spectralRefractionFogGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spectralTopologyGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spectrumBars.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spiralGalaxyGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/spiralInterferenceVortexGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/standingWaveCubeGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/syntheticSynesthesiaEngineGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/temporalGradientCollapseGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/temporalOrigamiGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/temporalPolarizationFieldGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/temporalRefractionChamberGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/teslaBloomGridGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/thirdEyeGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/topologicalRefractionBloomGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/topologicalRefractionGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/topologicalRefractionNovaGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/topologicalRefractionPrismGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/topologyResonatorGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/topoWaveMeshGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/toroidalStandingWaveGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/triPrismCascadeGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vectorFieldResonanceGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vectorizedEmotionBloomGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vectorizedEmotionFieldGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vectorizedEmotionFluxGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vectorizedEmotionPulseGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vibratingFieldGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/vorticityFlowMapGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/voxelPulseCityGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/warpNebularGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/waveformSingularityGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/yinYangFlowGL.js
+11/29/2025 13:08:32 Edited file tools/reactive-music/adapters/yinYangWavePlateGL.js
+11/29/2025 13:08:35 Edited file tools/reactive-music/public/adapter-preview.html
+11/29/2025 13:08:35 Edited file tools/reactive-music/public
+11/29/2025 13:10:07 Edited file atlas/package.json
+11/29/2025 13:10:07 Edited file atlas
+11/29/2025 13:10:07 Edited file Servers/x.8D/package.json
+11/29/2025 13:10:07 Edited file Servers/x.8D
+11/29/2025 13:10:07 Edited file Servers/x.admin-server/package.json
+11/29/2025 13:10:07 Edited file Servers/x.admin-server
+11/29/2025 13:10:07 Edited file Servers/x.ai-model-construction/package.json
+11/29/2025 13:10:07 Edited file Servers/x.ai-model-construction
+11/29/2025 13:10:07 Edited file Servers/x.backup-manager/package.json
+11/29/2025 13:10:07 Edited file Servers/x.backup-manager
+11/29/2025 13:10:07 Edited file Servers/x.email-server/package.json
+11/29/2025 13:10:07 Edited file Servers/x.email-server
+11/29/2025 13:10:07 Edited file Servers/x.fine-tune-server/package.json
+11/29/2025 13:10:07 Edited file Servers/x.fine-tune-server
+11/29/2025 13:10:07 Edited file Servers/x.function-calling-gpt-server/package.json
+11/29/2025 13:10:07 Edited file Servers/x.function-calling-gpt-server
+11/29/2025 13:10:07 Edited file Servers/x.leumas-collaborate-engine/package.json
+11/29/2025 13:10:07 Edited file Servers/x.leumas-collaborate-engine
+11/29/2025 13:10:07 Edited file Servers/x.Leviathan/package.json
+11/29/2025 13:10:07 Edited file Servers/x.Leviathan
+11/29/2025 13:10:07 Edited file Servers/x.list-node-JS-servers/package.json
+11/29/2025 13:10:07 Edited file Servers/x.list-node-JS-servers
+11/29/2025 13:10:07 Edited file Servers/x.LLM/package.json
+11/29/2025 13:10:07 Edited file Servers/x.LLM
+11/29/2025 13:10:07 Edited file Servers/x.LMS-DNS/package.json
+11/29/2025 13:10:07 Edited file Servers/x.LMS-DNS
+11/29/2025 13:10:07 Edited file Servers/x.quantum-data-sync/package.json
+11/29/2025 13:10:07 Edited file Servers/x.quantum-data-sync
+11/29/2025 13:10:07 Edited file Servers/x.radio/package.json
+11/29/2025 13:10:07 Edited file Servers/x.radio
+11/29/2025 13:10:07 Edited file Servers/z.encryption-server/package.json
+11/29/2025 13:10:07 Edited file Servers/z.encryption-server
+11/29/2025 13:10:07 Edited file Listeners/Claire/package.json
+11/29/2025 13:10:07 Edited file Listeners
+11/29/2025 13:10:07 Edited file Listeners/Claire
+11/29/2025 13:10:07 Edited file Listeners/CustomComandLiners/package.json
+11/29/2025 13:10:07 Edited file Listeners/CustomComandLiners
+11/29/2025 13:10:09 Edited file tools/reactive-music/frontend/package.json
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/vite.config.js
+11/29/2025 13:10:10 Created file tools/reactive-music/frontend/vite.config.js.timestamp-1764443410661-e7974c9dcaa06.mjs
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/src
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/package-lock.json
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/src/components
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/src/context
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/src/legacy
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/src/pages
+11/29/2025 13:10:10 Edited file tools/reactive-music/frontend/src/styles
+11/29/2025 13:10:13 Edited file tools/reactive-music/frontend/index.html
+11/29/2025 13:10:13 Edited file tools/reactive-music/frontend/src/main.jsx
+11/29/2025 13:10:19 Edited file tools/reactive-music/frontend/src/context/AuthContext.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/App.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/styles/global.css
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/components/Header.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/LegacyPage.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/routes.js
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/Adapters.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/Renders.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/RenderStudio.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/AdapterDetail.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/ReactiveMic.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/Clusters.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/pages/TextToVideo.jsx
+11/29/2025 13:10:20 Edited file tools/reactive-music/frontend/src/legacy/app.js
+11/29/2025 13:10:48 Edited file tools/reactive-music/providers/tts
+11/29/2025 13:10:48 Edited file tools/reactive-music/providers
+11/29/2025 13:10:48 Edited file tools/reactive-music/providers/tts/demoSineProvider.js
+11/29/2025 13:10:48 Edited file tools/reactive-music/providers/tts/googleTranslateProvider.js
+11/29/2025 13:10:48 Edited file tools/reactive-music/providers/tts/sayProvider.js
+11/29/2025 13:10:48 Edited file tools/reactive-music/providers/tts/voicevoxProvider.js
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders/86502^alarm_1762609046318.mp4
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders/44216^alarm_1762608867938.mp4
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders/67560^alarma_1762608979344.mp4
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders/67560^alarma_1762608807506.mp4
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders/Believe-In-Me_1762608760882.mp4
+11/29/2025 13:11:08 Edited file tools/reactive-music/renders/BBL_Drizzy_1762608267951.mp4
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates
+11/29/2025 13:11:46 Edited file Arduino/DashButtons/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino
+11/29/2025 13:11:46 Edited file Arduino/DashButtons
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Keyboard-Macros/Keyboard Function Templates
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Dash Buttons/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Arduino_Face_Tracking_Esp32
+11/29/2025 13:11:46 Edited file Arduino/Keyboards
+11/29/2025 13:11:46 Edited file Arduino/arduino_project_LED_code
+11/29/2025 13:11:46 Edited file Arduino/ArduinoDesktopReceiverOledv2
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Keyboard-Macros
+11/29/2025 13:11:46 Edited file Arduino/ArduinoPokemonLiveStreamKeyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Dash Buttons
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/desktop.ini
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/Goliath
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/SatansRubberDucky/badusb_interpreter
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Dash Buttons/Bluetooth Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/IRDesktopReceiverTemplates/Arduino_Desktop_Receiver_Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Arduino-Keyboard-Macros/Keyboard Function Templates
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/MacroKeyboards/1 Key Macro Keyboard Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/MacroKeyboards/1 Key Macro Keyboard Dash Button/Arduino_Macro_Keyboard_Dash_Button_Code
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/MacroKeyboards/2-12 Key Macro Keyboard/2-12_Key_Macro_Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Arduino-Keyboard-Macros
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Joystick Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/MacroKeyboards
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/OLED Macro Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/OLED Macro Keyboards/2-10_Key_SSD1306_Macro_Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard/Rotary_Encoder_Basic_Strings_Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/RotaryEncoder IR Transmitter/RotaryEncoder-IR-Transmitter-Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/badusb_interpreter
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/DogCollar
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/ESPDeviceTemplate
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/EspMicSpeaker
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/IRDesktopReceiverTemplates
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Arduino IR Decoder
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Pan Tilt/Joystick Laser Turret
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/LMSZero
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/SatansRubberDucky
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Circuit
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/SatansRubberDucky/images
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/SatansRubberDucky/wifidiscord
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Arduino/SatansRubberDucky/wifidiscord2
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Dash Buttons/ESP Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Dash Buttons/IR Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Dash Buttons/Sound Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data/web
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data/web/js
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/IRDesktopReceiverTemplates/ArduinoDesktopReceiverOledv2
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/Adafruit_DotStar-1.1.4
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/MacroKeyboards/2-12 Key Macro Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton/Buttons
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/old_web_converter
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/web_converter/css_html_js_minify
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface/js
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/DECODER-TOOL
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/DECODER-TOOL/IRDecoder
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/Desktop IR Receiver Template/Arduino_Desktop_Receiver_Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/DesktopIrReceiver Personal/DesktopIrReceiver
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/GodsHexRemote
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/IR Remotes/IR Remote Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/IR Remotes/IR Remote Template/Arduino_Programmable_IR_Remote_Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/OLED Macro Keyboards/macroOledKeyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/NRF Remotes/Arduino NRF Joystick Remote Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/Rotary_Encoder_Dash_Button_Keyboard_Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/RotaryEncoder IR Transmitter
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/SDadapterKeyboardRotaryEncoder
+11/29/2025 13:11:46 Edited file Arduino/ArduinoTouchscreen
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard/RotaryEncoder DashButton Template
+11/29/2025 13:11:46 Edited file Arduino/Base8/adapters
+11/29/2025 13:11:46 Edited file Arduino/Base8/configs/default
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord2
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/macroOledKeyboard
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/ReactESPTemplate
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/SmartGlasses2
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/SmartGlassex
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/SmartLightReactESPTemplate
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Speaker
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Arduino NRF Tripwire Node Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Arduino Tripwire Alarm Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Click Push Button Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Crypto Display ESP8266 Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Leumas High Power Laser Rifle Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Leumas Variable Battery Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Pan Tilt
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Portable Arduino Project Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Portable Power Supply Breadboard Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Programmable IR Watch Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Project Notebook Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Tazer Gloves Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Pan Tilt/Pan Tilt Laser Turret Template
+11/29/2025 13:11:46 Edited file Arduino/Blink/Blink
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code
+11/29/2025 13:11:46 Edited file Arduino/Boilerplates/IRSignals
+11/29/2025 13:11:46 Edited file Arduino/DashButtons/Bluetooth Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/Reset_Sketch
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface
+11/29/2025 13:11:46 Edited file Arduino/Desktop_Receiver/frontend
+11/29/2025 13:11:46 Edited file Arduino/Desktop_Receiver/frontend/configs
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data/web/lang
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/Adafruit_NeoPixel-1.7.0
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/ArduinoJson-v5.13.5
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/DS3231-1.0.3
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/esp8266-oled-ssd1306-4.1.0
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/my92xx-3.0.3
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton/Events
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton/libs
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/vendor_list_updater
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/web_converter
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Other/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface/lang
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/Desktop IR Receiver Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/DesktopIrReceiver Personal
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Receivers/Pan Tilt NRF Laser Template
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/Infinity_NRF_Joystick
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/IR Remotes
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/NRF Remotes
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/IR Remotes/IR Rotary Encoder
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/IR Remotes/IR Watch
+11/29/2025 13:11:46 Edited file Arduino/Arduino-Templates/Remotes/NRF Remotes/Infinity NRF Remote
+11/29/2025 13:11:46 Edited file Arduino/backups
+11/29/2025 13:11:46 Edited file Arduino/Base8
+11/29/2025 13:11:46 Edited file Arduino/Blink
+11/29/2025 13:11:46 Edited file Arduino/Bluetooth Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Boilerplates
+11/29/2025 13:11:46 Edited file Arduino/Burning_Laser_Engraver_Watch
+11/29/2025 13:11:46 Edited file Arduino/CameraWebServer
+11/29/2025 13:11:46 Edited file Arduino/CameraWebServer2
+11/29/2025 13:11:46 Edited file Arduino/cellphone_code
+11/29/2025 13:11:46 Edited file Arduino/cim800L_tutorial_code
+11/29/2025 13:11:46 Edited file Arduino/CNC-Plotter
+11/29/2025 13:11:46 Edited file Arduino/Control_Pin_13_Through_Serial_Monitor
+11/29/2025 13:11:46 Edited file Arduino/Desktop_Receiver
+11/29/2025 13:11:46 Edited file Arduino/Base8/configs
+11/29/2025 13:11:46 Edited file Arduino/Base8/public
+11/29/2025 13:11:46 Edited file Arduino/Blink/Coursera_Week_3_C_Promgramming__blink_Sketch_
+11/29/2025 13:11:46 Edited file Arduino/Blink/Fibonacci_Sequence_Arduino_Sketch
+11/29/2025 13:11:46 Edited file Arduino/Blink/sketch_mar11b
+11/29/2025 13:11:46 Edited file Arduino/DashButtons/ESP Dash Button
+11/29/2025 13:11:46 Edited file Arduino/DashButtons/IR Dash Button
+11/29/2025 13:11:46 Edited file Arduino/DashButtons/Sound Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Desktop_Receiver/frontend/public
+11/29/2025 13:11:46 Edited file Arduino/Documentations
+11/29/2025 13:11:46 Edited file Arduino/FaceTrackingLaser/laser_ino
+11/29/2025 13:11:46 Edited file Arduino/ESP Dash Button
+11/29/2025 13:11:46 Edited file Arduino/FaceTrackingLaser
+11/29/2025 13:11:46 Edited file Arduino/FaceTrackingLaser/public
+11/29/2025 13:11:46 Edited file Arduino/fingerprint-scanner
+11/29/2025 13:11:46 Edited file Arduino/fingerprint-scanner/leumas-fingerprint
+11/29/2025 13:11:46 Edited file Arduino/FaceTrackingLaser/seeduino
+11/29/2025 13:11:46 Edited file Arduino/fingerprint-scanner/scanner
+11/29/2025 13:11:46 Edited file Arduino/fingerprint-scanner/server
+11/29/2025 13:11:46 Edited file Arduino/fingerprint-scanner/server/public
+11/29/2025 13:11:46 Edited file Arduino/Functions
+11/29/2025 13:11:46 Edited file Arduino/Functions/16x2LCD
+11/29/2025 13:11:46 Edited file Arduino/Functions/ESP/ESP32
+11/29/2025 13:11:46 Edited file Arduino/Functions/RFID/CardReader
+11/29/2025 13:11:46 Edited file Arduino/GamingKeyboard
+11/29/2025 13:11:46 Edited file Arduino/GamingKeyboard/Version-2
+11/29/2025 13:11:46 Edited file Arduino/Functions/ESP
+11/29/2025 13:11:46 Edited file Arduino/Functions/KeyboardLibrary
+11/29/2025 13:11:46 Edited file Arduino/Functions/RFID
+11/29/2025 13:11:46 Edited file Arduino/Functions/RTCModule
+11/29/2025 13:11:46 Edited file Arduino/Functions/SDCardAdapter
+11/29/2025 13:11:46 Edited file Arduino/Functions/SerialPortDevices
+11/29/2025 13:11:46 Edited file Arduino/Functions/SSD13606
+11/29/2025 13:11:46 Edited file Arduino/Functions/ESP/PersonalCameraWebServerTemplate
+11/29/2025 13:11:46 Edited file Arduino/Functions/RFID/ESPRFIDBlankCardReader
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Arduino-Keyboard-Macros
+11/29/2025 13:11:46 Edited file Arduino/GPS
+11/29/2025 13:11:46 Edited file Arduino/hello_ChatGPT
+11/29/2025 13:11:46 Edited file Arduino/html
+11/29/2025 13:11:46 Edited file Arduino/IR Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Arduino-Keyboard-Macros/Keyboard Function Templates
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/MacroKeyboards/1 Key Macro Keyboard Dash Button
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/MacroKeyboards/1 Key Macro Keyboard Dash Button/Arduino_Macro_Keyboard_Dash_Button_Code
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/MacroKeyboards/2-12 Key Macro Keyboard/2-12_Key_Macro_Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/OLED Macro Keyboards/2-10 Key SSD1306 Macro Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard/Rotary_Encoder_Basic_Strings_Template
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/RotaryEncoder IR Transmitter/RotaryEncoder-IR-Transmitter-Template
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/badusb_interpreter
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire1/LaserTripwire
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire2/backend
+11/29/2025 13:11:46 Edited file Arduino/LeumasGlassUpgraded/data
+11/29/2025 13:11:46 Edited file Arduino/Leumas-Keyboarder/b.keyboard-macros
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Joystick Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/MacroKeyboards
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/OLED Macro Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Self Executeable Keyboards
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire1
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire2
+11/29/2025 13:11:46 Edited file Arduino/LCD_ultrasonic
+11/29/2025 13:11:46 Edited file Arduino/LeumasAssistant
+11/29/2025 13:11:46 Edited file Arduino/LeumasFaceTrackingGun
+11/29/2025 13:11:46 Edited file Arduino/LeumasGlass
+11/29/2025 13:11:46 Edited file Arduino/LeumasGlassUpgraded
+11/29/2025 13:11:46 Edited file Arduino/Leumas-Keyboarder
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Arduino-Keyboard-Macros/Keyboard Library Macros
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/MacroKeyboards/2-12 Key Macro Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/OLED Macro Keyboards/2-10_Key_SSD1306_Macro_Keyboard
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/Rotary_Encoder_Dash_Button_Keyboard_Template
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/RotaryEncoder IR Transmitter
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/SDadapterKeyboardRotaryEncoder
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Rotary Encoder Keyboards/Rotary Encoder Dash Button Keyboard/RotaryEncoder DashButton Template
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord
+11/29/2025 13:11:46 Edited file Arduino/Keyboards/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord2
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire1/Tripwire
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire2/esp_v1
+11/29/2025 13:11:46 Edited file Arduino/LaserTripwire2/esp_v2
+11/29/2025 13:11:46 Edited file Arduino/Leumas-Keyboarder/NodeJSKeyboardExecuter
+11/29/2025 13:11:46 Edited file Arduino/LeumasTouch
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO
+11/29/2025 13:11:46 Edited file Arduino/Leumas-Keyboarder/public
+11/29/2025 13:11:46 Edited file Arduino/libraries
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/i2c_address_detect
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Feather_OLED
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Feather_OLED/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Feather_OLED/examples/battery
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/i2c_readwrite
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/i2c_registers
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/i2corspi_register
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/spi_modetest
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/spi_readwrite
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/spi_register_bits
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_BusIO/examples/spi_registers
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_GFX_Library/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_GFX_Library/examples/GFXcanvas
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_GFX_Library
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/examples/SdFat_datalogging
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Feather_OLED/examples/battery_SH110X
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Keypad/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Keypad/examples/keypad_generic
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LC709203F/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LC709203F/examples/LC709203F_demo
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/Autoscroll
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/SerialDisplay/html
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/SerialDisplay/html/search
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/buttoncycler
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_GFX_Library/fontconvert
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_GFX_Library/Fonts
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_GFX_Library/examples/mock_ili9341
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Keypad
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LC709203F
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X/examples/OLED_featherwing
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X/examples/OLED_QTPY_SH1106/SH1106_128x64_i2c_QTPY
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/src
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/examples/SdFat_format
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/examples/SdFat_OpenNext
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/examples/SdFat_print_file
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_InternalFlash/examples/SdFat_ReadWrite
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/examples/OLED_featherwing
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-1.1.5/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-1.1.5/examples/touchscreendemo
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Keypad/examples/keypad_test
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Keypad/examples/Ortho5x6Demo
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Keypad/examples/trellis_keypad_test
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-master/examples/touchscreendemo
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Unified_Sensor/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Unified_Sensor/examples/sensortest
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/utility
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/Blink
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/Cursor
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/Display
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/HelloWorld
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/HelloWorld_i2c
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/HelloWorld_SPI
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/Scroll
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/SerialDisplay
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/setCursor
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_LiquidCrystal/examples/TextDirection
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry/BlackBerry7
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry/BlackBerry7/.settings
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry/BlackBerry7/res/img
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry/BlackBerry7/src/mypackage
+11/29/2025 13:11:46 Edited file Arduino/libraries/AnalogKeypad/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/AnalogKeypad/examples/analogKeypad
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/docs
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/docs/assets
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Central
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Central/LedControl
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/Advertising
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/Advertising/EnhancedAdvertising
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/external
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/external/catch
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/external/catch/v2.12.1
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/external/catch/v2.12.1/include
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/include/test_advertising_data
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/src/test_advertising_data
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/RGBWstrandtest
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/simple
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/simple_new_operator
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/strandtest
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/strandtest_nodelay
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/strandtest_wheel
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/StrandtestArduinoBLE
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/StrandtestArduinoBLECallback
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/StrandtestBLE
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_NeoPixel/examples/StrandtestBLE_nodelay
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/src/local
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduino-display-lcdkeypad/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduino-display-lcdkeypad/examples/lcdkeypad_up_down_change_backlight
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/BasicAuthGet
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-1.1.5
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_Unified_Sensor
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/AnalogKeypad
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduino-display-lcdkeypad
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/Arduino-IRremote-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X/examples/OLED_QTPY_SH1106
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X/examples/SH1107_128x128
+11/29/2025 13:11:46 Edited file Arduino/libraries/Arduino-IRremote-master/examples/AiwaRCT501SendDemo
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SH110X/examples/OLED_QTPY_SH1106/SH1106_128x64_SPi_QTPY
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/scripts
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/examples/ssd1306_128x32_i2c
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/examples/ssd1306_128x32_spi
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/examples/ssd1306_128x64_i2c
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_SSD1306/examples/ssd1306_128x64_spi
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-1.1.5/examples/touchscreendemoshield
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit_TouchScreen-master/examples/touchscreendemoshield
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/ArcadeStickExample
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/src/DynamicHID
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/examples/JsonConfigFile
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/ci
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/ci/espidf
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/ci/espidf/main
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/fuzzing/json_corpus
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/particle/src
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/scripts/wandbox
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/iso14443a_uid
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/iso14443as_target
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/mifareclassic_formatndef
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/mifareclassic_memdump
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/mifareclassic_ndeftoclassic
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/mifareclassic_updatendef
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/ntag2xx_erase
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/ntag2xx_read
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/ntag2xx_updatendef
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/readMifare
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/readMifareClassic
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/readMifareClassicIrq
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/tests/catch
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/extras/tests/Helpers/api
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry/BlackBerry7/res
+11/29/2025 13:11:46 Edited file Arduino/libraries/Adafruit-PN532-master/examples/apduToBlackBerry/BlackBerry7/src
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Array
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Deserialization/Readers
+11/29/2025 13:11:46 Edited file Arduino/libraries/AnalogKeypad/test
+11/29/2025 13:11:46 Edited file Arduino/libraries/AnalogKeypad/examples/analogKeypad_values
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Polyfills/mpl
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/src
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Serialization/Writers
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Strings/Adapters
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoNvs-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Central/PeripheralExplorer
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Central/Scan
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Central/ScanCallback
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Central/SensorTagButton
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets/examples/Esp32-Client
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/BatteryMonitor
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/ButtonLED
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/CallbackLED
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/EncryptedBatteryMonitor
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/LED
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/examples/Peripheral/Advertising/RawDataAdvertising
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/include
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/src
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/internals
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/internals/wscrypto
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network/esp32
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/examples/avr
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/examples/avr/WebSocketClientAVR
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp32/WebSocketClient
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/include/test_discovered_device
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/include/util
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClient
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientOTA/python_ota_server
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/src/test_discovered_device
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/src/test_uuid
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/extras/test/src/util
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/examples/particle/ParticleWebSocketClient
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/src/libb64
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master/tests/webSocketServer
+11/29/2025 13:11:46 Edited file Arduino/libraries/BareBoneSim800/config
+11/29/2025 13:11:46 Edited file Arduino/libraries/BareBoneSim800/examples/CheckingNewSMS
+11/29/2025 13:11:46 Edited file Arduino/libraries/ChatGPT_Client/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ChatGPT_Client/examples/Arduino_BearSSLExample
+11/29/2025 13:11:46 Edited file Arduino/libraries/ChatGPTuino/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ChatGPTuino/examples/hello_ChatGPT
+11/29/2025 13:11:46 Edited file Arduino/libraries/CoinMarketCapApi/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/src/remote
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoBLE/src/utility
+11/29/2025 13:11:46 Edited file Arduino/libraries/CoinMarketCapApi/examples/ESP32
+11/29/2025 13:11:46 Edited file Arduino/libraries/CoinMarketCapApi/examples/ESP32/GetTickerInfo
+11/29/2025 13:11:46 Edited file Arduino/libraries/CoinMarketCapApi/examples/ESP8266/GetTickerInfo
+11/29/2025 13:11:46 Edited file Arduino/libraries/CoinMarketCapApi/scripts/travis
+11/29/2025 13:11:46 Edited file Arduino/libraries/DHT_sensor_library/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/DHT_sensor_library/examples/DHT_Unified_Sensor
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/src
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP32-BLE-Keyboard-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP32-BLE-Keyboard-master/examples/SendKeyStrokes
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/CustomHeader
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/DweetGet
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/DweetPost
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/HueBlink
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/node_test_server
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/PostWithHeaders
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/SimpleDelete
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/SimpleGet
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/SimpleHttpExample
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/SimplePost
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/SimplePut
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoHttpClient-master/examples/SimpleWebSocket
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP32Servo-master/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP32Servo-master/examples/analogWriteExample
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306ClockDemo
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/MixerSample
+11/29/2025 13:11:46 Edited file Arduino/libraries/Arduino-IRremote-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJoystickLibrary-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoJson
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoNvs-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/ArduinoWebsockets
+11/29/2025 13:11:46 Edited file Arduino/libraries/arduinoWebSockets-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/BareBoneSim800
+11/29/2025 13:11:46 Edited file Arduino/libraries/ChatGPT_Client
+11/29/2025 13:11:46 Edited file Arduino/libraries/ChatGPTuino
+11/29/2025 13:11:46 Edited file Arduino/libraries/CoinMarketCapApi
+11/29/2025 13:11:46 Edited file Arduino/libraries/DHT_sensor_library
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP32-BLE-Keyboard-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP32Servo-master
+11/29/2025 13:11:46 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMIDIFromLittleFS/data
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRrecord
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRrecvDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRrecvDump
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRrecvDumpV2
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRrelay
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRremoteInfo
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRsendDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRsendRawDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRtest
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/IRtest2
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/JVCPanasonicSendDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/LegoPowerFunctionsSendDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/LegoPowerFunctionsTests
+11/29/2025 13:11:47 Edited file Arduino/libraries/Arduino-IRremote-master/examples/LGACSendDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMIDIFromSPIFFS/data
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMP3FromSPIFFS/data
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayOpusFromSPIFFS/data
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/driver
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/DrivingControllerTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/FlightControllerTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/FunduinoJoystickShield
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/GamepadExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/HatSwitchTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/JoystickButton
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/JoystickKeyboard
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/JoystickTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJoystickLibrary-master/examples/MultipleJoystickTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libflac/FLAC
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/JsonFilterExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/JsonGeneratorExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/JsonHttpClient
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/JsonParserExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/JsonServer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/JsonUdpBeacon
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/MsgPackParser
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/ProgmemExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/examples/StringExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libogg/ogg
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/conf_test
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/fuzzing
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/particle
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/scripts
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libopus/celt
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libopus/silk/fixed
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/fuzzing/json_seed_corpus
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/fuzzing/msgpack_corpus
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/fuzzing/msgpack_seed_corpus
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/tests/host
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266wifi-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266wifi-master/examples/SerialESP8266_library_test
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/AdvancedWebServer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/FSBrowser/data
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/SDWebServer/SdRoot
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/SDWebServer/SdRoot/edit
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/src/detail
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/examples/FirebaseSerialHost_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/hardware/firethings
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/hardware/firethings/firethings-kicad-libs
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/Cpp11
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/Cpp17
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/Cpp20
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/FailingBuilds
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/Helpers
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/IntegrationTests
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/JsonArray
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/JsonDeserializer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/JsonDocument
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/JsonObject
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/JsonSerializer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/JsonVariant
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/MemoryPool
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/Misc
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/MixedConfiguration
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/MsgPackDeserializer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/MsgPackSerializer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/Numbers
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/extras/tests/TextFormatter
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/hardware/firethings/ft1.3/fab
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Collection
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Deserialization
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Document
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Json
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Memory
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Misc
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/MsgPack
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Numbers
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Object
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Polyfills
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Serialization
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Strings
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/StringStorage
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Variant
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/src/modem
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/src/modem/db
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/test/arduino-mock
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoJson/src/ArduinoJson/Polyfills/type_traits
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/docs/read_the_docs
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples/FirebaseCloudMessaging_Send_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples/FirebaseNeoPixel_ESP8266/public
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlashStorage-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlashStorage-master/examples/EmulateEEPROM
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlexiTimer2/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlexiTimer2/examples/FlashLed
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Default
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Default/Remote
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/Action
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoNvs-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyAction/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyRemote/Remote
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyRemoteChannel/Remote
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifySpeed/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyWiFi/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyWiFiChannel/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Test/Remote
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Consumer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/travis
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard/AlternateLanguageLayout
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Esp32-Server
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Esp8266-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Esp8266-Server
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Minimal-Esp32-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Minimal-Esp8266-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/MultipleClients-Teensy41-Server
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Secured-Esp32-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Secured-Esp8266-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/SecuredTwoWay-Esp8266-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/SocketAndHttp-Teensy41-Server
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Teensy41-Client
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/examples/Teensy41-Server
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Mouse/AbsoluteMouse
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/RawHID/KeyboardFeatureReport
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/extras/rawhid
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/src/HID-APIs
+11/29/2025 13:11:47 Edited file Arduino/libraries/HttpClient-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/HttpClient-master/examples/SimpleHttpExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/AllProtocols
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/src/private
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network/esp8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network/generic_esp
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network/linux
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network/teensy41
+11/29/2025 13:11:47 Edited file Arduino/libraries/ArduinoWebsockets/src/tiny_websockets/network/windows
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/tests
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/travis
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp32
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/Nginx
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/particle
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp32/WebSocketClientSocketIOack
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp32/WebSocketClientSSL
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp32/WebSocketServer
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientOTA
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientSocketIO
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientSocketIOack
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientSSL
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientSSLWithCA
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientStomp
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketClientStompOverSockJs
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketServer
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketServer_LEDcontrol
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketServerAllFunctionsDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketServerFragmentation
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketServerHooked
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/examples/esp8266_pico/WebSocketServerHttpHeaderValidation
+11/29/2025 13:11:47 Edited file Arduino/libraries/arduinoWebSockets-master/src/libsha1
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/getTime_Location
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/httpClient
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/httpClientwithUserName
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/PubNub_Post
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/ReadBatteryLevel
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/ReceiveSMS
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/SendSMS
+11/29/2025 13:11:47 Edited file Arduino/libraries/BareBoneSim800/examples/SleepMode
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPT_Client/misc
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPT_Client/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPT_Client/examples/ESP32_WiFiClientSecure
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPT_Client/examples/ESP8266_WiFiClientSecureBearSSL
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPTuino/tests
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPTuino/examples/pirate_ChatGPT
+11/29/2025 13:11:47 Edited file Arduino/libraries/ChatGPTuino/examples/serial_ChatGPT_terminal
+11/29/2025 13:11:47 Edited file Arduino/libraries/CoinMarketCapApi/lib
+11/29/2025 13:11:47 Edited file Arduino/libraries/CoinMarketCapApi/scripts
+11/29/2025 13:11:47 Edited file Arduino/libraries/CoinMarketCapApi/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/CoinMarketCapApi/examples/ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/DHT_sensor_library/examples/DHTtester
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP32Servo-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP32Servo-master/examples/Knob
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP32Servo-master/examples/Multiple-Servo-Example-Arduino
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP32Servo-master/examples/PWMExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP32Servo-master/examples/Sweep
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP32Servo-master/examples/ToneExample
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/resources
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306DrawingDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306OTADemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306ScrollVerticalDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306SimpleDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306TwoScreenDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays/examples/SSD1306UiDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/tests
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayAACFromPROGMEM
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayFLACFromPROGMEMToDAC
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayFLAC-SD-SPDIF
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMIDIFromLittleFS
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMIDIFromSPIFFS
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMODFromPROGMEMToDAC
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMP3FromSPIFFS
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayMP3ToSPDIF
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayOpusFromSPIFFS
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayRTTTLToI2SDAC
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayWAVFromFunction
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/PlayWAVFromPROGMEM
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/StreamMP3FromHTTP
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/StreamMP3FromHTTP_SPIRAM
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/StreamMP3FromHTTPToSPDIF
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/StreamOnHost
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/TalkingClockI2S
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/examples/WebRadio
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266wifi-master
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlashStorage-master
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlexiTimer2
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project
+11/29/2025 13:11:47 Edited file Arduino/libraries/HttpClient-master
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremoteESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libflac
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libhelix-aac
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libhelix-mp3
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libmad
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libogg
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libopus
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libtinysoundfont
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/opusfile
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libflac/private
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libflac/protected
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libflac/share
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266Audio-1.9.7/src/libopus/silk
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESP8266wifi-master/examples/SerialESP8266_tcp_cli
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/FSBrowser
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/HelloServer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/HttpBasicAuth
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/SDWebServer
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/SimpleAuthentification
+11/29/2025 13:11:47 Edited file Arduino/libraries/ESPWebServer-master/examples/WebUpdate
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/docs
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/hardware
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/test
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/examples/FirebaseSerialTerminal_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/examples/Firething_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/hardware/firethings/ft1.3
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/src/thing
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/test/dummies
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/test/googletest
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/test/modem
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/contrib/test/travis
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples/FirebaseDemo_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples/FirebaseNeoPixel_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples/FirebaseRoom_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/firebase-arduino-master/examples/FirebaseStream_ESP8266
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlashStorage-master/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlashStorage-master/examples/FlashStoreAndRetrieve
+11/29/2025 13:11:47 Edited file Arduino/libraries/FlashStorage-master/examples/StoreNameAndSurname
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyAction
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyRemote
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyRemoteChannel
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifySpeed
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyWiFi
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyWiFiChannel
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Test
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Default/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/Crawl
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/CrawlAdvanced
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/MoveLeg
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/Speed
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/TwistBody
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Examples/TwistBodyAdvanced
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyRemote/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/ModifyRemoteChannel/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/FNHR/examples/Test/Robot
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/extras
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Gamepad
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/KeylayoutTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Mouse
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/RawHID
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/SurfaceDial
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/System
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard/BootKeyboard
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard/ImprovedKeyboard
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard/KeyboardLed
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard/NKROKeyboard
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Keyboard/TeensyKeyboard
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/Mouse/ImprovedMouse
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/RawHID/RawHID
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/examples/RawHID/RawHIDPaintpack
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/src/KeyboardLayouts
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/src/MultiReport
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/src/port
+11/29/2025 13:11:47 Edited file Arduino/libraries/HID-Project/src/SingleReport
+11/29/2025 13:11:47 Edited file assets
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/pictures
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/src
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/ControlRelay
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/IRDispatcherDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/IRremoteExtensionTest
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/IRremoteInfo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/MicroGirs
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/MinimalReceiver
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/ReceiveAndSend
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/ReceiveDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/ReceiveDump
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/ReceiveOneAndSendMultiple
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/ReceiverTimingAnalysis
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SendAndReceive
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SendBoseWaveDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SendDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SendLGAirConditionerDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SendProntoDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SendRawDemo
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SimpleReceiver
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/SimpleSender
+11/29/2025 13:11:47 Edited file Arduino/libraries/IRremote/examples/UnitTest
+11/29/2025 13:11:48 Edited file assets/Audio
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/assets
+11/29/2025 13:11:48 Edited file assets/ShopifyThemes/desktop.ini
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/assets/images
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/docs/doxygen
+11/29/2025 13:11:48 Edited file assets/Audio/67560^alarma.mp3
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/docs/doxygen/html
+11/29/2025 13:11:48 Edited file assets/ShopifyThemes
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/docs
+11/29/2025 13:11:48 Edited file assets/Audio/80807^BurglarAlarm.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/44216^alarm.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/86502^alarm.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/97744^ALARM.mp3
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/docs/doxygen/html/search
+11/29/2025 13:11:48 Edited file assets/Audio/86502^alarm (1).mp3
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/BlynkIrRemote
+11/29/2025 13:11:48 Edited file assets/Audio/audio.mp3
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/CommonAcControl
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/ControlSamsungAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/DumbIRRepeater
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRGCSendDemo
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRGCTCPServer
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRMQTTServer
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRrecvDemo
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRrecvDump
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRrecvDumpV2
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRrecvDumpV3
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRsendDemo
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRsendProntoDemo
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/Web-AC-control/data
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/src/locale
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keyboard
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keyboard/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keyboard/examples/Serial
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/CustomKeypad
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_GUI-master/Document
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Document
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_01_clear_screen
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_01_clear_screen/clear_Screen
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_02_colligate_test/colligate_test
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_03_display_string/display_string
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_04_display_picture/display_picture
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_05_display_scroll/display_scroll
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_06_read_piexl/read_piexl
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/IRServer
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/JVCPanasonicSendDemo
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/LGACSend
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/SmartIRRepeater
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnArgoAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnDaikinAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnFujitsuAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnGreeAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnKelvinatorAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnMitsubishiAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnMitsubishiHeavyAc
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnPanasonicAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnToshibaAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/TurnOnTrotecAC
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/examples/Web-AC-control
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_07_show_bmp_picture/show_bmp_picture
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_07_show_bmp_picture/show_bmp_picture/PIC_240x320
+11/29/2025 13:11:48 Edited file Arduino/libraries/LiquidCrystal_I2C/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/LiquidCrystal_I2C/examples/CustomChars
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_PlatformIO
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/test
+11/29/2025 13:11:48 Edited file Arduino/libraries/IRremoteESP8266/tools
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_PlatformIO/data
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_PlatformIO/data/testfolder
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/doc
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_GUI-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/LiquidCrystal_I2C
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keyboard/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/doc/fritzing
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/ChangeUID
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/DynamicKeypad
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/EventKeypad
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/HelloKeypad
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/HelloKeypad3
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/loopCounter
+11/29/2025 13:11:48 Edited file Arduino/libraries/Keypad-3.1.1/examples/MultiKey
+11/29/2025 13:11:48 Edited file Arduino/libraries/NTPClient/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/NTPClient/examples/Advanced
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_GUI-master/Examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106/examples/arduino-onebutton-menu-DEMO
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences/examples/Prefs2Struct
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_02_colligate_test
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_03_display_string
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_04_display_picture
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_05_display_scroll
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_06_read_piexl
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_07_show_bmp_picture
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences/tests/test
+11/29/2025 13:11:48 Edited file assets/Audio/BBL Drizzy.mp3
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_auth
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master/tests/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master/tests/src/lib
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/examples/GettingStarted
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/examples/rf24_ATTiny/rf24ping85
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/examples/scanner/output
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/examples/Usage/led_remote
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/examples_linux/extra
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/pyRF24/pyRF24
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/pyRF24/pyRF24Network/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/tests/native
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24/utility/ATTiny
+11/29/2025 13:11:48 Edited file Arduino/libraries/RotaryEncoder/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/RotaryEncoder/examples/AcceleratedRotator
+11/29/2025 13:11:48 Edited file Arduino/libraries/RotaryEncoder-master/examples/AcceleratedRotator
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/doc
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/doc/html
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/AvrAdcLogger
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/AnalogLogger
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/LongFileName/testFiles
+11/29/2025 13:11:48 Edited file Arduino/libraries/LCDWIKI_kbv-master/Example/Example_07_show_bmp_picture/show_bmp_picture/PIC_320x480
+11/29/2025 13:11:48 Edited file Arduino/libraries/LiquidCrystal_I2C/examples/HelloWorld
+11/29/2025 13:11:48 Edited file Arduino/libraries/LiquidCrystal_I2C/examples/SerialDisplay
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_test
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_time
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/extras/attic
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/common
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/DigitalIO/boards
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_PlatformIO/include
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_PlatformIO/lib
+11/29/2025 13:11:48 Edited file Arduino/libraries/LITTLEFS-master/examples/LITTLEFS_PlatformIO/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/ServoESP32/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/ServoESP32/examples/01-SimpleServo
+11/29/2025 13:11:48 Edited file Arduino/libraries/ServoESP32-master/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/ServoESP32-master/examples/01-SimpleServo
+11/29/2025 13:11:48 Edited file Arduino/libraries/Sim800L_Library_Revised/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/functionalityMode
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/Simpletimer-2.1.7/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/basic
+11/29/2025 13:11:48 Edited file Arduino/libraries/SmartCardReader/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/SmartCardReader/examples/IS23SC4442
+11/29/2025 13:11:48 Edited file Arduino/libraries/SPFD5408_TFT_Library/bitmaps
+11/29/2025 13:11:48 Edited file Arduino/libraries/NTPClient
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/RF24
+11/29/2025 13:11:48 Edited file Arduino/libraries/RotaryEncoder
+11/29/2025 13:11:48 Edited file Arduino/libraries/RotaryEncoder-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork
+11/29/2025 13:11:48 Edited file Arduino/libraries/ServoESP32
+11/29/2025 13:11:48 Edited file Arduino/libraries/ServoESP32-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/Sim800L_Library_Revised
+11/29/2025 13:11:48 Edited file Arduino/libraries/Simpletimer-2.1.7
+11/29/2025 13:11:48 Edited file Arduino/libraries/SimpleTimer-master
+11/29/2025 13:11:48 Edited file Arduino/libraries/SmartCardReader
+11/29/2025 13:11:48 Edited file Arduino/libraries/SPFD5408_TFT_Library
+11/29/2025 13:11:48 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples/graphicstest
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/DumpInfo
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/firmware_check
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/FixBrickedUID
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/MifareClassicValueBlock
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/MinimalInterrupt
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/Ntag216_AUTH
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/ReadAndWrite
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/ReadNUID
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/ReadUidMultiReader
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/rfid_default_keys
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/rfid_read_personal_data
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/rfid_write_personal_data
+11/29/2025 13:11:48 Edited file Arduino/libraries/MFRC522-1.4.10/examples/RFID-Cloner
+11/29/2025 13:11:48 Edited file Arduino/libraries/SPFD5408-master/adafruit_docs
+11/29/2025 13:11:48 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals
+11/29/2025 13:11:48 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals/graphicstest
+11/29/2025 13:11:48 Edited file Arduino/libraries/spin-timer/cmake
+11/29/2025 13:11:48 Edited file Arduino/libraries/spin-timer/doc/html
+11/29/2025 13:11:48 Edited file Arduino/libraries/spin-timer/doc/html/search
+11/29/2025 13:11:48 Edited file Arduino/libraries/spin-timer/Examples/Blink_with_Timer
+11/29/2025 13:11:48 Edited file Arduino/libraries/spin-timer/Examples/UptimeInfoAdapter/Raspbian
+11/29/2025 13:11:48 Edited file Arduino/libraries/NTPClient/examples/Basic
+11/29/2025 13:11:48 Edited file Arduino/libraries/NTPClient/examples/IsTimeSet
+11/29/2025 13:11:48 Edited file Arduino/libraries/SSD1306Ascii/doc
+11/29/2025 13:11:48 Edited file Arduino/libraries/SSD1306Ascii/doc/html
+11/29/2025 13:11:48 Edited file Arduino/libraries/SSD1306Ascii/doc/html/search
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/SSD1306Ascii/examples/AvrI2c128x32
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106/examples/WIFI-Kit-8-DEMO
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106/examples/WIFI-Kit-8-TTY-DEMO
+11/29/2025 13:11:48 Edited file Arduino/libraries/OLED_SSD1306_-_SH1106/examples/WIFI-Kit-8-WiFiScan
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences/tests
+11/29/2025 13:11:48 Edited file Arduino/libraries/Preferences/examples/StartCounter
+11/29/2025 13:11:48 Edited file Arduino/libraries/SSD1306Ascii/src/fonts
+11/29/2025 13:11:48 Edited file Arduino/libraries/TFT_HX8357-master/examples
+11/29/2025 13:11:48 Edited file Arduino/libraries/TFT_HX8357-master/examples/Demo_3D_cube
+11/29/2025 13:11:48 Edited file assets/Audio/Ain't No Rest For The Wicked.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/Believe In Me.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/Believer 8D.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/Beat It  8D Audio.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/Bohemian Rhapsody.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/Boulevard Of Broken Dreams.mp3
+11/29/2025 13:11:48 Edited file assets/Audio/Better 8D.mp3
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master/src
+11/29/2025 13:11:48 Edited file Arduino/libraries/pubsubclient-master/tests
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_basic
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_esp8266
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_large_message
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_publish_in_callback
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_reconnect_nonblocking
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/examples/mqtt_stream
+11/29/2025 13:11:49 Edited file Arduino/libraries/pubsubclient-master/tests/testcases
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/Fonts/GFXFF
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples/graphicstest
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples_linux
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/pyRF24
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/tests
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/GettingStarted_CallResponse
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/GettingStarted_HandlingData
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/pingpair_ack
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/pingpair_dyn
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/pingpair_irq
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/pingpair_irq_simple
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/pingpair_multi_dyn
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/pingpair_sleepy
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/rf24_ATTiny
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/scanner
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/starping
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/Transfer
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/TransferTimeouts
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/Usage
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/rf24_ATTiny/timingSearch3pin
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/FontUsage
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/Usage/nordic_fob
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples/Usage/pingpair_maple
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/games/LittleRookChess
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/examples_linux/interrupts
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIBlink
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/pyRF24/pyRF24Mesh
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/pyRF24/pyRF24Network
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/A2Printer
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/tests/pingpair_blocking
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/tests/pingpair_test
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/ATXMegaD3
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/Due
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/LittleWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/MRAA
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/RPi
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/SPIDEV
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/Teensy
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/Template
+11/29/2025 13:11:49 Edited file Arduino/libraries/RF24/utility/wiringPi
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder/examples/InterruptRotator
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder/examples/LimitedRotator
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder/examples/SimplePollRotator
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder/examples/SimplePollRotatorLCD
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder-master/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder-master/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/16x16Font
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder-master/examples/InterruptRotator
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder-master/examples/LimitedRotator
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder-master/examples/SimplePollRotator
+11/29/2025 13:11:49 Edited file Arduino/libraries/RotaryEncoder-master/examples/SimplePollRotatorLCD
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/extras
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/doc/ZipMsg
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/src/clib
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/BackwardCompatibility
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/bench
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/BufferedPrint
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/DirectoryFunctions
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/ExFatLogger
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/MinimumSizeSdReader
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/OpenNext
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/QuickStart
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/ReadCsvFile
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/rename
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/RtcTimestampTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/SdErrorCodes
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/SdFormatter
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/SdInfo
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/SoftwareSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/TeensyDmaAdcLogger
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/TeensyRtcTimestamp
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/TeensySdioDemo
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/TeensySdioLogger
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/UnicodeFilenames
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/UserChipSelectFunction
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/UserSPIDriver
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/A2Printer
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/AnalogBinLogger
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/dataLogger
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/fgets
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/formatting
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/getline
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/LongFileName
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/LowLatencyLogger
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/LowLatencyLoggerADXL345
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/LowLatencyLoggerMPU6050
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/PrintBenchmark
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/RawWrite
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/ReadCsv
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/ReadCsvArray
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/ReadCsvStream
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/ReadWrite
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/StdioBench
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/STM32Test
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/Timestamp
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/TwoCards
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/VolumeFreeSpace
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/wipe
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/append
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/average
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/BaseExtCaseTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/benchSD
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/bufstream
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/cin_cout
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/eventlog
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/fgetsRewrite
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/HelloWorld
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/MiniSerial
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/PrintBenchmarkSD
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/readlog
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/SD_Size
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/SdFatSize
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/examples/examplesV1/#attic/StreamParseInt
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/src/clib
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/examples/uRTCLib_deepsleep
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/examples/uRTCLib_deepsleep
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/Documentation
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/Arduino
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/Arduino/URTouch_ButtonTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/extras/USB_Host_Shield
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/chipKit/URTouch_ButtonTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/TI LaunchPads (Energia)/URTouch_ButtonTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/DigitalIO
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/ExFatLib
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/FsLib
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/iostream
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/SdCard
+11/29/2025 13:11:49 Edited file Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/hardware/arm
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/Documentation
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32/examples/02-ServoPotentiometer
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32/examples/03-MultipleServos
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32/examples/04-SimpleServoAngles
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32-master/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32-master/examples/02-ServoPotentiometer
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32-master/examples/03-MultipleServos
+11/29/2025 13:11:49 Edited file Arduino/libraries/ServoESP32-master/examples/04-SimpleServoAngles
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/images
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/getInformations
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/getTimeRTC
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/GSM_Coordinates
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/readSms
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/readSmsAndFilterNumber
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/sendSms
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/setPin
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/sleepMode
+11/29/2025 13:11:49 Edited file Arduino/libraries/Sim800L_Library_Revised/examples/updateRtcWithGSM
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/hardware/arm
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/cpld
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/callback
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/callback_manager
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/huge_amount_of_callbacks
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/multiple_callbacks
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/multiple_callbacks_limit_reset
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/RunOnce
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/simple_limited_callback
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/simpletimer_manager
+11/29/2025 13:11:49 Edited file Arduino/libraries/Simpletimer-2.1.7/examples/single_callback
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/hx8340b/8
+11/29/2025 13:11:49 Edited file Arduino/libraries/SmartCardReader/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9325d/alt
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9341/8
+11/29/2025 13:11:49 Edited file Arduino/libraries/SmartCardReader/examples/IS24C02A
+11/29/2025 13:11:49 Edited file Arduino/libraries/SmartCardReader/examples/IS24C16A
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ssd1963/480
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/st7735/std
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/Documentation
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/examples/UTFT_Buttons_Bitmap_Demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/hardware/arm
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/examples/vr_sample_bridge
+11/29/2025 13:11:49 Edited file Arduino/LMSHackerPro
+11/29/2025 13:11:49 Edited file Arduino/Other/Arduino-Keyboard-Macros
+11/29/2025 13:11:49 Edited file Arduino/Other/Arduino-Keyboard-Macros/Keyboard Function Templates
+11/29/2025 13:11:49 Edited file Arduino/Other/ESP8266NodeBoilerplate/data
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/2-10_Key_SSD1306_Macro_Keyboard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Arduino Self Executing USB Template/badusb_interpreter
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/IR Remote Template/Arduino_Programmable_IR_Remote_Template
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples/rotationtest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples/tftbmp
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples/tftbmp_shield
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples/tftpaint
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408_TFT_Library/examples/tftpaint_shield
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Nodes/ESP8266Node
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/PasswordStealingUSB/Assets
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/RotaryEncoder IR Transmitter/RotaryEncoder-IR-Transmitter-Template
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Self Executeable Keyboards/Arduino Self Executing USB Template
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Self Executeable Keyboards/Arduino Self Executing USB Template/badusb_interpreter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Circuit
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data/web
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data/web/js
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/Adafruit_DotStar-1.1.4
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton/Buttons
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/old_web_converter
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/bitmaps
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/web_converter/css_html_js_minify
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface/js
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/spfd5408_calibrate
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/spfd5408_graphicstest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/spfd5408_rotationtest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/spfd5408_tftbmp
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/spfd5408_tftpaint
+11/29/2025 13:11:49 Edited file Arduino/Receivers/DECODER-TOOL
+11/29/2025 13:11:49 Edited file Arduino/Receivers/DECODER-TOOL/IRDecoder
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals/rotationtest
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals/tftbmp
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals/tftbmp_shield
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals/tftpaint
+11/29/2025 13:11:49 Edited file Arduino/libraries/SPFD5408-master/examples/adafruit_originals/tftpaint_shield
+11/29/2025 13:11:49 Edited file Arduino/Receivers/Desktop IR Receiver Template/Arduino_Desktop_Receiver_Template
+11/29/2025 13:11:49 Edited file Arduino/Receivers/DesktopIrReceiver Personal/DesktopIrReceiver
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/doc
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/Examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/tests
+11/29/2025 13:11:49 Edited file Arduino/Remotes/GodsHexRemote
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/doc/model
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/doc/pic
+11/29/2025 13:11:49 Edited file Arduino/Remotes/IR Remotes/IR Remote Template
+11/29/2025 13:11:49 Edited file Arduino/Remotes/IR Remotes/IR Remote Template/Arduino_Programmable_IR_Remote_Template
+11/29/2025 13:11:49 Edited file Arduino/Remotes/NRF Remotes/Arduino NRF Joystick Remote Template
+11/29/2025 13:11:49 Edited file Arduino/ServerRemote/Backend
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/Examples/DoubleStrobeBlink_with_Timer
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/Examples/SimpleCounter
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/Examples/UptimeInfoAdapter
+11/29/2025 13:11:49 Edited file Arduino/ServerRemote/Backend/actions
+11/29/2025 13:11:49 Edited file Arduino/libraries/spin-timer/Examples/UptimeInfoAdapter/STM32Cube
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/extras
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/doc/MainPage
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/AvrI2c128x64
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/cmp5x7Fonts
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/DisplayRotationSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/DisplayRotationWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/FontSamplesSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/FontSamplesWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/HelloWorldAvrI2c
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/HelloWorldSH1106Spi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/HelloWorldSoftSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/HelloWorldSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/HelloWorldWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/InvertTextSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/InvertTextWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/LetterSpacingSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/LetterSpacingWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/print5x7Fonts
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/ProportionalFormSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/ProportionalFormWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/ScrollingSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/ScrollingWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/SixAdcFieldsSpi
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/SixAdcFieldsWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/SlowScrollWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/SmoothScrollWire
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/SoftSpi128x32
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/SoftSpi128x64
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/Spi128x32
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/Spi128x64
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/Spi128x64SH1106
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/TickerAdcDemo
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/TickerTextDemo
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/Wire128x32
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/Wire128x64
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/examples/Wire128x64SH1106
+11/29/2025 13:11:49 Edited file Arduino/libraries/SSD1306Ascii/src/utility
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/extras
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/fontconvert
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/Fonts
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Draw_SDCard_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Flash_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Free_Font_Demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Graph_2
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/graphicstest_240x320
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/graphicstest_320x480
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/HX8357_Char_times
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/HX8357_Padding_demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Mandlebrot
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Meter_ring_HX8357_1
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Pong_v2
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/Spiro_2
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Clock
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Clock_Digital2
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Ellipse
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Meter_4
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Meters
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Print_Test
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_Rainbow
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/TFT_String_Align
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/UTFT_demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/UTFT_Demo_480x320
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/examples/UTFT_demo_fast_2
+11/29/2025 13:11:49 Edited file assets/Audio/Burn It Down (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Can't Stop.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Bring Me To Life.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Chop Suey!.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Clint Eastwood.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Chandelier (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Counting stars (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Day 'N' Nite.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Coldplay - Viva La Vida (Official Video).mp3
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFT_HX8357-master/Fonts/TrueType
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/assets
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/bitmaps
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples/rotationtest
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples/tftbmp
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples/tftbmp_shield
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples/tftpaint
+11/29/2025 13:11:49 Edited file Arduino/libraries/TFTLCD-Library-master/examples/tftpaint_shield
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/extras
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/games
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/FPS
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/GraphicsTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/HelloWorld
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/IconMenu
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/PrintUTF8
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/ScreenShot
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/SelectionList
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/Shennong
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/U8g2Logo
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/UpdateArea
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/full_buffer/Weather
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/games/SpaceTrash
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUICountDown
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIInput2BtnBounce2
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIInput3BtnBounce2
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIInput3BtnWithU8g2
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIInputSimpleRotary
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIInputVersatileRotaryEncoder
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIMinimal
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/mui/MUIStopwatch
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/ButtonEmoticon
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Chinese
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/ClipWindow
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Clock
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/ContrastTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Devanagari
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/DirectAccess
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/DrawLog
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/ExtUTF8
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/FlipMode
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/FPS
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/GraphicsTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/HelloWorld
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/IconMenu
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Japanese
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Korean
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/LoadFromSD
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/MechCount
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/PowerSaveTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/PrintHelloWorld
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/PrintProgmem
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/PrintUTF8
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/ScrollingText
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/SelectionList
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Shennong
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/StateBufferLoop
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Terminal
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/U8g2Logo
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/UpdatePartly
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/Weather
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/XBM
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/page_buffer/XORTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/ArduboyTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/FlipMode
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/GraphicsTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/HelloWorld
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/MessageBox
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8g2/examples/u8x8/Terminal
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/extras
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Chess
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Console
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/F
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/FPS
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/GraphicsTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/HelloWorld
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Menu
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/PrintTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Rotation
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Scale
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/TextRotX
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Touch4WSetup
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/Touch4WTest
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/U8gLogo
+11/29/2025 13:11:49 Edited file Arduino/libraries/U8glib/examples/XBM
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/examples/uRTCLib_example
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/examples/uRTCLib_example_full
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/examples/uRTCLib_example_setAddr
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.0/examples/uRTCLib_set_print_Date_Time
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/src
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/examples/uRTCLib_example
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/examples/uRTCLib_example_full
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/examples/uRTCLib_example_setAddr
+11/29/2025 13:11:49 Edited file Arduino/libraries/uRTCLib-6.6.1/examples/uRTCLib_set_print_Date_Time
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/hardware
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/License
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/chipKit
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/TI LaunchPads (Energia)
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/Arduino/URTouch_Calibration
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/Arduino/URTouch_QuickDraw
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/Arduino/URTouch_QuickPaint
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/chipKit/URTouch_Calibration
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/chipKit/URTouch_QuickDraw
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/chipKit/URTouch_QuickPaint
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/TI LaunchPads (Energia)/URTouch_Calibration
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/TI LaunchPads (Energia)/URTouch_QuickDraw
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/examples/TI LaunchPads (Energia)/URTouch_QuickPaint
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/hardware/avr
+11/29/2025 13:11:49 Edited file Arduino/libraries/URTouch/hardware/pic32
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/hardware
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/License
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/Tools
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Bitmap_128x128
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_CPLD_PageSwitching
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_128x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_160x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_220x176
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_220x176_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_320x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_320x240_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_400x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_480x272
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_480x320
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Demo_800x480
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Rotate_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_Textrotation_Demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (ARM) + Teensy/UTFT_ViewFont
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Bitmap_128x128
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_CPLD_PageSwitching
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_128x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_160x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_220x176
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_220x176_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_320x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_320x240_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_400x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_480x272
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_480x320
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Demo_800x480
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Leonardo_Demo_320x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Rotate_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_Textrotation_Demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/Arduino (AVR)/UTFT_ViewFont
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Bitmap_128x128
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_128x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_160x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_220x176
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_220x176_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_320x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_320x240_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_400x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_480x272
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_480x320
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Demo_800x480
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Rotate_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_Textrotation_Demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/chipKit/UTFT_ViewFont
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Demo_160x128_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Demo_220x176
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Demo_220x176_Serial
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Demo_320x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Demo_400x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Demo_480x320
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Rotate_Bitmap
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_Textrotation_Demo
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/examples/TI LaunchPads (Energia)/UTFT_ViewFont
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/hardware/avr
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/hardware/pic32
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/hx8340b
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/hx8347a
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/hx8352a
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/hx8353c
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9325c
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9325d
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9327
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9341
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9481
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9486
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/pcf8833
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/r61581
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/s1d19122
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/s6d0164
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/s6d1121
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ssd1289
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ssd1963
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/st7735
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/hx8340b/s
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9325d/default
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9341/16
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9341/s4p
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ili9341/s5p
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ssd1963/800
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT/tft_drivers/ssd1963/800alt
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/examples
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/hardware
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/License
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/examples/UTFT_Buttons_Demo_320x240
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/hardware/avr
+11/29/2025 13:11:49 Edited file Arduino/libraries/UTFT_Buttons/hardware/pic32
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/image
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/examples/vr_sample_check_baud_rate
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/examples/vr_sample_control_led
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/examples/vr_sample_multi_cmd
+11/29/2025 13:11:49 Edited file Arduino/libraries/VoiceRecognitionV3/examples/vr_sample_train
+11/29/2025 13:11:49 Edited file Arduino/Other
+11/29/2025 13:11:49 Edited file Arduino/PersonalCameraWebServerTemplate
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies
+11/29/2025 13:11:49 Edited file Arduino/PhotoResistor
+11/29/2025 13:11:49 Edited file Arduino/Potentiometer_Receiver
+11/29/2025 13:11:49 Edited file Arduino/Potentiometer_Transmitter
+11/29/2025 13:11:49 Edited file Arduino/PrintUTF8
+11/29/2025 13:11:49 Edited file Arduino/Receivers
+11/29/2025 13:11:49 Edited file Arduino/Remotes
+11/29/2025 13:11:49 Edited file Arduino/rgb_led
+11/29/2025 13:11:49 Edited file Arduino/RotaryEncoder_degrees
+11/29/2025 13:11:49 Edited file Arduino/ServerRemote
+11/29/2025 13:11:49 Edited file Arduino/Other/ESP8266NodeBoilerplate
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Arduino Self Executing USB Template
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/ArduinoPokemonLiveStreamKeyboard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Base8Keyboard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/BatchFileKeyboard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Bluetooth-EEPROM-Keyboard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/CatToy
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/cellphone_code
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/CodeRed
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/DesktopHelper
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/DesktopMacroV3
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/ESP8266ChatGPTBoilerplate
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/ESP8266-WebSocket-NodeJS
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/GodsHexRemote
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/GPS
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/IR Remote Template
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/IRDecoder
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/LCD_ultrasonic
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/LeumasAssistant
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/LeumasFaceTrackingGun
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/LeumasGlass
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/LeumasSerialPortReader
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/macroOledKeyboard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Master-NRF
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Neurosity1BasicLED
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/NodeJS-IR-Receiver
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/NodeJSIRTransmitter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/NodeJSKeyboardExecuter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/NodeJS-NRF-Transmitter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Nodes
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/PanTiltSerialPortGUI
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/PasswordStealingUSB
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/PingIPESP8266
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Potentiometer_Receiver
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Potentiometer_Transmitter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/RotaryEncoder IR Transmitter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/SDCardIrTransmitter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Self Executeable Keyboards
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/SerialPortRemote
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/SmartLightReactESPTemplate
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/UniversalTouchscreen
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/WebSocket-IOT-Give-Credentials
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/WifiCredentialsUpload
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/WifiCredentialsUploadRGBLED
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Arduino Self Executing USB Template/wifidiscord
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Arduino Self Executing USB Template/wifidiscord2
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Nodes/MasterController
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/PasswordStealingUSB/PasswordStealingUSB
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/PasswordStealingUSB/UploadToSDCard
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Self Executeable Keyboards/Arduino Self Executing USB Template/wifidiscord2
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/Reset_Sketch
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/data/web/lang
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/Adafruit_NeoPixel-1.7.0
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/ArduinoJson-v5.13.5
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/DS3231-1.0.3
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/esp8266-oled-ssd1306-4.1.0
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/my92xx-3.0.3
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton/Events
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/esp8266_deauther/src/SimpleButton/libs
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/vendor_list_updater
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/utils/web_converter
+11/29/2025 13:11:49 Edited file Arduino/PersonalCopies/Wifi Jammer ESP8266 Template/Code/esp8266_deauther-2/web_interface/lang
+11/29/2025 13:11:49 Edited file Arduino/Receivers/Desktop IR Receiver Template
+11/29/2025 13:11:49 Edited file Arduino/Receivers/DesktopIrReceiver Personal
+11/29/2025 13:11:49 Edited file Arduino/Receivers/Pan Tilt NRF Laser Template
+11/29/2025 13:11:49 Edited file Arduino/Remotes/Infinity_NRF_Joystick
+11/29/2025 13:11:49 Edited file Arduino/Remotes/IR Remotes
+11/29/2025 13:11:49 Edited file Arduino/Remotes/NRF Remotes
+11/29/2025 13:11:49 Edited file Arduino/ServerRemote/Backend/configs
+11/29/2025 13:11:49 Edited file assets/Audio/Deoxys 4 Bit Theme.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Do I Wanna Know.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Demo+Clip-a55a2fac-b652-4ef9-8ad0-d3d488520596.wav
+11/29/2025 13:11:49 Edited file assets/Audio/Elevator Music.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Emperor's New Clothes.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Don't Threaten Me With A Good Time.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Everlong.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Explore.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/engravings.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Famous Last Words.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Feel Good Inc. 12D.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Falling Down.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Fireflies (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/get you the moon 8D.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Feel Good Inc.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Gives You Hell.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/golden hour (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Giratina Battle Music.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Harder, Better, Faster, Stronger.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Headstrong.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Hall of Fame (8D AUDIO) ft. will.i.am.mp3
+11/29/2025 13:11:49 Edited file Arduino/desktop.ini
+11/29/2025 13:11:49 Edited file assets/Audio/Heathens (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/hide n seek.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Heat Waves (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/I Don't Care' feat.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/I Hate Everything About You.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/High Hopes (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/I'm Not Okay.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Immortals.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/I Love You So.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Just Lose It.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Let Me Down Slowly (8D Audio).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/In The End.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Lose Yourself (8D AUDIO.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Love From The Other Side.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Lifestyles of the Rich & Famous.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/Mine (8D AUDIO).mp3
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-browsing-heavy-metal-tools-851.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-cement-mixer-stops-813.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-arcade-game-jump-coin-216.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-construction-tool-box-829.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-construction-welder-812.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-construction-measurement-tool-handling-832.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-electric-screwdriver-on-838.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-electrical-drill-855.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-electric-fence-alert-2969.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-final-level-bonus-2061.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-futuristic-door-open-183.mp3
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-fast-sci-fi-bleep-903.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-futuristic-electricity-sparks-2598.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-futuristic-sci-fi-computer-ambience-2507.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-futuristic-door-opening-906.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-futuristic-transition-sweep-2634.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-game-show-wrong-answer-buzz-950.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-futuristic-technology-workshop-ambience-2506.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-glitch-sci-fi-rewind-transition-1093.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-glitch-static-1457.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-garage-pneumatic-screwer-817.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-hammer-bounce-in-the-forge-836.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-hammer-hit-on-wood-830.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-glitchy-sci-fi-bass-suspense-686.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-interface-sci-fi-expand-or-zoom-913.wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-intro-text-glitch-2950 (1).wav
+11/29/2025 13:11:49 Edited file assets/Audio/mixkit-interface-device-click-2577.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-machine-activation-short-3180.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-machine-grinder-working-822.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-intro-text-glitch-2950.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-mechanical-gas-release-alert-849.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-mechanical-twist-tool-859.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-metal-hammer-hit-833.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-metal-tool-drop-835.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-modern-technology-select-3124.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-negative-tone-interface-tap-2569.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-metal-tools-search-831.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-opening-tool-drawer-hard-834.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-page-turn-single-1104.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-on-or-off-light-switch-tap-2585.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-quick-win-video-game-notification-269.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-retro-confirmation-tone-2860.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-quick-drilling-machine-hum-815.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-robotic-insect-buzz-332.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-saw-cut-machine-working-821.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-robot-says-thank-you-381.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-battle-laser-shots-2783.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-bleep-alarm-909.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-scanning-sci-fi-alarm-905.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-click-900 (1).wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-click-900.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-cinematic-melodic-horror-transition-897.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-error-alert-898.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-game-screech-893.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-confirmation-914.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-interface-robot-click-901.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-positive-notification-266.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-gear-turn-885.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-robot-speaking-289.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-warp-slide-3113.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-reject-notification-896.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-screwing-plastic-screech-854.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-search-in-a-plastic-container-852.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-sci-fi-waves-scanner-907.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-short-laser-gun-shot-1670.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-small-electric-glitch-2595 (1).wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-select-click-1109.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-static-electric-glitch-2597.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-tape-measure-extend-810.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-small-electric-glitch-2595.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-technology-computer-calculations-3122.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-typewriter-soft-click-1125.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-tape-measurement-retract-839.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-unknown-technology-chirp-pattern-3125.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-user-interface-zoom-in-2618.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-ui-zoom-out-2619.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-water-sci-fi-bleep-902.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-wood-hammer-put-down-837.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-user-interface-zoom-out-2620.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-wrong-electricity-buzz-955.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-wrong-long-buzzer-954.wav
+11/29/2025 13:11:50 Edited file assets/Audio/mixkit-wrench-metal-noises-853.wav
+11/29/2025 13:11:50 Edited file assets/Audio/Never Gonna Give You Up (8D Audio).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Nightcall.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Never Gonna Give You Up (8D Audio) (2).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Perfect (8D AUDIO).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Pokemon Black and Whtie Theme Song Full.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Payphone (8D Audio).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Pokémon Red, Blue and Yellow - Battle! Trainer Red Music [4bit].mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Pumped Up Kicks.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Pokémon Legends_ Arceus - Arceus Battle Music (HQ).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/reversed_audio (1).wav
+11/29/2025 13:11:50 Edited file assets/Audio/reversed_audio (2).wav
+11/29/2025 13:11:50 Edited file assets/Audio/Radioactive (8D AUDIO).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/reversed_audio (4).wav
+11/29/2025 13:11:50 Edited file assets/Audio/reversed_audio (5).wav
+11/29/2025 13:11:50 Edited file assets/Audio/reversed_audio (3).wav
+11/29/2025 13:11:50 Edited file assets/Audio/Rude (8D AUDIO).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Seven Nation Army.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/reversed_audio.wav
+11/29/2025 13:11:50 Edited file assets/Audio/SLOW DANCING IN THE DARK.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Smells Like Teen Spirit.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Skyfall (Lyrics)  8D Audio.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Somebody Told Me.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Something About Us.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/Smooth Criminal  8D Audio.mp3
+11/29/2025 13:11:50 Edited file assets/Audio/speech (1).wav
+11/29/2025 13:11:50 Edited file assets/Audio/speech (10).mp3
+11/29/2025 13:11:50 Edited file assets/Audio/speech (1).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (2).wav
+11/29/2025 13:11:51 Edited file assets/Audio/speech (3).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (2).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (4).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (4).wav
+11/29/2025 13:11:51 Edited file assets/Audio/speech (3).wav
+11/29/2025 13:11:51 Edited file assets/Audio/speech (5).wav
+11/29/2025 13:11:51 Edited file assets/Audio/speech (6).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (5).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (8).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (9).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech (7).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech.wav
+11/29/2025 13:11:51 Edited file assets/Audio/Starboy 16D.mp3
+11/29/2025 13:11:51 Edited file assets/Audio/speech.mp3
+11/29/2025 13:11:51 Edited file assets/Audio/Take Me Out.mp3
+11/29/2025 13:11:51 Edited file assets/Audio/Team Galactic Boss Cyrus Battle Music.mp3
+11/29/2025 13:11:51 Edited file assets/Audio/synthesis.wav
+11/29/2025 13:11:51 Edited file assets/Audio/Temperature x Tokyo Drift Remix 8D.mp3
+11/29/2025 13:11:51 Edited file assets/Audio/The All-American Rejects - Gives You Hell (Official Music Video).mp3
+11/29/2025 13:11:51 Edited file assets/Audio/The Anthem.mp3
+11/29/2025 13:11:51 Edited file assets/Audio/This Ain't A Scene, It's An Arms Race.mp3
+11/29/2025 13:13:56 Edited file Servers/x.water-grass/git-worker.js
